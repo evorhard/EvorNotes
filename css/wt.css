@@ -1,0 +1,26 @@
+/* Menu Button */
+.menu-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+/* War Thunder Color Legend */
+.wt-spaded {
+    color: #1B325F;
+}
+
+.wt-unspaded {
+    color: #3A89C9;
+}
+
+.wt-researching {
+    color: #9CC4E4;
+}
+
+.wt-premium {
+    color: #F26C4F;
+}
