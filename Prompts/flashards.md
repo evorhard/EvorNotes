@@ -1,6 +1,6 @@
 ### Prompt
 
-Please explain the following subjects in a verbose but brief way:
+Please explain the following subjects in a detailed but verbose way:
 
 - Placeholder
 
