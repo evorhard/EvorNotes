@@ -1,16 +1,21 @@
+/* Font Changes */
+body {
+  font-family: "Roboto", serif;
+}
+
 /* War Thunder Color Legend */
 .wt-spaded {
-    color: #1B325F;
+  color: #1b325f;
 }
 
 .wt-unspaded {
-    color: #3A89C9;
+  color: #3a89c9;
 }
 
 .wt-researching {
-    color: #9CC4E4;
+  color: #9cc4e4;
 }
 
 .wt-premium {
-    color: #F26C4F;
+  color: #f26c4f;
 }
