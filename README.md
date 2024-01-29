@@ -1,4 +1,5 @@
-# Articles, Notes and Such
+# Notes
+_And other stuff_
 ## Notes
 
 Just a collection of notes that I would rather have full control over as far as styling and layout goes.
