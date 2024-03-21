@@ -3,10 +3,6 @@
 33 Lancia Fulvia Coupe [323]
 =-=-=-=-=
 
-23 suzuki cara
-23 suzuki cara
-23 honda jazz
-
 23 dodge daytona turbo z
 23 dodge caravan turbo
 23 citroen c5 aircross puretech 130
