@@ -20,10 +20,6 @@ Lotus Elise Sprint [323]
 Dodge Demon Roadster [323]
 =-=-=-=-=
 
-21 chrysler town and country
-21 chrysler sebring convertible
-21 chrysler sebring
-
 22 nissan leaf
 23 skoda fabia vrs
 23 mercury cougar xr-7
@@ -36,10 +32,6 @@ Dodge Demon Roadster [323]
 /  /
 Mazda Roadster NR-A [323]
 =-=-=-=-=
-
-16 chevrolet monte carlo ss
-17 volkswagen golf
-17 subaru vivio bistro
 
 17 subaru impreza
 17 bmw 524td
