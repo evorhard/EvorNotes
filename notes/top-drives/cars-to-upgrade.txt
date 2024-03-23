@@ -1,8 +1,54 @@
 =-=-=-=-=
-/ Yellowbird 6 Italy : Round 8 /
-60 Lamborghini Countach 25th Anniversario [332]
+/  /
+Lotus Elise Sprint [323]
 =-=-=-=-=
 
-46 land rover discovery sport
-46 honda s2000 type s
-46 citroen ds5 ls r
+30 amc eagle wagon
+31 nissan skyline rs-x (r30)
+31 mercury capri asc mclaren
+
+32 land rover defender 110
+33 volvo 780 turbo coupe
+33 mitsubishi asx
+
+34 alfa romeo 166
+35 mazda xela sport 2.3
+35 lotus europa special
+
+35 fiat ritmo 130tc abarth
+36 holden astra gtc sport (pj)
+36 ford maya
+
+=-=-=-=-=
+/  /
+Dodge Demon Roadster [323]
+=-=-=-=-=
+
+21 chrysler town and country
+21 chrysler sebring convertible
+21 chrysler sebring
+
+22 nissan leaf
+23 skoda fabia vrs
+23 mercury cougar xr-7
+
+23 chrysler by chrysler 360 (ch)
+24 pontiac grand amc
+25 volvo 440 glt
+
+=-=-=-=-=
+/  /
+Mazda Roadster NR-A [323]
+=-=-=-=-=
+
+15 dodge ram van street van
+16 renault 12 gordini
+16 nissan skyline gt turbo (r30)
+
+16 chevrolet monte carlo ss
+17 volkswagen golf
+17 subaru vivio bistro
+
+17 subaru impreza
+17 bmw 524td
+18 peugeot 1007
