@@ -3,10 +3,6 @@
 Lotus Elise Sprint [323]
 =-=-=-=-=
 
-30 amc eagle wagon
-31 nissan skyline rs-x (r30)
-31 mercury capri asc mclaren
-
 32 land rover defender 110
 33 volvo 780 turbo coupe
 33 mitsubishi asx
@@ -40,10 +36,6 @@ Dodge Demon Roadster [323]
 /  /
 Mazda Roadster NR-A [323]
 =-=-=-=-=
-
-15 dodge ram van street van
-16 renault 12 gordini
-16 nissan skyline gt turbo (r30)
 
 16 chevrolet monte carlo ss
 17 volkswagen golf
