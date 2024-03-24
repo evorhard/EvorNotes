@@ -1,25 +1,4 @@
 =-=-=-=-=
 /  /
-Lotus Elise Sprint [323]
+ []
 =-=-=-=-=
-
-32 land rover defender 110
-33 volvo 780 turbo coupe
-33 mitsubishi asx
-
-34 alfa romeo 166
-35 mazda xela sport 2.3
-35 lotus europa special
-
-35 fiat ritmo 130tc abarth
-36 holden astra gtc sport (pj)
-36 ford maya
-
-=-=-=-=-=
-/  /
-Dodge Demon Roadster [323]
-=-=-=-=-=
-
-23 chrysler by chrysler 360 (ch)
-24 pontiac grand amc
-25 volvo 440 glt
