@@ -1,72 +1,72 @@
 PARTS
 
-- License Plate Design: Empty
-- Paint Design: (Sedan Only) No.#110 Emousse Hillclimb Livery
-+ Body: Sedan Unibody
-    - Navigation Unit: Stock
-    - Interior Design: Active
-    - Horn: Horn 7
-    - Backlight License Plate: Empty
-    - Front Bumper Accessory: Empty
-    - Front Left Fender: Race Front Left Fender
-    - Front Right Fender: Race Front Right Fender
-    - Fuel Tank: Gasoline Fuel Tank
-    - Windshield: Windshield
-    - Backlight: Backlight
-    - Left Headlight: Vivace Left Headlight
-    - Right Headlight: Vivace Right Headlight
-    - Hood: Carbon Fiber Vivace Arsenic Hood (Painted)
-    - Trunk Floor: Trunk Floor
-    - Radiator: Ultra High Performance Radiator
-    - Passenger Seat: Empty
-    - Rear Seats: Empty
-    - Left Side Skirt: Race Left Side Skirt
-    - Right Side Skirt: Race Right Side Skirt
-    - Steering Wheel: Nomi Mod.207R Drift Wheel
-    - Chassis Stiffening: Chassis Stiffening
-    - Strut Bar: Strut Bar
-    - Tow Hitch: Empty
-    - Trim: Empty
-    - Sedan Trunk Load: Empty
-    - Undertray: Undertray
-    + Front Bumper: Race Front Bumper
-        - Front Licence Plate: Empty
-    + Rear Bumper: Emousse Race Rear Bumper
-        - Rear License Plate: Empty
-    + Interior: Interior
-        - Screen Branding: Vivace (ICE)
-        - Shifter: Automatic Shifter
-        - Shift Light: Empty
-        + Gauge: Basic
-            - Tacho Scale: 8000
-            - Speedo Scale: 260kph/160mph
-    + Front Left Door: Front Left Door
-        - Front Left Door Glass: Front Left Lightweight Door Glass
-        - Front Left Door Panel: Empty
-        - Left Mirror: Empty
-    + Front Right Door: Front Right Door
-        - Front Right Door Glass: Front Right Lightweight Door Glass
-        - Front Right Door Panel: Empty
-        - Right Mirror: Empty
-    + Rear Left Door: Rear Left Door
-        - Rear Left Door Glass: Rear Left Door Glass
-        - Rear Left Door Panel: Rear Left Door Panel
-        - Left Door Fender Flare: Race Rear Left Door Fender Flare
-    + Rear Right Door: Rear Right Door
-        - Rear Right Door Glass: Rear Right Door Glass
-        - Rear Right Door Panel: Rear Right Door Panel
-        - Right Door Fender Flare: Race Rear Right Door Fender Flare
-    + Driving & Safety Electronics: Race Electronics
-        - Anti-Lock Braking System: Anti-Lock Braking System
-        - Stability Control: Empty
-        - Traction Control: Empty
-    + Engine: 2.5L I5 Engine
-        - Nitrous Oxide System: Empty
-        - Engine Long Block: Stage 3 Long Block
-        - Engine Mounts: Ultra Heavy Duty Engine Mounts
-        - Exhaust: Race Exhaust Sedan
-        - Intake: Stage 3 Turbocharger
-        - Oil Pan: Race Oil Pan
+                                                - License Plate Design: Empty
+                                                - Paint Design: (Sedan Only) No.#110 Emousse Hillclimb Livery
+                                                + Body: Sedan Unibody
+                                                    - Navigation Unit: Stock
+                                                    - Interior Design: Active
+                                                    - Horn: Horn 7
+                                                    - Backlight License Plate: Empty
+                                                    - Front Bumper Accessory: Empty
+                                                    - Front Left Fender: Race Front Left Fender
+                                                    - Front Right Fender: Race Front Right Fender
+                                                    - Fuel Tank: Gasoline Fuel Tank
+                                                    - Windshield: Windshield
+                                                    - Backlight: Backlight
+                                                    - Left Headlight: Vivace Left Headlight
+                                                    - Right Headlight: Vivace Right Headlight
+                                                    - Hood: Carbon Fiber Vivace Arsenic Hood (Painted)
+                                                    - Trunk Floor: Trunk Floor
+                                                    - Radiator: Ultra High Performance Radiator
+                                                    - Passenger Seat: Empty
+                                                    - Rear Seats: Empty
+                                                    - Left Side Skirt: Race Left Side Skirt
+                                                    - Right Side Skirt: Race Right Side Skirt
+                                                    - Steering Wheel: Nomi Mod.207R Drift Wheel
+                                                    - Chassis Stiffening: Chassis Stiffening
+                                                    - Strut Bar: Strut Bar
+                                                    - Tow Hitch: Empty
+                                                    - Trim: Empty
+                                                    - Sedan Trunk Load: Empty
+                                                    - Undertray: Undertray
+                                                    + Front Bumper: Race Front Bumper
+                                                        - Front Licence Plate: Empty
+                                                    + Rear Bumper: Emousse Race Rear Bumper
+                                                        - Rear License Plate: Empty
+                                                    + Interior: Interior
+                                                        - Screen Branding: Vivace (ICE)
+                                                        - Shifter: Automatic Shifter
+                                                        - Shift Light: Empty
+                                                        + Gauge: Basic
+                                                            - Tacho Scale: 8000
+                                                            - Speedo Scale: 260kph/160mph
+                                                    + Front Left Door: Front Left Door
+                                                        - Front Left Door Glass: Front Left Lightweight Door Glass
+                                                        - Front Left Door Panel: Empty
+                                                        - Left Mirror: Empty
+                                                    + Front Right Door: Front Right Door
+                                                        - Front Right Door Glass: Front Right Lightweight Door Glass
+                                                        - Front Right Door Panel: Empty
+                                                        - Right Mirror: Empty
+                                                    + Rear Left Door: Rear Left Door
+                                                        - Rear Left Door Glass: Rear Left Door Glass
+                                                        - Rear Left Door Panel: Rear Left Door Panel
+                                                        - Left Door Fender Flare: Race Rear Left Door Fender Flare
+                                                    + Rear Right Door: Rear Right Door
+                                                        - Rear Right Door Glass: Rear Right Door Glass
+                                                        - Rear Right Door Panel: Rear Right Door Panel
+                                                        - Right Door Fender Flare: Race Rear Right Door Fender Flare
+                                                    + Driving & Safety Electronics: Race Electronics
+                                                        - Anti-Lock Braking System: Anti-Lock Braking System
+                                                        - Stability Control: Empty
+                                                        - Traction Control: Empty
+                                                    + Engine: 2.5L I5 Engine
+                                                        - Nitrous Oxide System: Empty
+                                                        - Engine Long Block: Stage 3 Long Block
+                                                        - Engine Mounts: Ultra Heavy Duty Engine Mounts
+                                                        - Exhaust: Race Exhaust Sedan
+                                                        - Intake: Stage 3 Turbocharger
+                                                        - Oil Pan: Race Oil Pan
         + Engine Management: Race ECU
             - Speed Limiter: Speed Limiter Delete
         + Transmission: Race 6-Speed Sequential Transmission
