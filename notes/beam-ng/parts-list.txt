@@ -67,43 +67,43 @@ PARTS
                                                         - Exhaust: Race Exhaust Sedan
                                                         - Intake: Stage 3 Turbocharger
                                                         - Oil Pan: Race Oil Pan
-        + Engine Management: Race ECU
-            - Speed Limiter: Speed Limiter Delete
-        + Transmission: Race 6-Speed Sequential Transmission
-            - Flywheel: Ultra Light Flywheel
-            - Transfer Case: Clutchex AWD Transfer Case
-            + Front Differential: Race Limited Slip Differential
-                - Front Final Drive: Race Adjustable Front Final Drive
-                - Front Half Shafts: Front Half Shafts
-    + Front Left Quarter Glass: Front Left Quarter Glass Blanking Plate
-        - Left Race Mirror: Left Mirror
-    + Front Right Quarter Glass: Front Right Quarter Glass Blanking Plate
-        - Right Race Mirror: Right Mirror
-    + Quarter Panels: Quarter Panels
-        - Rear Left Fender Flare: Race Rear Left Fender Flare
-        - Rear Right Fender Flare: Race Rear Right Fender Flare
-        - Left Tail Light: Left Taillight
-        - Right Tail Light: Right Taillight
-    + Roll Cage: Roll Cage
-        - Left Window Net: Left Window Net
-    + Roof: Plain Roof (Colored)
-        - Roof Flasher: Empty
-    + Roof Rack: Flush Roof Rails
-        - Additional Flashers/Signs: Empty
-        - European Lightbars: Empty
-        - Roof Accessory: Empty
-        - American Lightbars: Empty
-    + Driver Seat: Front Left Race Seat Base
-        + Front Left Race Seat: Front Left Race Seat
-            - Seat Color: Red
-    + Front Suspension: Wide Track Independent Front Suspension
-        - Front Struts: Race Front Coilovers
-        - Front Sway Bar: Race Front Sway Bar
-        - Front Spindles: Front Spindles
-        + Front Brakes: Race Front Disc Brakes
-            - Front Brake Pads: Full Race Front Brake Pads
-        + Steering: Quick Ratio Race Steering
-            - Power Steering: Empty
+                                                    + Engine Management: Race ECU
+                                                        - Speed Limiter: Speed Limiter Delete
+                                                    + Transmission: Race 6-Speed Sequential Transmission
+                                                        - Flywheel: Ultra Light Flywheel
+                                                        - Transfer Case: Clutchex AWD Transfer Case
+                                                        + Front Differential: Race Limited Slip Differential
+                                                            - Front Final Drive: Race Adjustable Front Final Drive
+                                                            - Front Half Shafts: Front Half Shafts
+                                                    + Front Left Quarter Glass: Front Left Quarter Glass Blanking Plate
+                                                        - Left Race Mirror: Left Mirror
+                                                    + Front Right Quarter Glass: Front Right Quarter Glass Blanking Plate
+                                                        - Right Race Mirror: Right Mirror
+                                                    + Quarter Panels: Quarter Panels
+                                                        - Rear Left Fender Flare: Race Rear Left Fender Flare
+                                                        - Rear Right Fender Flare: Race Rear Right Fender Flare
+                                                        - Left Tail Light: Left Taillight
+                                                        - Right Tail Light: Right Taillight
+                                                        + Roll Cage: Roll Cage
+                                                            - Left Window Net: Left Window Net
+                                                        + Roof: Plain Roof (Colored)
+                                                            - Roof Flasher: Empty
+                                                        + Roof Rack: Flush Roof Rails
+                                                            - Additional Flashers/Signs: Empty
+                                                            - European Lightbars: Empty
+                                                            - Roof Accessory: Empty
+                                                            - American Lightbars: Empty
+                                                        + Driver Seat: Front Left Race Seat Base
+                                                            + Front Left Race Seat: Front Left Race Seat
+                                                                - Seat Color: Red
+                                                        + Front Suspension: Wide Track Independent Front Suspension
+                                                            - Front Struts: Race Front Coilovers
+                                                            - Front Sway Bar: Race Front Sway Bar
+                                                            - Front Spindles: Front Spindles
+                                                            + Front Brakes: Race Front Disc Brakes
+                                                                - Front Brake Pads: Full Race Front Brake Pads
+                                                            + Steering: Quick Ratio Race Steering
+                                                                - Power Steering: Empty
         + Front Wheels: 18x10 Folk ET73 Front Wheels (Black)
             - Front Tires: 275/35R18 Race Front Tires
     + Rear Suspension: Wide Track Independent Rear Suspension
