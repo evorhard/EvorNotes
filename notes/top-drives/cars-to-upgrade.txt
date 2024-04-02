@@ -1,17 +1,4 @@
 =-=-=-=-=
-/ Trading Paint: Round 1 (I) -> Round 1 /
-26 Chevrolet S-10 Blazer Xtreme [323]
-=-=-=-=-=
-
-25 mitsubishi colt gti-16v
-25 geo tracker 4-door
-27 subaru rex combi 4wd turbo
-
-27 mitsubishi starion turbo
-27 ford telstar tx5 turbo
-27 ford svt f-150 lightning
-
-=-=-=-=-=
 / Yellowbird: 2 Germany -> Round 4 /
 49 Porsche Taycan [323]
 =-=-=-=-=
