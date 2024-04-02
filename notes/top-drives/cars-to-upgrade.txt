@@ -3,14 +3,6 @@
 26 Chevrolet S-10 Blazer Xtreme [323]
 =-=-=-=-=
 
-20 ford fiesta
-20 ford escort xr3i
-21 ford ltd
-
-21 fiat abarth 850 tc corsa
-23 pontiac sunbird gt
-24 volkswagen polo gt g40
-
 25 mitsubishi colt gti-16v
 25 geo tracker 4-door
 27 subaru rex combi 4wd turbo
