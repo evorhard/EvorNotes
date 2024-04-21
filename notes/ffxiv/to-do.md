@@ -2,11 +2,36 @@
 
 ## Levels
 
-- Dragoon: 14
+- Dragoon: 19
 
 ## FFXIV To Do
 
-- [ ] (Main Quest) Eggs over Queasy
+- [ ] (Main Quest) Dread Is in the Air
+- [x] (Main Quest) Leia's Legacy
+- [x] (Main Quest) Salvaging the Scene
+- [x] (Main Quest) A Hearer Is Often Late
+- [x] (Main Quest) Migrant Marauders
+- [x] (Sidequest) The Replacement Culler
+- [x] (Sidequest) Stand-in Sentry
+- [x] (Sidequest) Swineophobia
+- [x] (Sidequest) Leves of Hawthorne
+- [x] (Lancer Quest) Lance of Destiny
+- [x] (Main Quest) Threat Level Elevated
+- [x] (Main Quest) In the Grim Darkness of the Forest
+- [x] (Main Quest) Don't Look Down
+- [x] (Sidequest) Look, but Won't Touch
+- [x] (Main Quest) You Shall Not Trespass
+- [x] (Main Quest) On to Bentbranch
+- [x] (Sidequest) Simply the Hest
+- [x] (Sidequest) Leves of Bentbranch
+- [x] (Main Quest) Spirithold Broken
+- [x] (Main Quest) A Soldier's Breakfast
+- [x] (Sidequest) Soil Despoilers
+- [x] (Sidequest) Parasite Cleave
+- [x] (Main Quest) Surveying the Damage
+- [x] (Sidequest) More than a Flesh Wound
+- [x] (Main Quest) Eggs over Queasy
+- [x] (Lancer Quest) A Dangerous Proposition
 - [x] (Main Quest) Chasing Shadows
 - [x] (Main Quest) Passing Muster
 - [x] (Sidequest) Sting in a Bottle

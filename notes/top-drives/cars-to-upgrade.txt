@@ -2,6 +2,22 @@
 48 AC Cobra 140 Charter [332]
 =-=-=-=-=
 
+30 dodge ram li'l red express truck
+30 alfa romeo spider
+31 volvo c70 d5
+
+31 bentley turbo r
+32 oldsmobile bravada
+32 nissan qashqai
+
+33 skoda superb estat 2.0 tdi
+33 honda legend 3.5 v6
+33 ds 3 convertible
+
+34 tvr tasmin 350i convertible
+35 oldsmobile achieva
+35 acura tsx sport wagon
+
 =-=-=-=-=
 45 Citroen C2-R2 Max [323]
 =-=-=-=-=
