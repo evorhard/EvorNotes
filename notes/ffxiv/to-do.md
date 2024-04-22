@@ -2,11 +2,41 @@
 
 ## Levels
 
-- Dragoon: 19
+- Dragoon: 23
 
 ## FFXIV To Do
 
-- [ ] (Main Quest) Dread Is in the Air
+- [ ] (Main Quest) The Gridanian Envoy
+- [ ] (Sidequest) Fire and Brimstone
+- [ ] (Sidequest) Moegramm Had a Little Lamb
+- [ ] (Sidequest) Where the Heart Is (Mist)
+- [ ] (Sidequest) Leves of Moraby
+- [ ] (Sidequest) What Goes Around
+- [ ] (Sidequest) Say It with Flowers
+- [ ] (Sidequest) Failure to Lunch
+- [ ] (Sidequest) Constant Carvings
+- [x] (Sidequest) A Bridge Too Full
+- [ ] (Sidequest) Whack-a-Mole
+- [ ] (Sidequest) Forbidden Island
+- [x] (Sidequest) Out to Dry
+- [x] (Sidequest) Rocks in a Hard Place
+- [ ] (Sidequest) Back in the Water
+- [ ] (Sidequest) Proper Procedure
+- [ ] (Sidequest) The Right Price
+- [ ] (Sidequest) Duty Calls
+- [ ] (Sidequest) Edelweiss, Edelweiss
+- [ ] (Sidequest) Good for What Ales You
+- [ ] (Sidequest) Lost and Found
+- [ ] (Sidequest) Licensed to Reave
+- [ ] (Sidequest) A Thousand Words
+- [x] (Sidequest) The Rats in the Wharf
+- [x] (Sidequest) Soothing the Savage Siren
+- [x] (Sidequest) A Sheepish Request
+- [x] (Sidequest) Saw That One Coming
+- [x] (Main Quest) Renewing the Covenant
+- [x] (Main Quest) Festive Endeavors
+- [x] (Main Quest) To Guard a Guardian
+- [x] (Main Quest) Dread Is in the Air
 - [x] (Main Quest) Leia's Legacy
 - [x] (Main Quest) Salvaging the Scene
 - [x] (Main Quest) A Hearer Is Often Late
