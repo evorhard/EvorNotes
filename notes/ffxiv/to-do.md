@@ -7,16 +7,18 @@
 ## FFXIV To Do
 
 - [ ] (Main Quest) The Gridanian Envoy
+- [x] (Sidequest) What Counts
+- [x] (Sidequest) Nailed It
 - [x] (Sidequest) Much Ado About Dodos
 - [x] (Sidequest) Beetle Juice
-- [ ] (Sidequest) Fire and Brimstone
+- [x] (Sidequest) Fire and Brimstone
 - [x] (Sidequest) Moegramm Had a Little Lamb
 - [x] (Sidequest) Where the Heart Is (Mist)
-- [ ] (Sidequest) Leves of Moraby
-- [ ] (Sidequest) What Goes Around
-- [ ] (Sidequest) Say It with Flowers
-- [ ] (Sidequest) Failure to Lunch
-- [ ] (Sidequest) Constant Carvings
+- [x] (Sidequest) Leves of Moraby
+- [x] (Sidequest) What Goes Around
+- [x] (Sidequest) Say It with Flowers
+- [x] (Sidequest) Failure to Lunch
+- [x] (Sidequest) Constant Carvings
 - [x] (Sidequest) A Bridge Too Full
 - [x] (Sidequest) Whack-a-Mole
 - [x] (Sidequest) Forbidden Island
