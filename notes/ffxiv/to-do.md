@@ -7,6 +7,33 @@
 ## FFXIV To Do
 
 - [ ] (Main Quest) The Gridanian Envoy
+- [ ] (Sidequest) Ticked Off
+- [x] (Sidequest) Where the Heart Is (The Goblet)
+- [x] (Sidequest) If I Had Glamour
+- [x] (Sidequest) Color Your World
+- [ ] (Sidequest) Getting Your Bearings
+- [ ] (Sidequest) By the Toe
+- [ ] (Sidequest) For Their Eyes Only
+- [x] (Sidequest) Seeds of Change
+- [ ] (Sidequest) Greasing the Cogs
+- [ ] (Sidequest) Nor Rain nor Heat nor Gloom of Night
+- [ ] (Sidequest) A Dab'll Do Ya
+- [x] (Sidequest) Forging the Spirit
+- [x] (Sidequest) Unholy Matrimony
+- [x] (Sidequest) Gil for Gold
+- [x] (Sidequest) Due Dilligence
+- [x] (Sidequest) Motivational Speaking
+- [x] (Sidequest) Tougher than Leather
+- [x] (Sidequest) In the Name of Science
+- [x] (Sidequest) Help Me, Lord of the Dance
+- [x] (Sidequest) Beat Read Beetles Beat Red
+- [x] (Sidequest) The Great Gladiator
+- [x] (Sidequest) With Open Arms
+- [x] (Sidequest) No Lady Is an Island
+- [x] (Sidequest) Decisions, Decisions
+- [x] (Sidequest) The Wealth of Nations
+- [x] (Sidequest) Vox Populi
+- [x] (Sidequest) A Luxury Long Lost
 - [x] (Sidequest) What Counts
 - [x] (Sidequest) Nailed It
 - [x] (Sidequest) Much Ado About Dodos
