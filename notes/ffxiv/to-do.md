@@ -2,22 +2,39 @@
 
 ## Levels
 
-- Dragoon: 23
+- Dragoon: 24
 
 ## FFXIV To Do
 
-- [ ] (Main Quest) The Gridanian Envoy
-- [ ] (Sidequest) Ticked Off
+- [ ] (Main Quest) It's Probably Pirates
+- [ ] (Sidequest) Beauty is Only Scalp Deep
+- [ ] (Sidequest) So You Want to Be a Jocky
+- [ ] (Sidequest) Triple Triad Trial
+- [ ] (Sidequest) Every Little Thing She Does is Mahjong
+- [ ] (Sidequest) Passion for Fashion
+- [x] (Sidequest) Scratch It Rich
+- [x] (Sidequest) World of Wonders
+- [x] (Sidequest) Rising to the Challenge
+- [x] (Sidequest) It Could Happen to You
+- [ ] (Sidequest) A Complete Game Changer
+- [x] (Main Quest) Call of the Sea
+- [x] (Main Quest) The Gridanian Envoy
+- [x] (Sidequest) Search and Seizure
+- [x] (Sidequest) Tackle the Problem
+- [x] (Sidequest) So Close yet So Far
+- [x] (Sidequest) Reasonable /Doubt
+- [x] (Sidequest) I Believe You Can Fly
+- [x] (Sidequest) Ticked Off
 - [x] (Sidequest) Where the Heart Is (The Goblet)
 - [x] (Sidequest) If I Had Glamour
 - [x] (Sidequest) Color Your World
-- [ ] (Sidequest) Getting Your Bearings
-- [ ] (Sidequest) By the Toe
-- [ ] (Sidequest) For Their Eyes Only
+- [x] (Sidequest) Getting Your Bearings
+- [x] (Sidequest) By the Toe
+- [x] (Sidequest) For Their Eyes Only
 - [x] (Sidequest) Seeds of Change
-- [ ] (Sidequest) Greasing the Cogs
-- [ ] (Sidequest) Nor Rain nor Heat nor Gloom of Night
-- [ ] (Sidequest) A Dab'll Do Ya
+- [x] (Sidequest) Greasing the Cogs
+- [x] (Sidequest) Nor Rain nor Heat nor Gloom of Night
+- [x] (Sidequest) A Dab'll Do Ya
 - [x] (Sidequest) Forging the Spirit
 - [x] (Sidequest) Unholy Matrimony
 - [x] (Sidequest) Gil for Gold
