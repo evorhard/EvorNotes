@@ -1,7 +1,27 @@
 =-=-=-=-=
-45 Citroen C2-R2 Max [323]
+17 Fiat 126p [323]
 =-=-=-=-=
 
-37 fiat 124 spider
-37 audi 80 2.2 quattro (b2)
-39 pontiac vibe gt
+11 alfa romeo giulia nuova super 1600
+13 alfa romeo gta 1300 junior
+13 alfa romeo 1750 gtv
+
+14 volvo 262c solaire
+15 nissan datsun sunny (b210)
+16 renault espace
+
+16 nissan pao
+16 audi a2 tdi
+17 jaguar mark 1
+
+17 fiat autobianchi a112 abarth
+17 fiat 500l
+17 citroen c3 xtr
+
+=-=-=-=-=
+17 Nissan President Sovereign (H252) [332]
+=-=-=-=-=
+
+=-=-=-=-=
+19 Oldsmobile Vista Cruiser [332]
+=-=-=-=-=

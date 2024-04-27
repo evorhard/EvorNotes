@@ -2,21 +2,44 @@
 
 ## Levels
 
-- Dragoon: 24
+- Dragoon: 27
 
 ## FFXIV To Do
 
 - [ ] (Main Quest) It's Probably Pirates
-- [ ] (Sidequest) Beauty is Only Scalp Deep
-- [ ] (Sidequest) So You Want to Be a Jocky
-- [ ] (Sidequest) Triple Triad Trial
-- [ ] (Sidequest) Every Little Thing She Does is Mahjong
-- [ ] (Sidequest) Passion for Fashion
+- [ ] (Sidequest) Like Cats and Dogs
+- [ ] (Sidequest) Keep Your Day Job
+- [ ] (Sidequest) On a Wing and a Prayer
+- [x] (Sidequest) Leves of Quarrymill
+- [x] (Sidequest) Masher for a Day
+- [x] (Sidequest) The Marvelous Mun-Tuy Bean
+- [x] (Sidequest) A Bumper Crop
+- [x] (Sidequest) An Apple a Day
+- [x] (Sidequest) In Grandfather's Name
+- [x] (Sidequest) Savage Snares
+- [x] (Sidequest) Forest Law
+- [x] (Sidequest) Wretched Hive of Villainy
+- [x] (Sidequest) Potsherds for Posterity
+- [x] (Sidequest) Occupational Hazards
+- [x] (Sidequest) Stash Saboteur
+- [x] (Sidequest) The Trees Have Eyes
+- [x] (Sidequest) Cloven-hoofed Horrors
+- [x] (Sidequest) No Guts, No Glory
+- [ ] (Lancer Quest) Questions and Lancers
+- [x] (Sidequest) Leves of Aleport
+- [x] (Sidequest) Beauty is Only Scalp Deep
+- [x] (Sidequest) So You Think You Can Ride This Chocobo
+- [x] (Sidequest) So You Want to Be a Jocky
+- [x] (Sidequest) Open and Inviting
+- [x] (Sidequest) Triple Triad Trial
+- [x] (Sidequest) Hitting the Cactpot
+- [x] (Sidequest) Every Little Thing She Does is Mahjong
+- [x] (Sidequest) Passion for Fashion
 - [x] (Sidequest) Scratch It Rich
 - [x] (Sidequest) World of Wonders
 - [x] (Sidequest) Rising to the Challenge
 - [x] (Sidequest) It Could Happen to You
-- [ ] (Sidequest) A Complete Game Changer
+- [x] (Sidequest) A Complete Game Changer
 - [x] (Main Quest) Call of the Sea
 - [x] (Main Quest) The Gridanian Envoy
 - [x] (Sidequest) Search and Seizure
