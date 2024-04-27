@@ -2,14 +2,61 @@
 
 ## Levels
 
-- Dragoon: 27
+- Dragoon: 32
 
 ## FFXIV To Do
 
-- [ ] (Main Quest) It's Probably Pirates
-- [ ] (Sidequest) Like Cats and Dogs
-- [ ] (Sidequest) Keep Your Day Job
-- [ ] (Sidequest) On a Wing and a Prayer
+- [ ] [35] (Sidequest) Braving New Depths
+- [ ] (Main Quest) A Wild Rose by Any Other Name
+- [ ] (Sidequest) Leves of Camp Drybone
+- [ ] (Sidequest) Buzzing at Church
+- [ ] (Sidequest) Strawman Defense
+- [ ] (Sidequest) Buzz Off, Birds
+- [ ] (Sidequest) Impish Implications
+- [ ] (Sidequest) All Dogs Go to Hell
+- [ ] (Sidequest) Dead Bodies Everywhere
+- [ ] (Sidequest) Hair Club for Hyur
+- [ ] (Sidequest) A Dying Wish
+- [ ] (Sidequest) The House That Death Built
+- [ ] (Sidequest) Leaves of Camp Tranquil
+- [x] (Main Quest) The Scions of the Seventh Dawn
+- [x] (Main Quest) Into a Copper Hell
+- [x] (Main Quest) Call of the Desert
+- [x] (Lancer Quest) Proof of Might
+- [x] (Sidequest) Meals for Miners
+- [x] (Sidequest) Trouble on the Road
+- [x] (Sidequest) Cleaning House
+- [x] (Sidequest) Potable Perils
+- [x] (Sidequest) A Leg Up
+- [x] (Sidequest) Pumiceous Pursuits
+- [x] (Sidequest) No News Is Good News
+- [x] (Sidequest) Save the Trees
+- [x] (Sidequest) No Place Like Home
+- [x] (Sidequest) A Welcome Overstayed
+- [x] (Sidequest) Digging in the Dark
+- [x] (Main Quest) Fire in the Gloom
+- [x] (Main Quest) Call of the Forest
+- [x] (Sidequest) In Too Deep
+- [x] (Sidequest) Doing the Dirty Work
+- [x] (Sidequest) Shocking Discoveries
+- [x] (Sidequest) Fungal Frolic
+- [x] (Sidequest) Beneath the Planks
+- [x] (Sidequest) Broadening Horizons
+- [x] (Main Quest) It's Probably Pirates
+- [x] (Sidequest) I Hereby Relieve You
+- [x] (Sidequest) Scythe Extra Large
+- [x] (Sidequest) My Brother's Not a Keeper
+- [x] (Sidequest) Flowers for Aerghaemr
+- [x] (Sidequest) Nest We Forget
+- [x] (Sidequest) Walk of Shame
+- [x] (Sidequest) Toxic Avenger
+- [x] (Sidequest) Curiosity Killed the Coeurl
+- [x] (Sidequest) Man's Best Fiend
+- [x] (Sidequest) Like Cats and Dogs
+- [x] (Sidequest) Mountains out of Molehills
+- [x] (Sidequest) Keep Your Day Job
+- [x] (Sidequest) Mummy Dearest
+- [x] (Sidequest) On a Wing and a Prayer
 - [x] (Sidequest) Leves of Quarrymill
 - [x] (Sidequest) Masher for a Day
 - [x] (Sidequest) The Marvelous Mun-Tuy Bean
@@ -25,7 +72,7 @@
 - [x] (Sidequest) The Trees Have Eyes
 - [x] (Sidequest) Cloven-hoofed Horrors
 - [x] (Sidequest) No Guts, No Glory
-- [ ] (Lancer Quest) Questions and Lancers
+- [x] (Lancer Quest) Questions and Lancers
 - [x] (Sidequest) Leves of Aleport
 - [x] (Sidequest) Beauty is Only Scalp Deep
 - [x] (Sidequest) So You Think You Can Ride This Chocobo

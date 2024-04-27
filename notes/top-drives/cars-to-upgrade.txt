@@ -1,27 +1,23 @@
 =-=-=-=-=
-17 Fiat 126p [323]
+19 Oldsmobile Vista Cruiser [332]
 =-=-=-=-=
 
-11 alfa romeo giulia nuova super 1600
-13 alfa romeo gta 1300 junior
-13 alfa romeo 1750 gtv
+15 porsche 356 speedster
+16 renault 16
+17 volkswagen golf
 
-14 volvo 262c solaire
-15 nissan datsun sunny (b210)
-16 renault espace
+17 ford mustang ii king cobra
+17 dodge aspen r/t
+17 cadillac seville
 
-16 nissan pao
-16 audi a2 tdi
-17 jaguar mark 1
+18 vauxhall corsa 1.4
+18 subaru r2
+18 honda beat
 
-17 fiat autobianchi a112 abarth
-17 fiat 500l
-17 citroen c3 xtr
+18 citroen berlingo
+19 renault espace
+19 eagle summit
 
 =-=-=-=-=
 17 Nissan President Sovereign (H252) [332]
-=-=-=-=-=
-
-=-=-=-=-=
-19 Oldsmobile Vista Cruiser [332]
 =-=-=-=-=
