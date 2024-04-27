@@ -2,23 +2,39 @@
 
 ## Levels
 
-- Dragoon: 32
+- Dragoon: 33
 
 ## FFXIV To Do
 
 - [ ] [35] (Sidequest) Braving New Depths
-- [ ] (Main Quest) A Wild Rose by Any Other Name
-- [ ] (Sidequest) Leves of Camp Drybone
-- [ ] (Sidequest) Buzzing at Church
-- [ ] (Sidequest) Strawman Defense
-- [ ] (Sidequest) Buzz Off, Birds
-- [ ] (Sidequest) Impish Implications
-- [ ] (Sidequest) All Dogs Go to Hell
-- [ ] (Sidequest) Dead Bodies Everywhere
-- [ ] (Sidequest) Hair Club for Hyur
-- [ ] (Sidequest) A Dying Wish
-- [ ] (Sidequest) The House That Death Built
-- [ ] (Sidequest) Leaves of Camp Tranquil
+- [ ] (Main Quest) Amalj'aa Wrong Places
+- [x] (Main Quest) For the Children
+- [x] (Sidequest) There's Mythril in Them Thar Hills
+- [x] (Sidequest) Now Hiring
+- [x] (Sidequest) Steaking Claims
+- [x] (Main Quest) A Proper Burial
+- [x] (Main Quest) What Poor People Think
+- [x] (Main Quest) Unsolved Mystery
+- [x] (Main Quest) A Wild Rose by Any Other Name
+- [x] (Sidequest) Purging the Earth
+- [x] (Sidequest) Honoring the Dead
+- [x] (Sidequest) Lichyard Lillies
+- [x] (Sidequest) Friendlier Skies
+- [x] (Sidequest) The Perils of Pilgrimage
+- [x] (Sidequest) Buzzing at Church
+- [x] (Sidequest) Scholarly Funds
+- [x] (Sidequest) Strawman Defense
+- [x] (Sidequest) Buzz Off, Birds
+- [x] (Sidequest) Impish Implications
+- [x] (Sidequest) All Dogs Go to Hell
+- [x] (Sidequest) Dead Bodies Everywhere
+- [x] (Sidequest) Hair Club for Hyur
+- [x] (Sidequest) Green Thumb
+- [x] (Sidequest) The Circle of Life
+- [x] (Sidequest) A Dying Wish
+- [x] (Sidequest) Leves of Camp Drybone
+- [x] (Sidequest) The House That Death Built
+- [x] (Sidequest) Leves of Camp Tranquil
 - [x] (Main Quest) The Scions of the Seventh Dawn
 - [x] (Main Quest) Into a Copper Hell
 - [x] (Main Quest) Call of the Desert
