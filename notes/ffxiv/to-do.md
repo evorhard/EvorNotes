@@ -2,12 +2,45 @@
 
 ## Levels
 
-- Dragoon: 34
+- DRG: 34
+- CRP: 3
+- BSM: 3
+- ARM: 3
+- GSM: 3
+- LTW: 3
+- WVR: 3
+- ALC: 3
 
 ## FFXIV To Do
 
 - [ ] [35] (Sidequest) Braving New Depths
-- [ ] (Main Quest) A Hero in the Making
+- [ ] (Main Quest) We Come in Peace
+- [x] (Main Quest) Sylph-management
+- [ ] (DRG Quest) Eye of the Dragon
+- [ ] (ALC Quest) Way of the Alchemist
+- [x] (WVR Quest) My First Needle
+- [x] (WVR Quest) Way of the Weaver
+- [x] (LTW Quest) My First Head Knife
+- [x] (LTW Quest) Way of the Leatherworker
+- [x] (Sidequest) A Sight to Behold
+- [x] (GSM Quest) My First Chaser Hammer
+- [x] (GSM Quest) Way of the Goldsmith
+- [x] (ARM Quest) My First Doming Hammer
+- [x] (ARM Quest) Way of the Armorer
+- [x] (BSM Quest) My First Cross-pein Hammer
+- [x] (BSM Quest) Way of the Blacksmith
+- [x] (CRP Quest) My First Saw
+- [x] (CRP Quest) Way of the Carpenter
+- [x] (Sidequest) My Feisty Little Chocobo
+- [x] (Sidequest) Like Civilized Men and Women (Twin Adder)
+- [x] (Sidequest) My Little Chocobo (Twin Adder)
+- [x] (Sidequest) The Crystal (Line's) Call
+- [x] (Sidequest) Earning Your Wings
+- [x] (Sidequest) It's Time to Duel
+- [x] (Sidequest) A Pup No Longer (Twin Adder)
+- [x] (Main Quest) Would's Will Be Done
+- [x] (Main Quest) The Company You Keep (Twin Adder)
+- [x] (Main Quest) A Hero in the Making
 - [x] (Sidequest) An Ill-conceived Venture
 - [x] (Main Quest) Lord of the Inferno
 - [x] (Sidequest) Hallo Halatali
@@ -44,7 +77,7 @@
 - [x] (Main Quest) The Scions of the Seventh Dawn
 - [x] (Main Quest) Into a Copper Hell
 - [x] (Main Quest) Call of the Desert
-- [x] (Lancer Quest) Proof of Might
+- [x] (DRG Quest) Proof of Might
 - [x] (Sidequest) Meals for Miners
 - [x] (Sidequest) Trouble on the Road
 - [x] (Sidequest) Cleaning House
@@ -94,7 +127,7 @@
 - [x] (Sidequest) The Trees Have Eyes
 - [x] (Sidequest) Cloven-hoofed Horrors
 - [x] (Sidequest) No Guts, No Glory
-- [x] (Lancer Quest) Questions and Lancers
+- [x] (DRG Quest) Questions and Lancers
 - [x] (Sidequest) Leves of Aleport
 - [x] (Sidequest) Beauty is Only Scalp Deep
 - [x] (Sidequest) So You Think You Can Ride This Chocobo
@@ -186,7 +219,7 @@
 - [x] (Sidequest) Stand-in Sentry
 - [x] (Sidequest) Swineophobia
 - [x] (Sidequest) Leves of Hawthorne
-- [x] (Lancer Quest) Lance of Destiny
+- [x] (DRG Quest) Lance of Destiny
 - [x] (Main Quest) Threat Level Elevated
 - [x] (Main Quest) In the Grim Darkness of the Forest
 - [x] (Main Quest) Don't Look Down
@@ -202,7 +235,7 @@
 - [x] (Main Quest) Surveying the Damage
 - [x] (Sidequest) More than a Flesh Wound
 - [x] (Main Quest) Eggs over Queasy
-- [x] (Lancer Quest) A Dangerous Proposition
+- [x] (DRG Quest) A Dangerous Proposition
 - [x] (Main Quest) Chasing Shadows
 - [x] (Main Quest) Passing Muster
 - [x] (Sidequest) Sting in a Bottle
@@ -222,7 +255,7 @@
 - [x] (Sidequest) Death to the Bean Thieves
 - [x] (Sidequest) Jumping at Shadows
 - [x] (Sidequest) A Glim Harvest
-- [x] (Lancer Quest) Courage of Stone
+- [x] (DRG Quest) Courage of Stone
 - [x] (Sidequest) Hematophagic Harassment
 - [x] (Sidequest) A Clear Sign
 - [x] (Sidequest) The Nose Knows
@@ -237,13 +270,13 @@
 - [x] (Sidequest) Once Bitten, Twice Shy
 - [x] (Sidequest) Sylphic Gratitude
 - [x] (Sidequest) I Am Millicent, Hear Me Roar
-- [x] (Lancer Quest) Spear of the Fearless
+- [x] (DRG Quest) Spear of the Fearless
 - [x] (Sidequest) Quarrels with Squirrels
 - [x] (Sidequest) Parsemontrenomics
 - [x] (Sidequest) For Friendship
 - [x] (Sidequest) Preserving the Past
 - [x] (Sidequest) Coarse Correspondence
 - [x] (Sidequest) A Good Adventurer Is Hard to Find
-- [x] (Lancer Quest) Way of the Lancer
+- [x] (DRG Quest) Way of the Lancer
 - [x] (Main Quest) Close to Home
 - [x] (Main Quest) Coming to Gridania
