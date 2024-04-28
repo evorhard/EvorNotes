@@ -2,12 +2,18 @@
 
 ## Levels
 
-- Dragoon: 33
+- Dragoon: 34
 
 ## FFXIV To Do
 
 - [ ] [35] (Sidequest) Braving New Depths
-- [ ] (Main Quest) Amalj'aa Wrong Places
+- [ ] (Main Quest) A Hero in the Making
+- [x] (Sidequest) An Ill-conceived Venture
+- [x] (Main Quest) Lord of the Inferno
+- [x] (Sidequest) Hallo Halatali
+- [x] (Main Quest) Life, Materia and Everything
+- [x] (Main Quest) Dressed to Deceive
+- [x] (Main Quest) Amalj'aa Wrong Places
 - [x] (Main Quest) For the Children
 - [x] (Sidequest) There's Mythril in Them Thar Hills
 - [x] (Sidequest) Now Hiring
