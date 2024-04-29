@@ -2,17 +2,17 @@
 
 ## Levels
 
-- CRP: 8
-- BSM: 6
-- ARM: 6
+- CRP: 10
+- BSM: 10
+- ARM: 9
 - GSM: 5
 - LTW: 9
 - WVR: 13
-- ALC: 8
+- ALC: 9
 - CUL: 5
-- MIN: 7
-- BTN: 6
-- FSH: 9
+- MIN: 8
+- BTN: 9
+- FSH: 12
 - DRG: 34
 
 ## FFXIV To Do
@@ -31,7 +31,13 @@
 - [ ] (ARM Quest) From Thigh to Neck
 - [ ] (BSM Quest) Hammer Time
 - [ ] (CRP Quest) To Be the Wood
-- [ ] (Crafting: BSM 5) Amateur's File
+- [ ] (Crafting: CUL 5) Amateur's Culinary Knife
+- [x] (Crafting: ALC 5) Amateur's Mortar
+- [x] (Crafting: WVR 5) Amateur's Spinning Wheel
+- [x] (Crafting: LTW 5) Amateur's Awl
+- [x] (Crafting: GSM 5) Amateur's Grinding Wheel
+- [x] (Crafting: ARM 5) Amateur's Pliers
+- [x] (Crafting: BSM 5) Amateur's File
 - [x] (Crafting: CRP 5) Maple Patten
 - [x] (Crafting: CRP 5) Hempen Chausses
 - [x] (Crafting: CRP 5) Hempen Bandana
