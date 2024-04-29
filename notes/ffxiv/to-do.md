@@ -2,26 +2,68 @@
 
 ## Levels
 
+- CRP: 8
+- BSM: 6
+- ARM: 6
+- GSM: 5
+- LTW: 9
+- WVR: 13
+- ALC: 8
+- CUL: 5
+- MIN: 7
+- BTN: 6
+- FSH: 9
 - DRG: 34
-- CRP: 3
-- BSM: 3
-- ARM: 3
-- GSM: 3
-- LTW: 3
-- WVR: 3
-- ALC: 3
 
 ## FFXIV To Do
 
 - [ ] [35] (Sidequest) Braving New Depths
 - [ ] (Main Quest) We Come in Peace
-- [x] (Main Quest) Sylph-management
 - [ ] (DRG Quest) Eye of the Dragon
-- [ ] (ALC Quest) Way of the Alchemist
+- [ ] (FSH Quest) Bigger Fish to Fry
+- [ ] (BTN Quest) Sap for Smiles
+- [ ] (MIN Quest) Know Thy Land
+- [ ] (CUL Quest) A Treat of Trout
+- [ ] (ALC Quest) The Second Principle
+- [ ] (WVR Quest) Once More unto the Breeches
+- [ ] (LTW Quest) A Test of Technique
+- [ ] (GSM Quest) Gorgets Rising
+- [ ] (ARM Quest) From Thigh to Neck
+- [ ] (BSM Quest) Hammer Time
+- [ ] (CRP Quest) To Be the Wood
+- [ ] (Crafting: BSM 5) Amateur's File
+- [x] (Crafting: CRP 5) Maple Patten
+- [x] (Crafting: CRP 5) Hempen Chausses
+- [x] (Crafting: CRP 5) Hempen Bandana
+- [x] (Crafting: CRP 5) Amateur's Claw Hammer
+- [x] (Grand Company) Delivery Missions
+- [x] (Crafting: MIN 1) Leather Duckbills of Gathering
+- [x] (Crafting: MIN 1) Hempen Shepherd's Slops
+- [x] (Crafting: MIN 1) Leather Wristguards
+- [x] (Crafting: MIN 1) Hempen Dalmatica of Gathering
+- [x] (Crafting: MIN 1) Hempen Coif of Gathering
+- [x] (Crafting: CRP 1) Maple Clogs
+- [x] (Crafting: CRP 1) Hempen Breeches of Crafting
+- [x] (Crafting: CRP 1) Hempen Halfgloves
+- [x] (Crafting: CRP 1) Hempen Kurta
+- [x] (Crafting: CRP 1) Leather Calot
+- [x] (Sidequest) All the Fish in the Sea
+- [x] (FSH Quest) My First Fishing Rod
+- [x] (FSH Quest) Way of the Fisher
+- [x] (BTN Quest) My First Hatchet
+- [x] (BTN Quest) Way of the Botanist
+- [x] (MIN Quest) My First Pickaxe
+- [x] (Sidequest) Marvelously Mutable Materia
+- [x] (MIN Quest) Way of the Miner
+- [x] (CUL Quest) My First Skillet
+- [x] (CUL Quest) Way of the Culinarian
+- [x] (ALC Quest) My First Alembic
+- [x] (ALC Quest) Way of the Alchemist
 - [x] (WVR Quest) My First Needle
 - [x] (WVR Quest) Way of the Weaver
 - [x] (LTW Quest) My First Head Knife
 - [x] (LTW Quest) Way of the Leatherworker
+- [x] (Main Quest) Sylph-management
 - [x] (Sidequest) A Sight to Behold
 - [x] (GSM Quest) My First Chaser Hammer
 - [x] (GSM Quest) Way of the Goldsmith
