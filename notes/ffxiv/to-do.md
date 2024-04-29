@@ -2,17 +2,17 @@
 
 ## Levels
 
-- CRP: 10
-- BSM: 10
-- ARM: 9
-- GSM: 5
-- LTW: 9
-- WVR: 13
-- ALC: 9
-- CUL: 5
-- MIN: 8
-- BTN: 9
-- FSH: 12
+- CRP: 13
+- BSM: 14
+- ARM: 11
+- GSM: 9
+- LTW: 13
+- WVR: 16
+- ALC: 11
+- CUL: 7
+- MIN: 10
+- BTN: 13
+- FSH: 13
 - DRG: 34
 
 ## FFXIV To Do
@@ -31,7 +31,18 @@
 - [ ] (ARM Quest) From Thigh to Neck
 - [ ] (BSM Quest) Hammer Time
 - [ ] (CRP Quest) To Be the Wood
-- [ ] (Crafting: CUL 5) Amateur's Culinary Knife
+- [ ] (Crafting: DRG 5) Leather Crakows
+- [ ] (Crafting: DRG 5) Altered Thighboots
+- [ ] (Crafting: DRG 5) Hempen Sarouel
+- [ ] (Crafting: DRG 5) Fingerless Leather Gloves
+- [ ] (Crafting: DRG 5) Hempen Tabard
+- [ ] (Crafting: DRG 5) Leather Eyepatch
+- [ ] (Crafting: DRG 5) Bone Harpoon
+- [x] (Grand Company) Delivery Missions
+- [x] (Crafting: MIN 5) Leather Choker
+- [x] (Crafting: MIN 5) Leather Shoes
+- [x] (Crafting: MIN 5) Leather Culottes
+- [x] (Crafting: CUL 5) Amateur's Culinary Knife
 - [x] (Crafting: ALC 5) Amateur's Mortar
 - [x] (Crafting: WVR 5) Amateur's Spinning Wheel
 - [x] (Crafting: LTW 5) Amateur's Awl

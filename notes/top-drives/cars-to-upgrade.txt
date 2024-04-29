@@ -2,14 +2,6 @@
 35 AMC AMX 390 [332]
 =-=-=-=-=
 
-22 mazda hr-x
-22 mazda demio ev
-22 citroen ds 5
-
-22 chrysler d'elegance
-22 chevrolet caprice
-22 chevrolet caprice
-
 22 audi cabriolet 2.3
 23 saturn ion
 23 fiat 500 coupe
