@@ -2,42 +2,54 @@
 
 ## Levels
 
-- CRP: 13
+- CRP: 14
 - BSM: 14
 - ARM: 12
-- GSM: 9
-- LTW: 13
+- GSM: 10
+- LTW: 14
 - WVR: 17
-- ALC: 11
-- CUL: 7
-- MIN: 11
-- BTN: 13
+- ALC: 12
+- CUL: 8
+- MIN: 13
+- BTN: 14
 - FSH: 13
 - DRG: 34
 
 ## FFXIV To Do
 
-- [ ] [35] (Sidequest) Braving New Depths
+- [ ] [35] (Sidequests) Braving New Depths
 - [ ] (Main Quest) We Come in Peace
-- [ ] (DRG Quest) Eye of the Dragon
-- [ ] (FSH Quest) Bigger Fish to Fry
-- [ ] (BTN Quest) Sap for Smiles
-- [ ] (MIN Quest) Know Thy Land
-- [ ] (CUL Quest) A Treat of Trout
-- [ ] (ALC Quest) The Second Principle
-- [ ] (WVR Quest) Once More unto the Breeches
-- [ ] (LTW Quest) A Test of Technique
-- [ ] (GSM Quest) Gorgets Rising
-- [ ] (ARM Quest) From Thigh to Neck
-- [ ] (BSM Quest) Hammer Time
-- [ ] (CRP Quest) To Be the Wood
-- [ ] (Crafting: DRG 5) Leather Crakows
-- [ ] (Crafting: DRG 5) Altered Thighboots
-- [ ] (Crafting: DRG 5) Hempen Sarouel
-- [ ] (Crafting: DRG 5) Fingerless Leather Gloves
-- [ ] (Crafting: DRG 5) Hempen Tabard
-- [ ] (Crafting: DRG 5) Leather Eyepatch
-- [ ] (Crafting: DRG 5) Bone Harpoon
+- [ ] (DRG 30 Quest) Eye of the Dragon
+- [ ] (MIN 15 Quest) Getting in Deep
+- [x] (BTN 10 Quest) Weapons of a Feather
+- [x] (MIN 10 Quest) The Cutting Edge
+- [ ] (CUL 10 Quest) Dodo It Yourself
+- [ ] (ALC 10 Quest) All of Your Beeswax
+- [ ] (WVR 10 Quest) Alternative Applications
+- [ ] (LTW 10 Quest) Geva's Gambit
+- [ ] (GSM 10 Quest) Throw Some Rings on It
+- [ ] (ARM 10 Quest) The Base Fundamentals
+- [ ] (BSM 10 Quest) Riveting Ramblings
+- [ ] (CRP 10 Quest) Supplies for the Sick
+- [ ] (Crafting Log) Woodworking Recipe Level 1-5
+- [ ] (FSH 5 Quest) Bigger Fish to Fry
+- [x] (BTN 5 Quest) Sap for Smiles
+- [x] (MIN 5 Quest) Know Thy Land
+- [x] (CUL 5 Quest) A Treat of Trout
+- [x] (ALC 5 Quest) The Second Principle
+- [x] (WVR 5 Quest) Once More unto the Breeches
+- [x] (LTW 5 Quest) A Test of Technique
+- [x] (GSM 5 Quest) Gorgets Rising
+- [x] (ARM 5 Quest) From Thigh to Neck
+- [x] (BSM 5 Quest) Hammer Time
+- [x] (CRP 5 Quest) To Be the Wood
+- [x] (Crafting: DRG 5) Leather Crakows
+- [x] (Crafting: DRG 5) Altered Thighboots
+- [x] (Crafting: DRG 5) Hempen Sarouel
+- [x] (Crafting: DRG 5) Fingerless Leather Gloves
+- [x] (Crafting: DRG 5) Hempen Tabard
+- [x] (Crafting: DRG 5) Leather Eyepatch
+- [x] (Crafting: DRG 5) Bone Harpoon
 - [x] (Grand Company) Delivery Missions
 - [x] (Crafting: MIN 5) Leather Choker
 - [x] (Crafting: MIN 5) Leather Shoes
@@ -64,13 +76,13 @@
 - [x] (Crafting: CRP 1) Hempen Halfgloves
 - [x] (Crafting: CRP 1) Hempen Kurta
 - [x] (Crafting: CRP 1) Leather Calot
-- [x] (Sidequest) All the Fish in the Sea
+- [x] (Sidequests) All the Fish in the Sea
 - [x] (FSH Quest) My First Fishing Rod
 - [x] (FSH Quest) Way of the Fisher
 - [x] (BTN Quest) My First Hatchet
 - [x] (BTN Quest) Way of the Botanist
 - [x] (MIN Quest) My First Pickaxe
-- [x] (Sidequest) Marvelously Mutable Materia
+- [x] (Sidequests) Marvelously Mutable Materia
 - [x] (MIN Quest) Way of the Miner
 - [x] (CUL Quest) My First Skillet
 - [x] (CUL Quest) Way of the Culinarian
@@ -81,7 +93,7 @@
 - [x] (LTW Quest) My First Head Knife
 - [x] (LTW Quest) Way of the Leatherworker
 - [x] (Main Quest) Sylph-management
-- [x] (Sidequest) A Sight to Behold
+- [x] (Sidequests) A Sight to Behold
 - [x] (GSM Quest) My First Chaser Hammer
 - [x] (GSM Quest) Way of the Goldsmith
 - [x] (ARM Quest) My First Doming Hammer
@@ -90,182 +102,182 @@
 - [x] (BSM Quest) Way of the Blacksmith
 - [x] (CRP Quest) My First Saw
 - [x] (CRP Quest) Way of the Carpenter
-- [x] (Sidequest) My Feisty Little Chocobo
-- [x] (Sidequest) Like Civilized Men and Women (Twin Adder)
-- [x] (Sidequest) My Little Chocobo (Twin Adder)
-- [x] (Sidequest) The Crystal (Line's) Call
-- [x] (Sidequest) Earning Your Wings
-- [x] (Sidequest) It's Time to Duel
-- [x] (Sidequest) A Pup No Longer (Twin Adder)
+- [x] (Sidequests) My Feisty Little Chocobo
+- [x] (Sidequests) Like Civilized Men and Women (Twin Adder)
+- [x] (Sidequests) My Little Chocobo (Twin Adder)
+- [x] (Sidequests) The Crystal (Line's) Call
+- [x] (Sidequests) Earning Your Wings
+- [x] (Sidequests) It's Time to Duel
+- [x] (Sidequests) A Pup No Longer (Twin Adder)
 - [x] (Main Quest) Would's Will Be Done
 - [x] (Main Quest) The Company You Keep (Twin Adder)
 - [x] (Main Quest) A Hero in the Making
-- [x] (Sidequest) An Ill-conceived Venture
+- [x] (Sidequests) An Ill-conceived Venture
 - [x] (Main Quest) Lord of the Inferno
-- [x] (Sidequest) Hallo Halatali
+- [x] (Sidequests) Hallo Halatali
 - [x] (Main Quest) Life, Materia and Everything
 - [x] (Main Quest) Dressed to Deceive
 - [x] (Main Quest) Amalj'aa Wrong Places
 - [x] (Main Quest) For the Children
-- [x] (Sidequest) There's Mythril in Them Thar Hills
-- [x] (Sidequest) Now Hiring
-- [x] (Sidequest) Steaking Claims
+- [x] (Sidequests) There's Mythril in Them Thar Hills
+- [x] (Sidequests) Now Hiring
+- [x] (Sidequests) Steaking Claims
 - [x] (Main Quest) A Proper Burial
 - [x] (Main Quest) What Poor People Think
 - [x] (Main Quest) Unsolved Mystery
 - [x] (Main Quest) A Wild Rose by Any Other Name
-- [x] (Sidequest) Purging the Earth
-- [x] (Sidequest) Honoring the Dead
-- [x] (Sidequest) Lichyard Lillies
-- [x] (Sidequest) Friendlier Skies
-- [x] (Sidequest) The Perils of Pilgrimage
-- [x] (Sidequest) Buzzing at Church
-- [x] (Sidequest) Scholarly Funds
-- [x] (Sidequest) Strawman Defense
-- [x] (Sidequest) Buzz Off, Birds
-- [x] (Sidequest) Impish Implications
-- [x] (Sidequest) All Dogs Go to Hell
-- [x] (Sidequest) Dead Bodies Everywhere
-- [x] (Sidequest) Hair Club for Hyur
-- [x] (Sidequest) Green Thumb
-- [x] (Sidequest) The Circle of Life
-- [x] (Sidequest) A Dying Wish
-- [x] (Sidequest) Leves of Camp Drybone
-- [x] (Sidequest) The House That Death Built
-- [x] (Sidequest) Leves of Camp Tranquil
+- [x] (Sidequests) Purging the Earth
+- [x] (Sidequests) Honoring the Dead
+- [x] (Sidequests) Lichyard Lillies
+- [x] (Sidequests) Friendlier Skies
+- [x] (Sidequests) The Perils of Pilgrimage
+- [x] (Sidequests) Buzzing at Church
+- [x] (Sidequests) Scholarly Funds
+- [x] (Sidequests) Strawman Defense
+- [x] (Sidequests) Buzz Off, Birds
+- [x] (Sidequests) Impish Implications
+- [x] (Sidequests) All Dogs Go to Hell
+- [x] (Sidequests) Dead Bodies Everywhere
+- [x] (Sidequests) Hair Club for Hyur
+- [x] (Sidequests) Green Thumb
+- [x] (Sidequests) The Circle of Life
+- [x] (Sidequests) A Dying Wish
+- [x] (Sidequests) Leves of Camp Drybone
+- [x] (Sidequests) The House That Death Built
+- [x] (Sidequests) Leves of Camp Tranquil
 - [x] (Main Quest) The Scions of the Seventh Dawn
 - [x] (Main Quest) Into a Copper Hell
 - [x] (Main Quest) Call of the Desert
-- [x] (DRG Quest) Proof of Might
-- [x] (Sidequest) Meals for Miners
-- [x] (Sidequest) Trouble on the Road
-- [x] (Sidequest) Cleaning House
-- [x] (Sidequest) Potable Perils
-- [x] (Sidequest) A Leg Up
-- [x] (Sidequest) Pumiceous Pursuits
-- [x] (Sidequest) No News Is Good News
-- [x] (Sidequest) Save the Trees
-- [x] (Sidequest) No Place Like Home
-- [x] (Sidequest) A Welcome Overstayed
-- [x] (Sidequest) Digging in the Dark
+- [x] (DRG 30 Quest) Proof of Might
+- [x] (Sidequests) Meals for Miners
+- [x] (Sidequests) Trouble on the Road
+- [x] (Sidequests) Cleaning House
+- [x] (Sidequests) Potable Perils
+- [x] (Sidequests) A Leg Up
+- [x] (Sidequests) Pumiceous Pursuits
+- [x] (Sidequests) No News Is Good News
+- [x] (Sidequests) Save the Trees
+- [x] (Sidequests) No Place Like Home
+- [x] (Sidequests) A Welcome Overstayed
+- [x] (Sidequests) Digging in the Dark
 - [x] (Main Quest) Fire in the Gloom
 - [x] (Main Quest) Call of the Forest
-- [x] (Sidequest) In Too Deep
-- [x] (Sidequest) Doing the Dirty Work
-- [x] (Sidequest) Shocking Discoveries
-- [x] (Sidequest) Fungal Frolic
-- [x] (Sidequest) Beneath the Planks
-- [x] (Sidequest) Broadening Horizons
+- [x] (Sidequests) In Too Deep
+- [x] (Sidequests) Doing the Dirty Work
+- [x] (Sidequests) Shocking Discoveries
+- [x] (Sidequests) Fungal Frolic
+- [x] (Sidequests) Beneath the Planks
+- [x] (Sidequests) Broadening Horizons
 - [x] (Main Quest) It's Probably Pirates
-- [x] (Sidequest) I Hereby Relieve You
-- [x] (Sidequest) Scythe Extra Large
-- [x] (Sidequest) My Brother's Not a Keeper
-- [x] (Sidequest) Flowers for Aerghaemr
-- [x] (Sidequest) Nest We Forget
-- [x] (Sidequest) Walk of Shame
-- [x] (Sidequest) Toxic Avenger
-- [x] (Sidequest) Curiosity Killed the Coeurl
-- [x] (Sidequest) Man's Best Fiend
-- [x] (Sidequest) Like Cats and Dogs
-- [x] (Sidequest) Mountains out of Molehills
-- [x] (Sidequest) Keep Your Day Job
-- [x] (Sidequest) Mummy Dearest
-- [x] (Sidequest) On a Wing and a Prayer
-- [x] (Sidequest) Leves of Quarrymill
-- [x] (Sidequest) Masher for a Day
-- [x] (Sidequest) The Marvelous Mun-Tuy Bean
-- [x] (Sidequest) A Bumper Crop
-- [x] (Sidequest) An Apple a Day
-- [x] (Sidequest) In Grandfather's Name
-- [x] (Sidequest) Savage Snares
-- [x] (Sidequest) Forest Law
-- [x] (Sidequest) Wretched Hive of Villainy
-- [x] (Sidequest) Potsherds for Posterity
-- [x] (Sidequest) Occupational Hazards
-- [x] (Sidequest) Stash Saboteur
-- [x] (Sidequest) The Trees Have Eyes
-- [x] (Sidequest) Cloven-hoofed Horrors
-- [x] (Sidequest) No Guts, No Glory
-- [x] (DRG Quest) Questions and Lancers
-- [x] (Sidequest) Leves of Aleport
-- [x] (Sidequest) Beauty is Only Scalp Deep
-- [x] (Sidequest) So You Think You Can Ride This Chocobo
-- [x] (Sidequest) So You Want to Be a Jocky
-- [x] (Sidequest) Open and Inviting
-- [x] (Sidequest) Triple Triad Trial
-- [x] (Sidequest) Hitting the Cactpot
-- [x] (Sidequest) Every Little Thing She Does is Mahjong
-- [x] (Sidequest) Passion for Fashion
-- [x] (Sidequest) Scratch It Rich
-- [x] (Sidequest) World of Wonders
-- [x] (Sidequest) Rising to the Challenge
-- [x] (Sidequest) It Could Happen to You
-- [x] (Sidequest) A Complete Game Changer
+- [x] (Sidequests) I Hereby Relieve You
+- [x] (Sidequests) Scythe Extra Large
+- [x] (Sidequests) My Brother's Not a Keeper
+- [x] (Sidequests) Flowers for Aerghaemr
+- [x] (Sidequests) Nest We Forget
+- [x] (Sidequests) Walk of Shame
+- [x] (Sidequests) Toxic Avenger
+- [x] (Sidequests) Curiosity Killed the Coeurl
+- [x] (Sidequests) Man's Best Fiend
+- [x] (Sidequests) Like Cats and Dogs
+- [x] (Sidequests) Mountains out of Molehills
+- [x] (Sidequests) Keep Your Day Job
+- [x] (Sidequests) Mummy Dearest
+- [x] (Sidequests) On a Wing and a Prayer
+- [x] (Sidequests) Leves of Quarrymill
+- [x] (Sidequests) Masher for a Day
+- [x] (Sidequests) The Marvelous Mun-Tuy Bean
+- [x] (Sidequests) A Bumper Crop
+- [x] (Sidequests) An Apple a Day
+- [x] (Sidequests) In Grandfather's Name
+- [x] (Sidequests) Savage Snares
+- [x] (Sidequests) Forest Law
+- [x] (Sidequests) Wretched Hive of Villainy
+- [x] (Sidequests) Potsherds for Posterity
+- [x] (Sidequests) Occupational Hazards
+- [x] (Sidequests) Stash Saboteur
+- [x] (Sidequests) The Trees Have Eyes
+- [x] (Sidequests) Cloven-hoofed Horrors
+- [x] (Sidequests) No Guts, No Glory
+- [x] (DRG 25 Quest) Questions and Lancers
+- [x] (Sidequests) Leves of Aleport
+- [x] (Sidequests) Beauty is Only Scalp Deep
+- [x] (Sidequests) So You Think You Can Ride This Chocobo
+- [x] (Sidequests) So You Want to Be a Jocky
+- [x] (Sidequests) Open and Inviting
+- [x] (Sidequests) Triple Triad Trial
+- [x] (Sidequests) Hitting the Cactpot
+- [x] (Sidequests) Every Little Thing She Does is Mahjong
+- [x] (Sidequests) Passion for Fashion
+- [x] (Sidequests) Scratch It Rich
+- [x] (Sidequests) World of Wonders
+- [x] (Sidequests) Rising to the Challenge
+- [x] (Sidequests) It Could Happen to You
+- [x] (Sidequests) A Complete Game Changer
 - [x] (Main Quest) Call of the Sea
 - [x] (Main Quest) The Gridanian Envoy
-- [x] (Sidequest) Search and Seizure
-- [x] (Sidequest) Tackle the Problem
-- [x] (Sidequest) So Close yet So Far
-- [x] (Sidequest) Reasonable /Doubt
-- [x] (Sidequest) I Believe You Can Fly
-- [x] (Sidequest) Ticked Off
-- [x] (Sidequest) Where the Heart Is (The Goblet)
-- [x] (Sidequest) If I Had Glamour
-- [x] (Sidequest) Color Your World
-- [x] (Sidequest) Getting Your Bearings
-- [x] (Sidequest) By the Toe
-- [x] (Sidequest) For Their Eyes Only
-- [x] (Sidequest) Seeds of Change
-- [x] (Sidequest) Greasing the Cogs
-- [x] (Sidequest) Nor Rain nor Heat nor Gloom of Night
-- [x] (Sidequest) A Dab'll Do Ya
-- [x] (Sidequest) Forging the Spirit
-- [x] (Sidequest) Unholy Matrimony
-- [x] (Sidequest) Gil for Gold
-- [x] (Sidequest) Due Dilligence
-- [x] (Sidequest) Motivational Speaking
-- [x] (Sidequest) Tougher than Leather
-- [x] (Sidequest) In the Name of Science
-- [x] (Sidequest) Help Me, Lord of the Dance
-- [x] (Sidequest) Beat Read Beetles Beat Red
-- [x] (Sidequest) The Great Gladiator
-- [x] (Sidequest) With Open Arms
-- [x] (Sidequest) No Lady Is an Island
-- [x] (Sidequest) Decisions, Decisions
-- [x] (Sidequest) The Wealth of Nations
-- [x] (Sidequest) Vox Populi
-- [x] (Sidequest) A Luxury Long Lost
-- [x] (Sidequest) What Counts
-- [x] (Sidequest) Nailed It
-- [x] (Sidequest) Much Ado About Dodos
-- [x] (Sidequest) Beetle Juice
-- [x] (Sidequest) Fire and Brimstone
-- [x] (Sidequest) Moegramm Had a Little Lamb
-- [x] (Sidequest) Where the Heart Is (Mist)
-- [x] (Sidequest) Leves of Moraby
-- [x] (Sidequest) What Goes Around
-- [x] (Sidequest) Say It with Flowers
-- [x] (Sidequest) Failure to Lunch
-- [x] (Sidequest) Constant Carvings
-- [x] (Sidequest) A Bridge Too Full
-- [x] (Sidequest) Whack-a-Mole
-- [x] (Sidequest) Forbidden Island
-- [x] (Sidequest) Out to Dry
-- [x] (Sidequest) Rocks in a Hard Place
-- [x] (Sidequest) Back in the Water
-- [x] (Sidequest) Proper Procedure
-- [x] (Sidequest) The Right Price
-- [x] (Sidequest) Duty Calls
-- [x] (Sidequest) Edelweiss, Edelweiss
-- [x] (Sidequest) Good for What Ales You
-- [x] (Sidequest) I Stay the Streetlight
-- [x] (Sidequest) Lost and Found
-- [x] (Sidequest) Licensed to Reave
-- [x] (Sidequest) A Thousand Words
-- [x] (Sidequest) The Rats in the Wharf
-- [x] (Sidequest) Soothing the Savage Siren
-- [x] (Sidequest) A Sheepish Request
-- [x] (Sidequest) Saw That One Coming
+- [x] (Sidequests) Search and Seizure
+- [x] (Sidequests) Tackle the Problem
+- [x] (Sidequests) So Close yet So Far
+- [x] (Sidequests) Reasonable /Doubt
+- [x] (Sidequests) I Believe You Can Fly
+- [x] (Sidequests) Ticked Off
+- [x] (Sidequests) Where the Heart Is (The Goblet)
+- [x] (Sidequests) If I Had Glamour
+- [x] (Sidequests) Color Your World
+- [x] (Sidequests) Getting Your Bearings
+- [x] (Sidequests) By the Toe
+- [x] (Sidequests) For Their Eyes Only
+- [x] (Sidequests) Seeds of Change
+- [x] (Sidequests) Greasing the Cogs
+- [x] (Sidequests) Nor Rain nor Heat nor Gloom of Night
+- [x] (Sidequests) A Dab'll Do Ya
+- [x] (Sidequests) Forging the Spirit
+- [x] (Sidequests) Unholy Matrimony
+- [x] (Sidequests) Gil for Gold
+- [x] (Sidequests) Due Dilligence
+- [x] (Sidequests) Motivational Speaking
+- [x] (Sidequests) Tougher than Leather
+- [x] (Sidequests) In the Name of Science
+- [x] (Sidequests) Help Me, Lord of the Dance
+- [x] (Sidequests) Beat Read Beetles Beat Red
+- [x] (Sidequests) The Great Gladiator
+- [x] (Sidequests) With Open Arms
+- [x] (Sidequests) No Lady Is an Island
+- [x] (Sidequests) Decisions, Decisions
+- [x] (Sidequests) The Wealth of Nations
+- [x] (Sidequests) Vox Populi
+- [x] (Sidequests) A Luxury Long Lost
+- [x] (Sidequests) What Counts
+- [x] (Sidequests) Nailed It
+- [x] (Sidequests) Much Ado About Dodos
+- [x] (Sidequests) Beetle Juice
+- [x] (Sidequests) Fire and Brimstone
+- [x] (Sidequests) Moegramm Had a Little Lamb
+- [x] (Sidequests) Where the Heart Is (Mist)
+- [x] (Sidequests) Leves of Moraby
+- [x] (Sidequests) What Goes Around
+- [x] (Sidequests) Say It with Flowers
+- [x] (Sidequests) Failure to Lunch
+- [x] (Sidequests) Constant Carvings
+- [x] (Sidequests) A Bridge Too Full
+- [x] (Sidequests) Whack-a-Mole
+- [x] (Sidequests) Forbidden Island
+- [x] (Sidequests) Out to Dry
+- [x] (Sidequests) Rocks in a Hard Place
+- [x] (Sidequests) Back in the Water
+- [x] (Sidequests) Proper Procedure
+- [x] (Sidequests) The Right Price
+- [x] (Sidequests) Duty Calls
+- [x] (Sidequests) Edelweiss, Edelweiss
+- [x] (Sidequests) Good for What Ales You
+- [x] (Sidequests) I Stay the Streetlight
+- [x] (Sidequests) Lost and Found
+- [x] (Sidequests) Licensed to Reave
+- [x] (Sidequests) A Thousand Words
+- [x] (Sidequests) The Rats in the Wharf
+- [x] (Sidequests) Soothing the Savage Siren
+- [x] (Sidequests) A Sheepish Request
+- [x] (Sidequests) Saw That One Coming
 - [x] (Main Quest) Renewing the Covenant
 - [x] (Main Quest) Festive Endeavors
 - [x] (Main Quest) To Guard a Guardian
@@ -274,68 +286,69 @@
 - [x] (Main Quest) Salvaging the Scene
 - [x] (Main Quest) A Hearer Is Often Late
 - [x] (Main Quest) Migrant Marauders
-- [x] (Sidequest) The Replacement Culler
-- [x] (Sidequest) Stand-in Sentry
-- [x] (Sidequest) Swineophobia
-- [x] (Sidequest) Leves of Hawthorne
-- [x] (DRG Quest) Lance of Destiny
+- [x] (Sidequests) The Replacement Culler
+- [x] (Sidequests) Stand-in Sentry
+- [x] (Sidequests) Swineophobia
+- [x] (Sidequests) Leves of Hawthorne
+- [x] (DRG 20 Quest) Lance of Destiny
 - [x] (Main Quest) Threat Level Elevated
 - [x] (Main Quest) In the Grim Darkness of the Forest
 - [x] (Main Quest) Don't Look Down
-- [x] (Sidequest) Look, but Won't Touch
+- [x] (Sidequests) Look, but Won't Touch
 - [x] (Main Quest) You Shall Not Trespass
 - [x] (Main Quest) On to Bentbranch
-- [x] (Sidequest) Simply the Hest
-- [x] (Sidequest) Leves of Bentbranch
-- [x] (Main Quest) Spirithold Broken
-- [x] (Main Quest) A Soldier's Breakfast
-- [x] (Sidequest) Soil Despoilers
-- [x] (Sidequest) Parasite Cleave
-- [x] (Main Quest) Surveying the Damage
-- [x] (Sidequest) More than a Flesh Wound
-- [x] (Main Quest) Eggs over Queasy
-- [x] (DRG Quest) A Dangerous Proposition
-- [x] (Main Quest) Chasing Shadows
-- [x] (Main Quest) Passing Muster
-- [x] (Sidequest) Sting in a Bottle
-- [x] (Sidequest) Favor for the Fisherwoman
-- [x] (Sidequest) Slimy Hollows
-- [x] (Sidequest) Extending Fences
-- [x] (Sidequest) Walking the Planks
-- [x] (Sidequest) If Ye Break Faith
-- [x] (Sidequest) Not a Material Girl
-- [x] (Sidequest) Where the Heart Is (The Lavender Beds)
-- [x] (Main Quest) To the Bannock
-- [x] (Sidequest) The Kindness of Strangers
-- [x] (Sidequest) Drink Your Beans, Dear
-- [x] (Sidequest) No Quarter Given
-- [x] (Sidequest) The Valued Vilekin
-- [x] (Sidequest) Harriers of the Hedgetree
-- [x] (Sidequest) Death to the Bean Thieves
-- [x] (Sidequest) Jumping at Shadows
-- [x] (Sidequest) A Glim Harvest
-- [x] (DRG Quest) Courage of Stone
-- [x] (Sidequest) Hematophagic Harassment
-- [x] (Sidequest) A Clear Sign
-- [x] (Sidequest) The Nose Knows
-- [x] (Sidequest) Derision of Labor
-- [x] (Sidequest) Population Control
-- [x] (Sidequest) Splitting Shells
-- [x] (Sidequest) Idle Initiatives
-- [x] (Sidequest) A Hard Nut to Crack
-- [x] (Sidequest) Essential Oil
-- [x] (Sidequest) Incense and Sensibility
-- [x] (Sidequest) Covered in Roses
-- [x] (Sidequest) Once Bitten, Twice Shy
-- [x] (Sidequest) Sylphic Gratitude
-- [x] (Sidequest) I Am Millicent, Hear Me Roar
-- [x] (DRG Quest) Spear of the Fearless
-- [x] (Sidequest) Quarrels with Squirrels
-- [x] (Sidequest) Parsemontrenomics
-- [x] (Sidequest) For Friendship
-- [x] (Sidequest) Preserving the Past
-- [x] (Sidequest) Coarse Correspondence
-- [x] (Sidequest) A Good Adventurer Is Hard to Find
-- [x] (DRG Quest) Way of the Lancer
-- [x] (Main Quest) Close to Home
-- [x] (Main Quest) Coming to Gridania
+
+- [x] (Sidequests) Simply the Hest
+- [x] (Sidequests) Leves of Bentbranch
+- [x] (Main Scenario) Spirithold Broken
+- [x] (Main Scenario) A Soldier's Breakfast
+- [x] (Sidequests) Soil Despoilers
+- [x] (Sidequests) Parasite Cleave
+- [x] (Main Scenario) Surveying the Damage
+- [x] (Sidequests) More than a Flesh Wound
+- [x] (Other Quest) Eggs over Queasy
+- [x] (Class & Job Quests) Lancer Lv. 10 - A Dangerous Proposition
+- [x] (Main Scenario) Chasing Shadows
+- [x] (Main Scenario) Passing Muster
+- [x] (Sidequests) Sting in a Bottle
+- [x] (Sidequests) Favor for the Fisherwoman
+- [x] (Sidequests) Slimy Hollows
+- [x] (Sidequests) Extending Fences
+- [x] (Sidequests) Walking the Planks
+- [x] (Sidequests) If Ye Break Faith
+- [x] (Sidequests) Not a Material Girl
+- [x] (Sidequests) Where the Heart Is (The Lavender Beds)
+- [x] (Main Scenario) To the Bannock
+- [x] (Sidequests) The Kindness of Strangers
+- [x] (Sidequests) Drink Your Beans, Dear
+- [x] (Sidequests) No Quarter Given
+- [x] (Sidequests) The Valued Vilekin
+- [x] (Sidequests) Harriers of the Hedgetree
+- [x] (Sidequests) Death to the Bean Thieves
+- [x] (Sidequests) Jumping at Shadows
+- [x] (Sidequests) A Glim Harvest
+- [x] (Class & Job Quests) Lancer Lv. 10 - Courage of Stone
+- [x] (Sidequests) Hematophagic Harassment
+- [x] (Sidequests) A Clear Sign
+- [x] (Sidequests) The Nose Knows
+- [x] (Sidequests) Derision of Labor
+- [x] (Sidequests) Population Control
+- [x] (Sidequests) Splitting Shells
+- [x] (Sidequests) Idle Initiatives
+- [x] (Sidequests) A Hard Nut to Crack
+- [x] (Sidequests) Essential Oil
+- [x] (Sidequests) Incense and Sensibility
+- [x] (Sidequests) Covered in Roses
+- [x] (Sidequests) Once Bitten, Twice Shy
+- [x] (Sidequests) Sylphic Gratitude
+- [x] (Sidequests) I Am Millicent, Hear Me Roar
+- [x] (Class & Job Quests) Lancer Lv. 5 - Spear of the Fearless
+- [x] (Sidequests) Quarrels with Squirrels
+- [x] (Sidequests) Parsemontrenomics
+- [x] (Sidequests) For Friendship
+- [x] (Sidequests) Preserving the Past
+- [x] (Sidequests) Coarse Correspondence
+- [x] (Sidequests) A Good Adventurer Is Hard to Find
+- [x] (Class & Job Quests) Lancer Lv. 1 - Way of the Lancer
+- [x] (Main Scenario) Close to Home
+- [x] (Sidequests) Coming to Gridania
