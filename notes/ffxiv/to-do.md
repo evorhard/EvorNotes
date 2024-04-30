@@ -4,13 +4,13 @@
 
 - CRP: 13
 - BSM: 14
-- ARM: 11
+- ARM: 12
 - GSM: 9
 - LTW: 13
-- WVR: 16
+- WVR: 17
 - ALC: 11
 - CUL: 7
-- MIN: 10
+- MIN: 11
 - BTN: 13
 - FSH: 13
 - DRG: 34
