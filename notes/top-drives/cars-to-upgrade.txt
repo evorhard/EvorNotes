@@ -1,11 +1,67 @@
 =-=-=-=-=
-35 AMC AMX 390 [332]
+43 Citroen Visa Chrono [332]
 =-=-=-=-=
 
-22 audi cabriolet 2.3
-23 saturn ion
-23 fiat 500 coupe
+34 abarth 595 pista
+35 bmw 2002 turbo
+35 amc amx 390
+
+36 jaguar xj12
+36 ford torino talladega
+36 citroen c5 x plug-in hybrid
+
+38 mercedes-benz slk 200
+38 buick xp2000
+39 honda accord hybrid
 
 =-=-=-=-=
 17 Nissan President Sovereign (H252) [332]
 =-=-=-=-=
+
+18 peugeot ion
+18 jaguar xk120
+19 mazda demio mazdaspeed
+
+=-=-=-=-=
+21 Pontiac Trans Am [323]
+=-=-=-=-=
+
+23 fiat tipo
+23 citroen ds 4
+23 chrysler sebring
+
+24 pontiac grand am
+24 buick skylark gs coupe
+25 volvo 460 glt
+
+25 skoda fabia hatchback 1.0 tsi
+25 fiat panda
+26 peugeot 308
+
+26 mazda cosmo
+26 citroen cx gti turbo
+27 volvo 480 gt
+
+=-=-=-=-=
+27 Ford Crown Victoria [323]
+=-=-=-=-=
+
+27 nissan skyline hardtop 2000 gt-r (c10)
+27 nissan juke
+27 holden piazza turbo
+
+27 chevrolet captiva
+27 chevrolet captiva
+28 volvo s80 d5
+
+28 skoda fabia 1.0 tsi
+28 mitsubishi pajero field guard
+28 honda s-mx 4wd
+
+28 dodge conquest tsi
+28 dodge avenger
+28 de tomaso deauville
+
+28 citroen xm 2.0i turbo
+28 chrysler laser xt
+28 bristol britannia
