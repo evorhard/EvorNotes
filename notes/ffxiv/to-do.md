@@ -3,132 +3,147 @@
 ## Levels
 
 - CRP: 14
-- BSM: 14
-- ARM: 12
-- GSM: 10
+- BSM: 15
+- ARM: 13
+- GSM: 12
 - LTW: 14
-- WVR: 17
+- WVR: 18
 - ALC: 12
-- CUL: 8
-- MIN: 13
-- BTN: 14
-- FSH: 13
+- CUL: 12
+- MIN: 15
+- BTN: 18
+- FSH: 14
 - DRG: 34
 
 ## FFXIV To Do
 
 - [ ] [35] (Sidequests) Braving New Depths
-- [ ] (Main Quest) We Come in Peace
-- [ ] (DRG 30 Quest) Eye of the Dragon
-- [ ] (MIN 15 Quest) Getting in Deep
-- [x] (BTN 10 Quest) Weapons of a Feather
-- [x] (MIN 10 Quest) The Cutting Edge
-- [ ] (CUL 10 Quest) Dodo It Yourself
-- [ ] (ALC 10 Quest) All of Your Beeswax
-- [ ] (WVR 10 Quest) Alternative Applications
-- [ ] (LTW 10 Quest) Geva's Gambit
-- [ ] (GSM 10 Quest) Throw Some Rings on It
-- [ ] (ARM 10 Quest) The Base Fundamentals
-- [ ] (BSM 10 Quest) Riveting Ramblings
-- [ ] (CRP 10 Quest) Supplies for the Sick
-- [ ] (Crafting Log) Woodworking Recipe Level 1-5
-- [ ] (FSH 5 Quest) Bigger Fish to Fry
-- [x] (BTN 5 Quest) Sap for Smiles
-- [x] (MIN 5 Quest) Know Thy Land
-- [x] (CUL 5 Quest) A Treat of Trout
-- [x] (ALC 5 Quest) The Second Principle
-- [x] (WVR 5 Quest) Once More unto the Breeches
-- [x] (LTW 5 Quest) A Test of Technique
-- [x] (GSM 5 Quest) Gorgets Rising
-- [x] (ARM 5 Quest) From Thigh to Neck
-- [x] (BSM 5 Quest) Hammer Time
-- [x] (CRP 5 Quest) To Be the Wood
-- [x] (Crafting: DRG 5) Leather Crakows
-- [x] (Crafting: DRG 5) Altered Thighboots
-- [x] (Crafting: DRG 5) Hempen Sarouel
-- [x] (Crafting: DRG 5) Fingerless Leather Gloves
-- [x] (Crafting: DRG 5) Hempen Tabard
-- [x] (Crafting: DRG 5) Leather Eyepatch
-- [x] (Crafting: DRG 5) Bone Harpoon
-- [x] (Grand Company) Delivery Missions
-- [x] (Crafting: MIN 5) Leather Choker
-- [x] (Crafting: MIN 5) Leather Shoes
-- [x] (Crafting: MIN 5) Leather Culottes
-- [x] (Crafting: CUL 5) Amateur's Culinary Knife
-- [x] (Crafting: ALC 5) Amateur's Mortar
-- [x] (Crafting: WVR 5) Amateur's Spinning Wheel
-- [x] (Crafting: LTW 5) Amateur's Awl
-- [x] (Crafting: GSM 5) Amateur's Grinding Wheel
-- [x] (Crafting: ARM 5) Amateur's Pliers
-- [x] (Crafting: BSM 5) Amateur's File
-- [x] (Crafting: CRP 5) Maple Patten
-- [x] (Crafting: CRP 5) Hempen Chausses
-- [x] (Crafting: CRP 5) Hempen Bandana
-- [x] (Crafting: CRP 5) Amateur's Claw Hammer
-- [x] (Grand Company) Delivery Missions
-- [x] (Crafting: MIN 1) Leather Duckbills of Gathering
-- [x] (Crafting: MIN 1) Hempen Shepherd's Slops
-- [x] (Crafting: MIN 1) Leather Wristguards
-- [x] (Crafting: MIN 1) Hempen Dalmatica of Gathering
-- [x] (Crafting: MIN 1) Hempen Coif of Gathering
-- [x] (Crafting: CRP 1) Maple Clogs
-- [x] (Crafting: CRP 1) Hempen Breeches of Crafting
-- [x] (Crafting: CRP 1) Hempen Halfgloves
-- [x] (Crafting: CRP 1) Hempen Kurta
-- [x] (Crafting: CRP 1) Leather Calot
+- [ ] (Other Quests) We Come in Peace
+- [ ] (Class & Job Quests) DRG Lv. 30 - Eye of the Dragon
+- [ ] (Class & Job Quests) BTN Lv. 15 - Haste Makes Waste
+- [ ] (Class & Job Quests) MIN Lv. 15 - Getting in Deep
+- [ ] (Class & Job Quests) FSH Lv. 10 - The Princess and the Fish
+- [x] (Class & Job Quests) BTN Lv. 10 - Weapons of a Feather
+- [x] (Class & Job Quests) MIN Lv. 10 - The Cutting Edge
+- [ ] (Class & Job Quests) CUL Lv. 10 - Dodo It Yourself
+- [ ] (Class & Job Quests) ALC Lv. 10 - All of Your Beeswax
+- [ ] (Class & Job Quests) WVR Lv. 10 - Alternative Applications
+- [ ] (Class & Job Quests) LTW Lv. 10 - Geva's Gambit
+- [ ] (Class & Job Quests) GSM Lv. 10 - Throw Some Rings on It
+- [ ] (Class & Job Quests) ARM Lv. 10 - The Base Fundamentals
+- [ ] (Class & Job Quests) BSM Lv. 10 - Riveting Ramblings
+- [ ] (Class & Job Quests) CRP Lv. 10 - Supplies for the Sick
+- [ ] (Crafting) ARM Lv. 8 - Bronze Doming Hammer
+- [x] (Crafting) BSM Lv. 8 - Bronze Cross-pein Hammer
+- [x] (Crafting) CRP Lv. 8 - Bronze Saw
+- [x] (Crafting) MIN Lv. 7 - Copper Earrings
+- [x] (Crafting) CRP Lv. 6 - Hempen Shortgloves
+- [x] (Crafting) CRP Lv. 6 - Hempen Shepherd's Tunic
+- [x] (Crafting) Cooking Log Recipe Level 1-5
+- [x] (Crafting) Alchemy Log Recipe Level 1-5
+- [x] (Crafting) Clothcraft Log Recipe Level 1-5
+- [x] (Crafting) Leatherworking Log Recipe Level 1-5
+- [x] (Crafting) Goldsmithing Log Recipe Level 1-5
+- [x] (Crafting) Armorcraft Log Recipe Level 1-5
+- [x] (Crafting) Smithing Log Recipe Level 1-5
+- [x] (Crafting) Woodworking Log Recipe Level 1-5
+- [x] (Class & Job Quests) FSH Lv. 5 - Bigger Fish to Fry
+- [x] (Class & Job Quests) BTN Lv. 5 - Sap for Smiles
+- [x] (Class & Job Quests) MIN Lv. 5 - Know Thy Land
+- [x] (Class & Job Quests) CUL Lv. 5 - A Treat of Trout
+- [x] (Class & Job Quests) ALC Lv. 5 - The Second Principle
+- [x] (Class & Job Quests) WVR Lv. 5 - Once More unto the Breeches
+- [x] (Class & Job Quests) LTW Lv. 5 - A Test of Technique
+- [x] (Class & Job Quests) GSM Lv. 5 - Gorgets Rising
+- [x] (Class & Job Quests) ARM Lv. 5 - From Thigh to Neck
+- [x] (Class & Job Quests) BSM Lv. 5 - Hammer Time
+- [x] (Class & Job Quests) CRP Lv. 5 - To Be the Wood
+- [x] (Crafting) DRG Lv. 5 - Leather Crakows
+- [x] (Crafting) DRG Lv. 5 - Altered Thighboots
+- [x] (Crafting) DRG Lv. 5 - Hempen Sarouel
+- [x] (Crafting) DRG Lv. 5 - Fingerless Leather Gloves
+- [x] (Crafting) DRG Lv. 5 - Hempen Tabard
+- [x] (Crafting) DRG Lv. 5 - Leather Eyepatch
+- [x] (Crafting) DRG Lv. 5 - Bone Harpoon
+- [x] (Grand Company) Supply and Provisioning Missions
+- [x] (Crafting) MIN Lv. 5 - Leather Choker
+- [x] (Crafting) MIN Lv. 5 - Leather Shoes
+- [x] (Crafting) MIN Lv. 5 - Leather Culottes
+- [x] (Crafting) CUL Lv. 5 - Amateur's Culinary Knife
+- [x] (Crafting) ALC Lv. 5 - Amateur's Mortar
+- [x] (Crafting) WVR Lv. 5 - Amateur's Spinning Wheel
+- [x] (Crafting) LTW Lv. 5 - Amateur's Awl
+- [x] (Crafting) GSM Lv. 5 - Amateur's Grinding Wheel
+- [x] (Crafting) ARM Lv. 5 - Amateur's Pliers
+- [x] (Crafting) BSM Lv. 5 - mateur's File
+- [x] (Crafting) CRP Lv. 5 - Maple Patten
+- [x] (Crafting) CRP Lv. 5 - Hempen Chausses
+- [x] (Crafting) CRP Lv. 5 - Hempen Bandana
+- [x] (Crafting) CRP Lv. 5 - Amateur's Claw Hammer
+- [x] (Grand Company) Supply and Provisioning Missions
+- [x] (Crafting) MIN Lv. 1 - Leather Duckbills of Gathering
+- [x] (Crafting) MIN Lv. 1 - Hempen Shepherd's Slops
+- [x] (Crafting) MIN Lv. 1 - Leather Wristguards
+- [x] (Crafting) MIN Lv. 1 - Hempen Dalmatica of Gathering
+- [x] (Crafting) MIN Lv. 1 - Hempen Coif of Gathering
+- [x] (Crafting) CRP Lv. 1 - Maple Clogs
+- [x] (Crafting) CRP Lv. 1 - Hempen Breeches of Crafting
+- [x] (Crafting) CRP Lv. 1 - Hempen Halfgloves
+- [x] (Crafting) CRP Lv. 1 - Hempen Kurta
+- [x] (Crafting) CRP Lv. 1 - Leather Calot
 - [x] (Sidequests) All the Fish in the Sea
-- [x] (FSH Quest) My First Fishing Rod
-- [x] (FSH Quest) Way of the Fisher
-- [x] (BTN Quest) My First Hatchet
-- [x] (BTN Quest) Way of the Botanist
-- [x] (MIN Quest) My First Pickaxe
+- [x] (Class & Job Quests) FSH Lv. 1 - My First Fishing Rod
+- [x] (Class & Job Quests) FSH Lv. 1 - Way of the Fisher
+- [x] (Class & Job Quests) BTN Lv. 1 - My First Hatchet
+- [x] (Class & Job Quests) BTN Lv. 1 - Way of the Botanist
+- [x] (Class & Job Quests) MIN Lv. 1 - My First Pickaxe
 - [x] (Sidequests) Marvelously Mutable Materia
-- [x] (MIN Quest) Way of the Miner
-- [x] (CUL Quest) My First Skillet
-- [x] (CUL Quest) Way of the Culinarian
-- [x] (ALC Quest) My First Alembic
-- [x] (ALC Quest) Way of the Alchemist
-- [x] (WVR Quest) My First Needle
-- [x] (WVR Quest) Way of the Weaver
-- [x] (LTW Quest) My First Head Knife
-- [x] (LTW Quest) Way of the Leatherworker
-- [x] (Main Quest) Sylph-management
+- [x] (Class & Job Quests) MIN Lv. 1 - Way of the Miner
+- [x] (Class & Job Quests) CUL Lv. 1 - My First Skillet
+- [x] (Class & Job Quests) CUL Lv. 1 - Way of the Culinarian
+- [x] (Class & Job Quests) ALC Lv. 1 - My First Alembic
+- [x] (Class & Job Quests) ALC Lv. 1 - Way of the Alchemist
+- [x] (Class & Job Quests) WVR Lv. 1 - My First Needle
+- [x] (Class & Job Quests) WVR Lv. 1 - Way of the Weaver
+- [x] (Class & Job Quests) LTW Lv. 1 - My First Head Knife
+- [x] (Class & Job Quests) LTW Lv. 1 - Way of the Leatherworker
+- [x] (Main Scenario) Sylph-management
 - [x] (Sidequests) A Sight to Behold
-- [x] (GSM Quest) My First Chaser Hammer
-- [x] (GSM Quest) Way of the Goldsmith
-- [x] (ARM Quest) My First Doming Hammer
-- [x] (ARM Quest) Way of the Armorer
-- [x] (BSM Quest) My First Cross-pein Hammer
-- [x] (BSM Quest) Way of the Blacksmith
-- [x] (CRP Quest) My First Saw
-- [x] (CRP Quest) Way of the Carpenter
+- [x] (Class & Job Quests) GSM Lv. 1 - My First Chaser Hammer
+- [x] (Class & Job Quests) GSM Lv. 1 - Way of the Goldsmith
+- [x] (Class & Job Quests) ARM Lv. 1 - My First Doming Hammer
+- [x] (Class & Job Quests) ARM Lv. 1 - Way of the Armorer
+- [x] (Class & Job Quests) BSM Lv. 1 - My First Cross-pein Hammer
+- [x] (Class & Job Quests) BSM Lv. 1 - Way of the Blacksmith
+- [x] (Class & Job Quests) CRP Lv. 1 - My First Saw
+- [x] (Class & Job Quests) CRP Lv. 1 - Way of the Carpenter
 - [x] (Sidequests) My Feisty Little Chocobo
-- [x] (Sidequests) Like Civilized Men and Women (Twin Adder)
+- [x] (Other Quests) Like Civilized Men and Women (Twin Adder)
 - [x] (Sidequests) My Little Chocobo (Twin Adder)
 - [x] (Sidequests) The Crystal (Line's) Call
 - [x] (Sidequests) Earning Your Wings
 - [x] (Sidequests) It's Time to Duel
-- [x] (Sidequests) A Pup No Longer (Twin Adder)
-- [x] (Main Quest) Would's Will Be Done
-- [x] (Main Quest) The Company You Keep (Twin Adder)
-- [x] (Main Quest) A Hero in the Making
+- [x] (Other Quests) A Pup No Longer (Twin Adder)
+- [x] (Main Scenario) Wood's Will Be Done
+- [x] (Main Scenario) The Company You Keep (Twin Adder)
+- [x] (Main Scenario) A Hero in the Making
 - [x] (Sidequests) An Ill-conceived Venture
-- [x] (Main Quest) Lord of the Inferno
+- [x] (Main Scenario) Lord of the Inferno
 - [x] (Sidequests) Hallo Halatali
-- [x] (Main Quest) Life, Materia and Everything
-- [x] (Main Quest) Dressed to Deceive
-- [x] (Main Quest) Amalj'aa Wrong Places
-- [x] (Main Quest) For the Children
+- [x] (Main Scenario) Life, Materia and Everything
+- [x] (Main Scenario) Dressed to Deceive
+- [x] (Main Scenario) Amalj'aa Wrong Places
+- [x] (Main Scenario) For the Children
 - [x] (Sidequests) There's Mythril in Them Thar Hills
 - [x] (Sidequests) Now Hiring
 - [x] (Sidequests) Steaking Claims
-- [x] (Main Quest) A Proper Burial
-- [x] (Main Quest) What Poor People Think
-- [x] (Main Quest) Unsolved Mystery
-- [x] (Main Quest) A Wild Rose by Any Other Name
+- [x] (Main Scenario) A Proper Burial
+- [x] (Main Scenario) What Poor People Think
+- [x] (Main Scenario) Unsolved Mystery
+- [x] (Main Scenario) A Wild Rose by Any Other Name
 - [x] (Sidequests) Purging the Earth
 - [x] (Sidequests) Honoring the Dead
-- [x] (Sidequests) Lichyard Lillies
+- [x] (Sidequests) Lichyard Lilies
 - [x] (Sidequests) Friendlier Skies
 - [x] (Sidequests) The Perils of Pilgrimage
 - [x] (Sidequests) Buzzing at Church
@@ -145,10 +160,10 @@
 - [x] (Sidequests) Leves of Camp Drybone
 - [x] (Sidequests) The House That Death Built
 - [x] (Sidequests) Leves of Camp Tranquil
-- [x] (Main Quest) The Scions of the Seventh Dawn
-- [x] (Main Quest) Into a Copper Hell
-- [x] (Main Quest) Call of the Desert
-- [x] (DRG 30 Quest) Proof of Might
+- [x] (Main Scenario) The Scions of the Seventh Dawn
+- [x] (Main Scenario) Into a Copper Hell
+- [x] (Main Scenario) Call of the Desert
+- [x] (Class & Job Quests) LNC Lv. 30 - Proof of Might
 - [x] (Sidequests) Meals for Miners
 - [x] (Sidequests) Trouble on the Road
 - [x] (Sidequests) Cleaning House
@@ -160,15 +175,15 @@
 - [x] (Sidequests) No Place Like Home
 - [x] (Sidequests) A Welcome Overstayed
 - [x] (Sidequests) Digging in the Dark
-- [x] (Main Quest) Fire in the Gloom
-- [x] (Main Quest) Call of the Forest
+- [x] (Main Scenario) Fire in the Gloom
+- [x] (Main Scenario) Call of the Forest
 - [x] (Sidequests) In Too Deep
 - [x] (Sidequests) Doing the Dirty Work
 - [x] (Sidequests) Shocking Discoveries
 - [x] (Sidequests) Fungal Frolic
 - [x] (Sidequests) Beneath the Planks
 - [x] (Sidequests) Broadening Horizons
-- [x] (Main Quest) It's Probably Pirates
+- [x] (Main Scenario) It's Probably Pirates
 - [x] (Sidequests) I Hereby Relieve You
 - [x] (Sidequests) Scythe Extra Large
 - [x] (Sidequests) My Brother's Not a Keeper
@@ -198,23 +213,23 @@
 - [x] (Sidequests) The Trees Have Eyes
 - [x] (Sidequests) Cloven-hoofed Horrors
 - [x] (Sidequests) No Guts, No Glory
-- [x] (DRG 25 Quest) Questions and Lancers
+- [x] (Class & Job Quests) LNC Lv. 25 - Questions and Lancers
 - [x] (Sidequests) Leves of Aleport
 - [x] (Sidequests) Beauty is Only Scalp Deep
 - [x] (Sidequests) So You Think You Can Ride This Chocobo
-- [x] (Sidequests) So You Want to Be a Jocky
-- [x] (Sidequests) Open and Inviting
-- [x] (Sidequests) Triple Triad Trial
-- [x] (Sidequests) Hitting the Cactpot
+- [x] (Sidequests) So You Want to Be a Jockey
+- [x] (Other Quests) Open and Inviting
+- [x] (Other Quests) Triple Triad Trial
+- [x] (Other Quests) Hitting the Cactpot
 - [x] (Sidequests) Every Little Thing She Does is Mahjong
 - [x] (Sidequests) Passion for Fashion
-- [x] (Sidequests) Scratch It Rich
+- [x] (Other Quests) Scratch It Rich
 - [x] (Sidequests) World of Wonders
 - [x] (Sidequests) Rising to the Challenge
 - [x] (Sidequests) It Could Happen to You
-- [x] (Sidequests) A Complete Game Changer
-- [x] (Main Quest) Call of the Sea
-- [x] (Main Quest) The Gridanian Envoy
+- [x] (Other Quests) A Complete Game Changer
+- [x] (Main Scenario) Call of the Sea
+- [x] (Main Scenario) The Gridanian Envoy
 - [x] (Sidequests) Search and Seizure
 - [x] (Sidequests) Tackle the Problem
 - [x] (Sidequests) So Close yet So Far
@@ -234,12 +249,12 @@
 - [x] (Sidequests) Forging the Spirit
 - [x] (Sidequests) Unholy Matrimony
 - [x] (Sidequests) Gil for Gold
-- [x] (Sidequests) Due Dilligence
+- [x] (Sidequests) Due Diligence
 - [x] (Sidequests) Motivational Speaking
 - [x] (Sidequests) Tougher than Leather
 - [x] (Sidequests) In the Name of Science
 - [x] (Sidequests) Help Me, Lord of the Dance
-- [x] (Sidequests) Beat Read Beetles Beat Red
+- [x] (Sidequests) Beat Red Beetles Beat Red
 - [x] (Sidequests) The Great Gladiator
 - [x] (Sidequests) With Open Arms
 - [x] (Sidequests) No Lady Is an Island
@@ -278,26 +293,25 @@
 - [x] (Sidequests) Soothing the Savage Siren
 - [x] (Sidequests) A Sheepish Request
 - [x] (Sidequests) Saw That One Coming
-- [x] (Main Quest) Renewing the Covenant
-- [x] (Main Quest) Festive Endeavors
-- [x] (Main Quest) To Guard a Guardian
-- [x] (Main Quest) Dread Is in the Air
-- [x] (Main Quest) Leia's Legacy
-- [x] (Main Quest) Salvaging the Scene
-- [x] (Main Quest) A Hearer Is Often Late
-- [x] (Main Quest) Migrant Marauders
+- [x] (Main Scenario) Renewing the Covenant
+- [x] (Main Scenario) Festive Endeavors
+- [x] (Main Scenario) To Guard a Guardian
+- [x] (Main Scenario) Dread Is in the Air
+- [x] (Main Scenario) Leia's Legacy
+- [x] (Main Scenario) Salvaging the Scene
+- [x] (Main Scenario) A Hearer Is Often Late
+- [x] (Main Scenario) Migrant Marauders
 - [x] (Sidequests) The Replacement Culler
 - [x] (Sidequests) Stand-in Sentry
-- [x] (Sidequests) Swineophobia
+- [x] (Sidequests) Swinophobia
 - [x] (Sidequests) Leves of Hawthorne
-- [x] (DRG 20 Quest) Lance of Destiny
-- [x] (Main Quest) Threat Level Elevated
-- [x] (Main Quest) In the Grim Darkness of the Forest
-- [x] (Main Quest) Don't Look Down
+- [x] (Class & Job Quests) LNC Lv. 20 - Lance of Destiny
+- [x] (Main Scenario) Threat Level Elevated
+- [x] (Main Scenario) In the Grim Darkness of the Forest
+- [x] (Main Scenario) Don't Look Down
 - [x] (Sidequests) Look, but Won't Touch
-- [x] (Main Quest) You Shall Not Trespass
-- [x] (Main Quest) On to Bentbranch
-
+- [x] (Main Scenario) You Shall Not Trespass
+- [x] (Main Scenario) On to Bentbranch
 - [x] (Sidequests) Simply the Hest
 - [x] (Sidequests) Leves of Bentbranch
 - [x] (Main Scenario) Spirithold Broken
@@ -307,7 +321,7 @@
 - [x] (Main Scenario) Surveying the Damage
 - [x] (Sidequests) More than a Flesh Wound
 - [x] (Other Quest) Eggs over Queasy
-- [x] (Class & Job Quests) Lancer Lv. 10 - A Dangerous Proposition
+- [x] (Class & Job Quests) LNC Lv. 15 - A Dangerous Proposition
 - [x] (Main Scenario) Chasing Shadows
 - [x] (Main Scenario) Passing Muster
 - [x] (Sidequests) Sting in a Bottle
@@ -327,7 +341,7 @@
 - [x] (Sidequests) Death to the Bean Thieves
 - [x] (Sidequests) Jumping at Shadows
 - [x] (Sidequests) A Glim Harvest
-- [x] (Class & Job Quests) Lancer Lv. 10 - Courage of Stone
+- [x] (Class & Job Quests) LNC Lv. 10 - Courage of Stone
 - [x] (Sidequests) Hematophagic Harassment
 - [x] (Sidequests) A Clear Sign
 - [x] (Sidequests) The Nose Knows
@@ -342,13 +356,13 @@
 - [x] (Sidequests) Once Bitten, Twice Shy
 - [x] (Sidequests) Sylphic Gratitude
 - [x] (Sidequests) I Am Millicent, Hear Me Roar
-- [x] (Class & Job Quests) Lancer Lv. 5 - Spear of the Fearless
+- [x] (Class & Job Quests) LNC Lv. 5 - Spear of the Fearless
 - [x] (Sidequests) Quarrels with Squirrels
 - [x] (Sidequests) Parsemontrenomics
 - [x] (Sidequests) For Friendship
 - [x] (Sidequests) Preserving the Past
 - [x] (Sidequests) Coarse Correspondence
 - [x] (Sidequests) A Good Adventurer Is Hard to Find
-- [x] (Class & Job Quests) Lancer Lv. 1 - Way of the Lancer
+- [x] (Class & Job Quests) LNC Lv. 1 - Way of the Lancer
 - [x] (Main Scenario) Close to Home
 - [x] (Sidequests) Coming to Gridania
