@@ -3,14 +3,14 @@
 ## Levels
 
 - CRP: 14
-- BSM: 15
-- ARM: 13
-- GSM: 12
+- BSM: 16
+- ARM: 14
+- GSM: 13
 - LTW: 14
 - WVR: 18
 - ALC: 12
 - CUL: 12
-- MIN: 15
+- MIN: 16
 - BTN: 18
 - FSH: 14
 - DRG: 34
@@ -33,7 +33,26 @@
 - [ ] (Class & Job Quests) ARM Lv. 10 - The Base Fundamentals
 - [ ] (Class & Job Quests) BSM Lv. 10 - Riveting Ramblings
 - [ ] (Class & Job Quests) CRP Lv. 10 - Supplies for the Sick
-- [ ] (Crafting) ARM Lv. 8 - Bronze Doming Hammer
+- [ ] (Crafting) LNC Lv. 8 - Leather Wristbands
+- [ ] (Crafting) LNC Lv. 8 - Copper Gorget
+- [ ] (Crafting) LNC Lv. 8 - Leather Leggings
+- [ ] (Crafting) LNC Lv. 8 - Bronze Sollerets
+- [ ] (Crafting) LNC Lv. 8 - Hempen Kecks
+- [ ] (Crafting) LNC Lv. 8 - Leather Mitts
+- [ ] (Crafting) LNC Lv. 8 - Hempen Acton
+- [ ] (Crafting) LNC Lv. 8 - Bronze Haubergeon
+- [ ] (Crafting) LNC Lv. 8 - Hard Leather Pot Helm
+- [ ] (Crafting) LNC Lv. 8 - Bronze Chain Coif
+- [ ] (Crafting) LNC Lv. 8 - Bronze Spear
+- [x] (Crafting) FSH Lv. 8 - Maple Fishing Rod
+- [x] (Crafting) BTN Lv. 8 - Bronze Hatchet
+- [x] (Crafting) MIN Lv. 8 - Bronze Pickaxe
+- [x] (Crafting) CUL Lv. 8 - Bronze Skillet
+- [x] (Crafting) ALC Lv. 8 - Bronze Alembic
+- [x] (Crafting) WVR Lv. 8 - Copper Needle
+- [x] (Crafting) LTW Lv. 8 - Bronze Head Knife
+- [x] (Crafting) GSM Lv. 8 - Bronze Chaser Hammer
+- [x] (Crafting) ARM Lv. 8 - Bronze Doming Hammer
 - [x] (Crafting) BSM Lv. 8 - Bronze Cross-pein Hammer
 - [x] (Crafting) CRP Lv. 8 - Bronze Saw
 - [x] (Crafting) MIN Lv. 7 - Copper Earrings
@@ -58,13 +77,13 @@
 - [x] (Class & Job Quests) ARM Lv. 5 - From Thigh to Neck
 - [x] (Class & Job Quests) BSM Lv. 5 - Hammer Time
 - [x] (Class & Job Quests) CRP Lv. 5 - To Be the Wood
-- [x] (Crafting) DRG Lv. 5 - Leather Crakows
-- [x] (Crafting) DRG Lv. 5 - Altered Thighboots
-- [x] (Crafting) DRG Lv. 5 - Hempen Sarouel
-- [x] (Crafting) DRG Lv. 5 - Fingerless Leather Gloves
-- [x] (Crafting) DRG Lv. 5 - Hempen Tabard
-- [x] (Crafting) DRG Lv. 5 - Leather Eyepatch
-- [x] (Crafting) DRG Lv. 5 - Bone Harpoon
+- [x] (Crafting) LNC Lv. 5 - Leather Crakows
+- [x] (Crafting) LNC Lv. 5 - Altered Thighboots
+- [x] (Crafting) LNC Lv. 5 - Hempen Sarouel
+- [x] (Crafting) LNC Lv. 5 - Fingerless Leather Gloves
+- [x] (Crafting) LNC Lv. 5 - Hempen Tabard
+- [x] (Crafting) LNC Lv. 5 - Leather Eyepatch
+- [x] (Crafting) LNC Lv. 5 - Bone Harpoon
 - [x] (Grand Company) Supply and Provisioning Missions
 - [x] (Crafting) MIN Lv. 5 - Leather Choker
 - [x] (Crafting) MIN Lv. 5 - Leather Shoes
