@@ -1,35 +1,23 @@
 =-=-=-=-=
-61 Dodge Charger R/T Scat Pack [233]
+38 Ford Ranchero [332]
 =-=-=-=-=
 
-45 citroen c2-r2 max
-46 jaguar d-type
-47 volkswagen new beetle rsi
+20 suzuki ertiga
+20 maserati 3500 gt
+20 ginetta g26
 
-47 maserati shamal
-47 ford fpv gt
-49 mitsubishi galant vr-4 type s
+20 ford c-max
+21 volkswagen golf gti
+21 oldsmobile delmont 88
 
-49 mitsubishi e-Evolution
-49 ford fpv force 6
-49 ford fpv force 6
+21 mitsubishi starion gsr-i
+21 mitsubishi mirage
+21 mercury milan
 
-=-=-=-=-=
-17 Buick Electra [332]
-=-=-=-=-=
+21 ford fiesta xr2
+21 ford fiesta
+22 ford fiesta xr2i
 
-14 lincoln continental convertible
-14 chevrolet bel air
-15 volkswagen polo
-
-15 subaru rex
-15 holdon monaro gts sedan (hx)
-15 ford thunderbird
-
-16 renault clio
-16 ford escort xr3i
-17 nissan micra
-
-17 mitsubishi l200
-17 bentley mulsanne s
-19 skoda funstar
+23 nissan silvia j's (s13)
+23 ford granada 2.8i s
+23 ford granada 2.8i s
