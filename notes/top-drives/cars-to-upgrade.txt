@@ -1,23 +1,4 @@
 =-=-=-=-=
-38 Ford Ranchero [332]
+31 Buick Roadmaster Wagon [323]
 =-=-=-=-=
 
-20 suzuki ertiga
-20 maserati 3500 gt
-20 ginetta g26
-
-20 ford c-max
-21 volkswagen golf gti
-21 oldsmobile delmont 88
-
-21 mitsubishi starion gsr-i
-21 mitsubishi mirage
-21 mercury milan
-
-21 ford fiesta xr2
-21 ford fiesta
-22 ford fiesta xr2i
-
-23 nissan silvia j's (s13)
-23 ford granada 2.8i s
-23 ford granada 2.8i s
