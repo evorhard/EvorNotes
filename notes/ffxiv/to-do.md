@@ -2,7 +2,7 @@
 
 ## Levels
 
-- CRP: 15
+- CRP: 16
 - BSM: 16
 - ARM: 15
 - GSM: 14
@@ -13,7 +13,7 @@
 - MIN: 16
 - BTN: 19
 - FSH: 14
-- LNC: 34
+- LNC: 35
 
 ## FFXIV To Do
 
@@ -33,10 +33,15 @@
 - [ ] (Class & Job Quests) ARM Lv. 10 - The Base Fundamentals
 - [ ] (Class & Job Quests) BSM Lv. 10 - Riveting Ramblings
 - [ ] (Class & Job Quests) CRP Lv. 10 - Supplies for the Sick
-- [ ] (Crafting) BTN Lv. 10 - Bronze Scythe
-- [ ] (Crafting) MIN Lv. 10 - Amateur's Slops
-- [ ] (Crafting) MIN Lv. 10 - Straw Hat
-- [ ] (Crafting) MIN Lv. 10 - Bronze Sledgehammer
+- [x] (Crafting) LNC Lv. 10 - Leather Jackboots
+- [x] (Crafting) LNC Lv. 10 - Hempen Trousers
+- [x] (Crafting) LNC Lv. 10 - Leather jacket
+- [x] (Crafting) LNC Lv. 10 - Bronze Sallet
+- [x] (Crafting) LNC Lv. 10 - Ramhorn Harpoon
+- [x] (Crafting) BTN Lv. 10 - Bronze Scythe
+- [x] (Crafting) MIN Lv. 10 - Amateur's Slops
+- [x] (Crafting) MIN Lv. 10 - Straw Hat
+- [x] (Crafting) MIN Lv. 10 - Bronze Sledgehammer
 - [x] (Crafting) CRP Lv. 10 - Amateur's Thighboots
 - [x] (Crafting) CRP Lv. 10 - Hempen Bottoms
 - [x] (Crafting) CRP Lv. 10 - Amateur's Smithing Gloves

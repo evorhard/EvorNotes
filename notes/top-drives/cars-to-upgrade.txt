@@ -2,3 +2,30 @@
 31 Buick Roadmaster Wagon [323]
 =-=-=-=-=
 
+23 dodge caravan turbo
+24 opel diplomat a v8 coupe
+24 nissan 280zx turbo
+
+24 cadillac fleetwood eldorado
+25 volvo 460 glt
+25 ford falcon 'bathurst' cobra
+
+=-=-=-=-=
+38 Volvo V70 T5 [332]
+=-=-=-=-=
+
+28 volvo 440 turbo
+28 peugeot 406 coupe
+28 lancia fulvia sport 1600
+
+28 ford mondeo estate
+28 fiat 500x
+28 alfa romeo alfetta gtv
+
+=-=-=-=-=
+48 Renault Clio 200 [323]
+=-=-=-=-=
+
+=-=-=-=-=
+48 Renault R21 Turbo Europa Cup [323]
+=-=-=-=-=
