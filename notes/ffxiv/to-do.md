@@ -3,11 +3,11 @@
 ## Levels
 
 - CRP: 16
-- BSM: 16
-- ARM: 15
-- GSM: 14
-- LTW: 17
-- WVR: 19
+- BSM: 17
+- ARM: 16
+- GSM: 15
+- LTW: 18
+- WVR: 20
 - ALC: 13
 - CUL: 12
 - MIN: 16
@@ -17,22 +17,28 @@
 
 ## FFXIV To Do
 
-- [ ] [35] (Sidequests) Braving New Depths
+- [ ] [38] (Sidequests) Dishonor Before Death
 - [ ] (Other Quests) We Come in Peace
+- [ ] (Sidequests) Braving New Depths
 - [ ] (Class & Job Quests) DRG Lv. 30 - Eye of the Dragon
 - [ ] (Class & Job Quests) BTN Lv. 15 - Haste Makes Waste
 - [ ] (Class & Job Quests) MIN Lv. 15 - Getting in Deep
+- [ ] (Class & Job Quests) LTW Lv. 15 - Working Hells for Leather
+- [ ] (Class & Job Quests) GSM Lv. 15 - Objectively Speaking
+- [ ] (Class & Job Quests) ARM Lv. 15 - One's Own Worst Critic
+- [ ] (Class & Job Quests) BSM Lv. 15 - The Business of Blacksmithing
+- [ ] (Class & Job Quests) CRP Lv. 15 - A Carpenter in Need
 - [ ] (Class & Job Quests) FSH Lv. 10 - The Princess and the Fish
 - [x] (Class & Job Quests) BTN Lv. 10 - Weapons of a Feather
 - [x] (Class & Job Quests) MIN Lv. 10 - The Cutting Edge
 - [ ] (Class & Job Quests) CUL Lv. 10 - Dodo It Yourself
 - [ ] (Class & Job Quests) ALC Lv. 10 - All of Your Beeswax
 - [ ] (Class & Job Quests) WVR Lv. 10 - Alternative Applications
-- [ ] (Class & Job Quests) LTW Lv. 10 - Geva's Gambit
-- [ ] (Class & Job Quests) GSM Lv. 10 - Throw Some Rings on It
-- [ ] (Class & Job Quests) ARM Lv. 10 - The Base Fundamentals
-- [ ] (Class & Job Quests) BSM Lv. 10 - Riveting Ramblings
-- [ ] (Class & Job Quests) CRP Lv. 10 - Supplies for the Sick
+- [x] (Class & Job Quests) LTW Lv. 10 - Geva's Gambit
+- [x] (Class & Job Quests) GSM Lv. 10 - Throw Some Rings on It
+- [x] (Class & Job Quests) ARM Lv. 10 - The Base Fundamentals
+- [x] (Class & Job Quests) BSM Lv. 10 - Riveting Ramblings
+- [x] (Class & Job Quests) CRP Lv. 10 - Supplies for the Sick
 - [x] (Crafting) LNC Lv. 10 - Leather Jackboots
 - [x] (Crafting) LNC Lv. 10 - Hempen Trousers
 - [x] (Crafting) LNC Lv. 10 - Leather jacket

@@ -1,26 +1,74 @@
 =-=-=-=-=
-31 Buick Roadmaster Wagon [323]
+45 Buick Verano Pro GS [323]
 =-=-=-=-=
 
-23 dodge caravan turbo
-24 opel diplomat a v8 coupe
-24 nissan 280zx turbo
+30 porsche 944
+30 mitsubishi lancer sportback
+30 fiat turbina
 
-24 cadillac fleetwood eldorado
-25 volvo 460 glt
-25 ford falcon 'bathurst' cobra
+30 citroen c5 crosstourer
+31 mazda az offroad
+31 hyundai elantra 1.6 gdi hybrid
+
+31 buick roadmaster wagon
+32 renault avantime 3.0 v6
+33 volvo 780 turbo coupe
+
+33 suzuki vitara
+33 skoda superb estate 2.0 tdi
+33 citroen c5 x puretech 180
+
+35 subaru leone
+35 oldsmobile achieva
+35 lotus m100 elan
 
 =-=-=-=-=
-38 Volvo V70 T5 [332]
+39 Ford Falcon Futura Sprint [332]
 =-=-=-=-=
 
-28 volvo 440 turbo
-28 peugeot 406 coupe
-28 lancia fulvia sport 1600
+20 volkswagen new beetle cabriolet
+20 suzuki ertiga
+22 citroen c1 vti 68
 
-28 ford mondeo estate
-28 fiat 500x
-28 alfa romeo alfetta gtv
+22 chevrolet malibu
+23 peugeot 504 coupe
+26 mitsubishi colt gti-16v
+
+26 lotus elan+2
+27 skoda rapid saloon 1.2 tsi
+28 honda s-mx 4wd
+
+29 volvo 940 saloon
+29 volkswagen polo gti
+29 renault wind
+
+29 peugeot 106 rallye (s2)
+29 mitsubishi l200
+29 mitsubishi galant 2000 turbo eci
+
+=-=-=-=-=
+49 Hyundai Ioniq 6 77 kWh [323]
+=-=-=-=-=
+
+35 bmw x1
+35 audi 200 quattro (c3)
+36 skoda fabia vrs estate
+
+36 audi 100 avant quattro (c3)
+37 lotus elan
+37 lotus elan
+
+38 volvo v70 T5
+38 skoda enyaq coupe iv 80
+38 jaguar xjs
+
+38 hyundai velostar turbo
+38 honda prelude 2.0si 4ws
+38 bmw 220d active tourer
+
+38 abarth simca 1300 bialbero
+38 abarth 695 esseesse
+39 hyundai i30 1.5 t-gdi
 
 =-=-=-=-=
 48 Renault Clio 200 [323]
@@ -28,4 +76,16 @@
 
 =-=-=-=-=
 48 Renault R21 Turbo Europa Cup [323]
+=-=-=-=-=
+
+=-=-=-=-=
+47 Subary Legacy [323]
+=-=-=-=-=
+
+=-=-=-=-=
+48 Mazda CX-5 2.2 AWD [323]
+=-=-=-=-=
+
+=-=-=-=-=
+49 Mazda 2 Rally [323]
 =-=-=-=-=
