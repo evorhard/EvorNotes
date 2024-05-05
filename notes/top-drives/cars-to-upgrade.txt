@@ -1,4 +1,20 @@
 =-=-=-=-=
+39 Nissan 200SX [323]
+=-=-=-=-=
+
+25 volkswagen golf
+25 peugeot 205 rallye
+27 nissan silvia
+
+28 mazda rx-3 gsii
+29 mitsubishi galant 2000 turbo eci
+29 mitsubishi galant 2000 turbo eci
+
+29 mazda roadster nr-a
+29 mazda roadster nr-a
+28 mazda lantis type r
+
+=-=-=-=-=
 48 Renault Clio 200 [323]
 =-=-=-=-=
 

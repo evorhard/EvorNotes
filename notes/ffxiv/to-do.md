@@ -2,16 +2,16 @@
 
 ## Levels
 
-- CRP: 18
+- CRP: 19
 - BSM: 19
-- ARM: 16
-- GSM: 15
-- LTW: 19
-- WVR: 20
+- ARM: 17
+- GSM: 16
+- LTW: 20
+- WVR: 21
 - ALC: 16
 - CUL: 13
 - MIN: 17
-- BTN: 20
+- BTN: 21
 - FSH: 15
 - LNC: 35
 
@@ -32,8 +32,28 @@
 - [ ] (Class & Job Quests) ARM Lv. 15 - One's Own Worst Critic
 - [ ] (Class & Job Quests) BSM Lv. 15 - The Business of Blacksmithing
 - [ ] (Class & Job Quests) CRP Lv. 15 - A Carpenter in Need
-- [ ] (Crafting) LNC Lv. 11 - Copper Ear Cuffs
-- [ ] (Crafting) LNC Lv. 11 - Hempen Bracers
+- [ ] (Crafting) MIN Lv. 13 - Stablehand's Hat
+- [x] (Crafting) LNC Lv. 12 - Hard Leather Thighboots
+- [x] (Crafting) LNC Lv. 12 - Hard Leather Caligae
+- [x] (Crafting) LNC Lv. 12 - Hard Leather Subligar
+- [x] (Crafting) LNC Lv. 12 - Hard Leather Kecks
+- [x] (Crafting) LNC Lv. 12 - Bronze Mitt Gauntlets
+- [x] (Crafting) LNC Lv. 12 - Hard Leather Harness
+- [x] (Crafting) LNC Lv. 12 - Cotton Turban
+- [x] (Crafting) LNC Lv. 12 - Bronze Barbut
+- [x] (Crafting) LNC Lv. 12 - Altered Cotton Bandana
+- [x] (Crafting) LNC Lv. 12 - Feathered Harpoon
+- [x] (Crafting) FSH Lv. 12 - Amateur's Fishing Rod
+- [x] (Crafting) BTN Lv. 12 - Amateur's Hatchet
+- [x] (Crafting) MIN Lv. 12 - Hempen Doublet Vest of Gathering
+- [x] (Crafting) MIN Lv. 12 - Stablemaid's Hat
+- [x] (Crafting) CUL Lv. 12 - Amateur's Skillet
+- [x] (Crafting) ALC Lv. 12 - Amateur's Alembic
+- [x] (Crafting) WVR Lv. 12 - Amateur's Needle
+- [x] (Crafting) CRP Lv. 12 - Hempen Doublet Vest of Crafting
+- [x] (Crafting) CRP Lv. 12 - Amateur's Saw
+- [x] (Crafting) LNC Lv. 11 - Copper Ear Cuffs
+- [x] (Crafting) LNC Lv. 11 - Hempen Bracers
 - [x] (Crafting) MIN Lv. 11 - Hard Leather Shoes
 - [x] (Crafting) MIN Lv. 11 - Hard Leather Wristguards
 - [x] (Crafting) CUL Lv. 11 - Bronze Culinary Knife
