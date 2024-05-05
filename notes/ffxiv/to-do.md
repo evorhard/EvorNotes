@@ -2,17 +2,17 @@
 
 ## Levels
 
-- CRP: 16
-- BSM: 17
+- CRP: 18
+- BSM: 19
 - ARM: 16
 - GSM: 15
-- LTW: 18
+- LTW: 19
 - WVR: 20
-- ALC: 13
-- CUL: 12
-- MIN: 16
-- BTN: 19
-- FSH: 14
+- ALC: 16
+- CUL: 13
+- MIN: 17
+- BTN: 20
+- FSH: 15
 - LNC: 35
 
 ## FFXIV To Do
@@ -21,19 +21,39 @@
 - [ ] (Other Quests) We Come in Peace
 - [ ] (Sidequests) Braving New Depths
 - [ ] (Class & Job Quests) DRG Lv. 30 - Eye of the Dragon
+- [ ] (Class & Job Quests) FSH Lv. 15 - Every Fish Has a Sliver Lining
 - [ ] (Class & Job Quests) BTN Lv. 15 - Haste Makes Waste
 - [ ] (Class & Job Quests) MIN Lv. 15 - Getting in Deep
+- [ ] (Class & Job Quests) CUL Lv. 15 - On a Skewer Tip
+- [ ] (Class & Job Quests) ALC Lv. 15 - For Fair Love
+- [ ] (Class & Job Quests) WVR Lv. 15 - Practical Needs
 - [ ] (Class & Job Quests) LTW Lv. 15 - Working Hells for Leather
 - [ ] (Class & Job Quests) GSM Lv. 15 - Objectively Speaking
 - [ ] (Class & Job Quests) ARM Lv. 15 - One's Own Worst Critic
 - [ ] (Class & Job Quests) BSM Lv. 15 - The Business of Blacksmithing
 - [ ] (Class & Job Quests) CRP Lv. 15 - A Carpenter in Need
-- [ ] (Class & Job Quests) FSH Lv. 10 - The Princess and the Fish
+- [ ] (Crafting) LNC Lv. 11 - Copper Ear Cuffs
+- [ ] (Crafting) LNC Lv. 11 - Hempen Bracers
+- [x] (Crafting) MIN Lv. 11 - Hard Leather Shoes
+- [x] (Crafting) MIN Lv. 11 - Hard Leather Wristguards
+- [x] (Crafting) CUL Lv. 11 - Bronze Culinary Knife
+- [x] (Crafting) ALC Lv. 11 - Bronze Mortar
+- [x] (Crafting) WVR Lv. 11 - Ash Spinning Wheel
+- [x] (Crafting) LTW Lv. 11 - Bronze Awl
+- [x] (Crafting) LTW Lv. 11 - Amateur's Head Knife
+- [x] (Crafting) GSM Lv. 11 - Ragstone Grinding Wheel
+- [x] (Crafting) GSM Lv. 11 - Amateur's Chaser Hammer
+- [x] (Crafting) ARM Lv. 11 - Bronze Pliers
+- [x] (Crafting) ARM Lv. 11 - Amateur's Doming Hammer
+- [x] (Crafting) BSM Lv. 11 - Bronze File
+- [x] (Crafting) BSM Lv. 11 - Amateur's Cross-pein Hammer
+- [x] (Crafting) CRP Lv. 11 - Bronze Claw Hammer
+- [x] (Class & Job Quests) FSH Lv. 10 - The Princess and the Fish
 - [x] (Class & Job Quests) BTN Lv. 10 - Weapons of a Feather
 - [x] (Class & Job Quests) MIN Lv. 10 - The Cutting Edge
-- [ ] (Class & Job Quests) CUL Lv. 10 - Dodo It Yourself
-- [ ] (Class & Job Quests) ALC Lv. 10 - All of Your Beeswax
-- [ ] (Class & Job Quests) WVR Lv. 10 - Alternative Applications
+- [x] (Class & Job Quests) CUL Lv. 10 - Dodo It Yourself
+- [x] (Class & Job Quests) ALC Lv. 10 - All of Your Beeswax
+- [x] (Class & Job Quests) WVR Lv. 10 - Alternative Applications
 - [x] (Class & Job Quests) LTW Lv. 10 - Geva's Gambit
 - [x] (Class & Job Quests) GSM Lv. 10 - Throw Some Rings on It
 - [x] (Class & Job Quests) ARM Lv. 10 - The Base Fundamentals
