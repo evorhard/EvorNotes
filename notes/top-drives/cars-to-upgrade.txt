@@ -1,18 +1,34 @@
 =-=-=-=-=
-39 Nissan 200SX [323]
-=-=-=-=-=
-
-28 mazda rx-3 gsii
-29 mitsubishi galant 2000 turbo eci
-29 mitsubishi galant 2000 turbo eci
-
-29 mazda roadster nr-a
-29 mazda roadster nr-a
-28 mazda lantis type r
-
-=-=-=-=-=
 48 Renault Clio 200 [323]
 =-=-=-=-=
+
+34 lamborghini islero
+34 honda odyssey
+34 chevrolet captiva
+
+35 subaru Legacy
+35 citroen ds4 2.0 hdi
+36 nissan 300zx (z32)
+
+=-=-=-=-=
+36 Nissan Wingroad (Y11) [323]
+=-=-=-=-=
+
+22 opel manta gte
+22 oldsmobile starfire v8
+22 mazda demio ev
+
+22 alfa romeo aflasud sprint
+23 nissan navara (d22)
+23 citroen visa gti
+
+23 chrysler sebring
+25 vauxhall corsa 1.4si
+25 rover 400
+
+27 mercedes-benz a 200 cdi
+27 bmw m535i
+28 volvo 440 turbo
 
 =-=-=-=-=
 48 Renault R21 Turbo Europa Cup [323]
