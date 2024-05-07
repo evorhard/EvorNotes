@@ -7,7 +7,7 @@
 - ARM: 17
 - GSM: 16
 - LTW: 20
-- WVR: 21
+- WVR: 22
 - ALC: 16
 - CUL: 13
 - MIN: 17
@@ -32,7 +32,9 @@
 - [ ] (Class & Job Quests) ARM Lv. 15 - One's Own Worst Critic
 - [ ] (Class & Job Quests) BSM Lv. 15 - The Business of Blacksmithing
 - [ ] (Class & Job Quests) CRP Lv. 15 - A Carpenter in Need
-- [ ] (Crafting) MIN Lv. 13 - Stablehand's Hat
+- [ ] (Leveling) CUL -> Lv. 14
+- [ ] (Crafting) LNC Lv. 13 - Hard Leather Armguards
+- [x] (Crafting) MIN Lv. 13 - Stablehand's Hat
 - [x] (Crafting) LNC Lv. 12 - Hard Leather Thighboots
 - [x] (Crafting) LNC Lv. 12 - Hard Leather Caligae
 - [x] (Crafting) LNC Lv. 12 - Hard Leather Subligar
