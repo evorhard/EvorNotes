@@ -2,18 +2,18 @@
 
 ## Levels
 
-- CRP: 19
-- BSM: 19
-- ARM: 17
-- GSM: 16
-- LTW: 20
-- WVR: 22
-- ALC: 16
-- CUL: 13
-- MIN: 17
-- BTN: 21
-- FSH: 15
-- LNC: 35
+- CRP: 24
+- BSM: 25
+- ARM: 24
+- GSM: 24
+- LTW: 25
+- WVR: 26
+- ALC: 21
+- CUL: 21
+- MIN: 22
+- BTN: 23
+- FSH: 22
+- LNC: 36
 
 ## FFXIV To Do
 
@@ -21,19 +21,99 @@
 - [ ] (Other Quests) We Come in Peace
 - [ ] (Sidequests) Braving New Depths
 - [ ] (Class & Job Quests) DRG Lv. 30 - Eye of the Dragon
-- [ ] (Class & Job Quests) FSH Lv. 15 - Every Fish Has a Sliver Lining
-- [ ] (Class & Job Quests) BTN Lv. 15 - Haste Makes Waste
-- [ ] (Class & Job Quests) MIN Lv. 15 - Getting in Deep
-- [ ] (Class & Job Quests) CUL Lv. 15 - On a Skewer Tip
-- [ ] (Class & Job Quests) ALC Lv. 15 - For Fair Love
-- [ ] (Class & Job Quests) WVR Lv. 15 - Practical Needs
-- [ ] (Class & Job Quests) LTW Lv. 15 - Working Hells for Leather
-- [ ] (Class & Job Quests) GSM Lv. 15 - Objectively Speaking
-- [ ] (Class & Job Quests) ARM Lv. 15 - One's Own Worst Critic
-- [ ] (Class & Job Quests) BSM Lv. 15 - The Business of Blacksmithing
-- [ ] (Class & Job Quests) CRP Lv. 15 - A Carpenter in Need
-- [ ] (Leveling) CUL -> Lv. 14
-- [ ] (Crafting) LNC Lv. 13 - Hard Leather Armguards
+- [ ] (Class & Job Quests) FSH Lv. 20 - A Fish in Hot Water
+- [ ] (Class & Job Quests) BTN Lv. 20 - Dressed to Harvest
+- [ ] (Class & Job Quests) MIN Lv. 20 - Old Wisdom, New Ways
+- [ ] (Class & Job Quests) CUL Lv. 20 - Releasing a Burden
+- [ ] (Class & Job Quests) ALC Lv. 20 - The Arcanist's Tome
+- [ ] (Class & Job Quests) WVR Lv. 20 - Materia Concerns
+- [ ] (Class & Job Quests) LTW Lv. 20 - Aldgoat Everything
+- [ ] (Class & Job Quests) GSM Lv. 20 - A Melding of the Minds
+- [ ] (Class & Job Quests) ARM Lv. 20 - An Armorer's Pride
+- [ ] (Class & Job Quests) BSM Lv. 20 - By the Sweat of Your Brow
+- [ ] (Class & Job Quests) CRP Lv. 20 - The Lance's Lesson
+- [x] (Leveling) FSH -> Lv. 20
+- [x] (Leveling) CUL -> Lv. 20
+- [x] (Crafting) LNC Lv. 19 - Coral Armillae
+- [x] (Crafting) LNC Lv. 19 - Iron Vambraces
+- [x] (Crafting) BTN Lv. 19 - Initiate's Hatchet
+- [x] (Crafting) MIN Lv. 19 - Padded Leather Duckbills of Gathering
+- [x] (Crafting) MIN Lv. 19 - Cotton Coif of Gathering
+- [x] (Crafting) MIN Lv. 19 - Initiate's Sledgehammer
+- [x] (Crafting) MIN Lv. 19 - Iron Pickaxe
+- [x] (Crafting) CUL Lv. 19 - Initiate's Skillet
+- [x] (Crafting) ALC Lv. 19 - Initiate's Alembic
+- [x] (Crafting) WVR Lv. 19 - Initiate's Spinning Wheel
+- [x] (Crafting) LTW Lv. 19 - Iron Awl
+- [x] (Crafting) LTW Lv. 19 - Initiate's Head Knife
+- [x] (Crafting) CRP Lv. 19 - Brass Choker
+- [x] (Crafting) CRP Lv. 19 - Cotton Breeches of Crafting
+- [x] (Crafting) CRP Lv. 19 - Initiate's Saw
+- [x] (Leveling) ALC -> Lv. 19
+- [x] (Crafting) LNC Lv. 18 - Brass Ring
+- [x] (Crafting) LNC Lv. 18 - Cotton Acton
+- [x] (Crafting) LNC Lv. 18 - Goatskin Pot Helm
+- [x] (Crafting) MIN Lv. 18 - Cotton Dalmatica of Gathering
+- [x] (Crafting) GSM Lv. 18 - Iron Chaser Hammer
+- [x] (Crafting) ARM Lv. 18 - Iron Doming Hammer
+- [x] (Crafting) BSM Lv. 18 - Iron Cross-pein Hammer
+- [x] (Crafting) CRP Lv. 18 - Brass Ring of Crafting
+- [x] (Crafting) CRP Lv. 18 - Cotton Kurta
+- [x] (Leveling) CUL -> Lv. 18
+- [x] (Crafting) LNC Lv. 17 - Hard Leather Wristbands
+- [x] (Crafting) LNC Lv. 17 - Goatskin Leggings
+- [x] (Crafting) LNC Lv. 17 - Cotton Trousers
+- [x] (Crafting) LNC Lv. 17 - Goatskin Mitts
+- [x] (Crafting) LNC Lv. 17 - Decorated Bronze Mitt Gauntlets
+- [x] (Crafting) LNC Lv. 17 - Decorated Bronze Barbut
+- [x] (Crafting) MIN Lv. 17 - Hard Leather Wristbands of Gathering
+- [x] (Crafting) MIN Lv. 17 - Brass Earrings
+- [x] (Crafting) LNC Lv. 16 - Brass Gorget
+- [x] (Crafting) LNC Lv. 16 - Cotton Tabard
+- [x] (Crafting) LNC Lv. 16 - Hunting Hat
+- [x] (Crafting) LNC Lv. 16 - Iron Spear
+- [x] (Crafting) MIN Lv. 16 - Goatskin Wristguards
+- [x] (Crafting) WVR Lv. 16 - Bat Fang Needle
+- [x] (Crafting) CRP Lv. 16 - Brass Wristlets of Crafting
+- [x] (Crafting) CRP Lv. 16 - Chocobotail Saw
+- [x] (Crafting) LNC Lv. 15 - Hard Leather Crakows
+- [x] (Crafting) LNC Lv. 15 - Fingerless Hard Leather Gloves
+- [x] (Crafting) FSH Lv. 15 - Elm Fishing Rod
+- [x] (Crafting) BTN Lv. 15 - Iron Hatchet
+- [x] (Crafting) MIN Lv. 15 - Hard Leather Choker
+- [x] (Crafting) MIN Lv. 15 - Hard Leather Espadrilles
+- [x] (Crafting) MIN Lv. 15 - Cotton Shepherd's Slops
+- [x] (Crafting) MIN Lv. 15 - Hard Leather Skullcap
+- [x] (Crafting) CUL Lv. 15 - Iron Skillet
+- [x] (Crafting) ALC Lv. 15 - Brass Alembic
+- [x] (Crafting) CRP Lv. 15 - Fang Earrings
+- [x] (Crafting) CRP Lv. 15 - Ash Pattens
+- [x] (Crafting) CRP Lv. 15 - Cotton Chausses
+- [x] (Crafting) CRP Lv. 15 - Cotton Halfgloves
+- [x] (Crafting) CRP Lv. 15 - Cotton Shepherd's Tunic
+- [x] (Crafting) CRP Lv. 15 - Cotton Scarf
+- [x] (Class & Job Quests) FSH Lv. 15 - Every Fish Has a Sliver Lining
+- [x] (Class & Job Quests) BTN Lv. 15 - Haste Makes Waste
+- [x] (Class & Job Quests) MIN Lv. 15 - Getting in Deep
+- [x] (Class & Job Quests) CUL Lv. 15 - On a Skewer Tip
+- [x] (Class & Job Quests) ALC Lv. 15 - For Fair Love
+- [x] (Class & Job Quests) WVR Lv. 15 - Practical Needs
+- [x] (Class & Job Quests) LTW Lv. 15 - Working Hells for Leather
+- [x] (Class & Job Quests) GSM Lv. 15 - Objectively Speaking
+- [x] (Class & Job Quests) ARM Lv. 15 - One's Own Worst Critic
+- [x] (Class & Job Quests) BSM Lv. 15 - The Business of Blacksmithing
+- [x] (Class & Job Quests) CRP Lv. 15 - A Carpenter in Need
+- [x] (Crafting) LNC Lv. 14 - Cotton Sarouel
+- [x] (Crafting) LNC Lv. 14 - Cotton Shirt
+- [x] (Crafting) LNC Lv. 14 - Hard Leather Eyepatch
+- [x] (Crafting) LNC Lv. 14 - Brass Spear
+- [x] (Crafting) MIN Lv. 14 - Plumed Bronze Pickaxe
+- [x] (Crafting) LTW Lv. 14 - Bronze Head Knife
+- [x] (Crafting) GSM Lv. 14 - Bronze Ornamental Hammer
+- [x] (Crafting) ARM Lv. 14 - Bronze Raising Hammer
+- [x] (Crafting) BSM Lv. 14 - Birdsbeak Hammer
+- [x] (Leveling) CUL -> Lv. 14
+- [x] (Crafting) LNC Lv. 13 - Hard Leather Armguards
 - [x] (Crafting) MIN Lv. 13 - Stablehand's Hat
 - [x] (Crafting) LNC Lv. 12 - Hard Leather Thighboots
 - [x] (Crafting) LNC Lv. 12 - Hard Leather Caligae

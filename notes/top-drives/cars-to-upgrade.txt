@@ -1,26 +1,34 @@
 =-=-=-=-=
-48 Renault R21 Turbo Europa Cup [323]
-=-=-=-=-=
-
-39 chrysler 200 convertible
-39 bmw i3
-30 ford mustang svo
-
-=-=-=-=-=
-39 Bentley Continental R [323]
-=-=-=-=-=
-
-=-=-=-=-=
-33 De Tomaso Pampero [323]
-=-=-=-=-=
-
-=-=-=-=-=
-47 Subary Legacy [323]
-=-=-=-=-=
-
-=-=-=-=-=
 48 Mazda CX-5 2.2 AWD [323]
 =-=-=-=-=
+
+35 honda cr-z
+35 alfa romeo vola
+35 acura tsx sport wagon
+
+36 tvr s3c
+36 nissan almera gti
+36 mazda miata m speedster
+
+36 mazda 3
+37 suzuki x-90
+37 mazda 929 3.0 v6
+
+=-=-=-=-=
+37 GMC Sierra 2500 HD SLT [332]
+=-=-=-=-=
+
+25 geo tracker 4-door
+25 citroen cactus m
+25 citroen c4 cactus 2.0 hdi 16v
+
+26 volvo 240 glt
+26 subaru leone
+26 peugeot 308
+
+26 nissan patrol
+26 mazda hr-x2
+26 fiat croma turbo i.e.
 
 =-=-=-=-=
 49 Mazda 2 Rally [323]
