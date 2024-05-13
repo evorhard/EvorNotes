@@ -21,6 +21,7 @@
 - [ ] (Other Quests) We Come in Peace
 - [ ] (Sidequests) Braving New Depths
 - [ ] (Class & Job Quests) DRG Lv. 30 - Eye of the Dragon
+- [ ] (Class & Job Quests) CRP Lv. 25 - A Crisis of Confidence
 - [ ] (Class & Job Quests) FSH Lv. 20 - A Fish in Hot Water
 - [ ] (Class & Job Quests) BTN Lv. 20 - Dressed to Harvest
 - [ ] (Class & Job Quests) MIN Lv. 20 - Old Wisdom, New Ways
@@ -31,7 +32,9 @@
 - [ ] (Class & Job Quests) GSM Lv. 20 - A Melding of the Minds
 - [ ] (Class & Job Quests) ARM Lv. 20 - An Armorer's Pride
 - [ ] (Class & Job Quests) BSM Lv. 20 - By the Sweat of Your Brow
-- [ ] (Class & Job Quests) CRP Lv. 20 - The Lance's Lesson
+- [x] (Class & Job Quests) CRP Lv. 20 - The Lance's Lesson
+- [ ] (Sidequests) Melding Materia Muchly
+- [x] (Sidequests) Waking the Spirit
 - [x] (Leveling) FSH -> Lv. 20
 - [x] (Leveling) CUL -> Lv. 20
 - [x] (Crafting) LNC Lv. 19 - Coral Armillae
