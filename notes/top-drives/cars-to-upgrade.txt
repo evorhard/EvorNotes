@@ -1,40 +1,4 @@
 =-=-=-=-=
-48 Mazda CX-5 2.2 AWD [323]
-=-=-=-=-=
-
-36 mazda 3
-37 suzuki x-90
-37 mazda 929 3.0 v6
-
-=-=-=-=-=
-32 Chevrolet Chevelle Malibu SS [332]
-=-=-=-=-=
-
-26 buick century gran sport 455 stage 1
-27 holden piazza turbo
-27 ford fiesta 1.0
-
-=-=-=-=-=
-39 Audi TT 2.0 TDI (FV) [323]
-=-=-=-=-=
-
-23 skoda fabia vrs
-23 saturn ion
-23 fiat 500 coupe
-
-24 suzuki splash
-24 citroen e-c4 x
-25 ford capri rs2600
-
-26 maserati kyalami
-26 hyundai veloster 1.6 gdi
-27 ford escort rs turbo
-
-27 ford escort rs turbo
-27 bmw m535i
-28 vauxhall hp firenza
-
-=-=-=-=-=
 37 GMC Sierra 2500 HD SLT [332]
 =-=-=-=-=
 
