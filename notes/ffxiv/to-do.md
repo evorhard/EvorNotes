@@ -6,12 +6,12 @@
 - BSM: 25
 - ARM: 25
 - GSM: 24
-- LTW: 25
+- LTW: 26
 - WVR: 26
-- ALC: 21
+- ALC: 22
 - CUL: 21
 - MIN: 22
-- BTN: 23
+- BTN: 24
 - FSH: 22
 - LNC: 36
 
@@ -21,6 +21,7 @@
 - [ ] (Other Quests) We Come in Peace
 - [ ] (Sidequests) Braving New Depths
 - [ ] (Class & Job Quests) DRG Lv. 30 - Eye of the Dragon
+- [ ] (Class & Job Quests) CUL Lv. 25 - Winning Friends with Aldgoat
 - [ ] (Class & Job Quests) ALC Lv. 25 - Practical Alchemy
 - [ ] (Class & Job Quests) WVR Lv. 25 - That Velveteen Dress
 - [ ] (Class & Job Quests) LTW Lv. 25 - Skin in the Game
@@ -32,14 +33,14 @@
 - [ ] (Class & Job Quests) BTN Lv. 20 - Dressed to Harvest
 - [ ] (Class & Job Quests) MIN Lv. 20 - Old Wisdom, New Ways
 - [ ] (Class & Job Quests) CUL Lv. 20 - Releasing a Burden
-- [ ] (Class & Job Quests) ALC Lv. 20 - The Arcanist's Tome
+- [x] (Class & Job Quests) ALC Lv. 20 - The Arcanist's Tome
 - [x] (Class & Job Quests) WVR Lv. 20 - Materia Concerns
 - [x] (Class & Job Quests) LTW Lv. 20 - Aldgoat Everything
 - [x] (Class & Job Quests) GSM Lv. 20 - A Melding of the Minds
 - [x] (Class & Job Quests) ARM Lv. 20 - An Armorer's Pride
 - [x] (Class & Job Quests) BSM Lv. 20 - By the Sweat of Your Brow
 - [x] (Class & Job Quests) CRP Lv. 20 - The Lance's Lesson
-- [ ] (Sidequests) Melding Materia Muchly
+- [x] (Sidequests) Melding Materia Muchly
 - [x] (Sidequests) Waking the Spirit
 - [x] (Leveling) FSH -> Lv. 20
 - [x] (Leveling) CUL -> Lv. 20

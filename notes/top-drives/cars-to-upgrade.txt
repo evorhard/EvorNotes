@@ -18,30 +18,6 @@
 38 mg montego turbo
 38 holden hsv manta (vs)
 
-38 bmw 220d active tourer
-39 mitsubishi outlander 2.0 turbo diesel
-39 lotus seven twin-cam ss
-
-=-=-=-=-=
-17 Fiat Campagnola [323]
-=-=-=-=-=
-
-13 fiat 500
-14 renault 12
-14 nissan datsun sunny (b10)
-
-15 bmw 1800
-16 chrysler by chrysler (ch)
-16 audi 100 avant (c2)
-
-17 suzuki sc100
-17 suzuki cervo (cg72)
-17 nissan pulsar
-
-17 nissan micra
-17 honda oddyssey 2.3
-17 bentley mulsanne s
-
 =-=-=-=-=
 49 Renault Clio 220 Trophy [323]
 =-=-=-=-=
