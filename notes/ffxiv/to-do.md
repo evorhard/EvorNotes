@@ -5,14 +5,14 @@
 - CRP: 25
 - BSM: 25
 - ARM: 25
-- GSM: 24
+- GSM: 25
 - LTW: 26
 - WVR: 26
 - ALC: 22
 - CUL: 21
-- MIN: 22
-- BTN: 24
-- FSH: 22
+- MIN: 24
+- BTN: 25
+- FSH: 24
 - LNC: 36
 
 ## FFXIV To Do
@@ -21,6 +21,9 @@
 - [ ] (Other Quests) We Come in Peace
 - [ ] (Sidequests) Braving New Depths
 - [ ] (Class & Job Quests) DRG Lv. 30 - Eye of the Dragon
+- [ ] (Class & Job Quests) FSH Lv. 25 - A Game of Cat and Fish
+- [ ] (Class & Job Quests) BTN Lv. 25 - Aromatic Aspirations
+- [ ] (Class & Job Quests) MIN Lv. 25 - Water from Stone
 - [ ] (Class & Job Quests) CUL Lv. 25 - Winning Friends with Aldgoat
 - [ ] (Class & Job Quests) ALC Lv. 25 - Practical Alchemy
 - [ ] (Class & Job Quests) WVR Lv. 25 - That Velveteen Dress
@@ -29,10 +32,14 @@
 - [ ] (Class & Job Quests) ARM Lv. 25 - Showing Your Steel
 - [ ] (Class & Job Quests) BSM Lv. 25 - True as Steel
 - [ ] (Class & Job Quests) CRP Lv. 25 - A Crisis of Confidence
-- [ ] (Class & Job Quests) FSH Lv. 20 - A Fish in Hot Water
-- [ ] (Class & Job Quests) BTN Lv. 20 - Dressed to Harvest
-- [ ] (Class & Job Quests) MIN Lv. 20 - Old Wisdom, New Ways
-- [ ] (Class & Job Quests) CUL Lv. 20 - Releasing a Burden
+- [ ] (Crafting) CRP Lv. 20 - Initiate's Thighboots
+- [ ] (Crafting) CRP Lv. 20 - Initiate's Gloves
+- [ ] (Crafting) CRP Lv. 20 - Initiate's Headgear
+- [ ] (Crafting) CRP Lv. 20 - Iron Claw Hammer
+- [x] (Class & Job Quests) FSH Lv. 20 - A Fish in Hot Water
+- [x] (Class & Job Quests) BTN Lv. 20 - Dressed to Harvest
+- [x] (Class & Job Quests) MIN Lv. 20 - Old Wisdom, New Ways
+- [x] (Class & Job Quests) CUL Lv. 20 - Releasing a Burden
 - [x] (Class & Job Quests) ALC Lv. 20 - The Arcanist's Tome
 - [x] (Class & Job Quests) WVR Lv. 20 - Materia Concerns
 - [x] (Class & Job Quests) LTW Lv. 20 - Aldgoat Everything

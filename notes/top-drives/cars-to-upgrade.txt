@@ -19,6 +19,30 @@
 38 holden hsv manta (vs)
 
 =-=-=-=-=
+59 Alfa Romeo 159 Alfetta [332]
+=-=-=-=-=
+
+40 gmc sierra 3500
+40 gmc sierra 3500
+41 infinit i35 (a33)
+
+41 dodge avenger r/t awd
+43 citroen visa chrono
+43 audi 0 quattro 2.2 (b2)
+
+44 volvo 850 r
+44 bmw 520i
+45 gmc sierra 2500 hd denali
+
+45 buick verano pro gs
+46 audi a1 40 tfsi (gb)
+47 volvo s60 t5
+
+48 renault r21 turbo europa cup
+48 ginetta g40r
+49 ford fpv force 6
+
+=-=-=-=-=
 49 Renault Clio 220 Trophy [323]
 =-=-=-=-=
 
@@ -32,4 +56,16 @@
 
 =-=-=-=-=
 49 Bentley Arnage T [332]
+=-=-=-=-=
+
+=-=-=-=-=
+58 Fiat Abarth 500 R3T [323]
+=-=-=-=-=
+
+=-=-=-=-=
+52 Suzuki Kizashi 4x4 [323]
+=-=-=-=-=
+
+=-=-=-=-=
+52 Nissan 370Z Nismo [233]
 =-=-=-=-=
