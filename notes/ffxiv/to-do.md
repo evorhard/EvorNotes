@@ -21,6 +21,7 @@
 - [ ] (Other Quests) We Come in Peace
 - [ ] (Sidequests) Braving New Depths
 - [ ] (Class & Job Quests) DRG Lv. 30 - Eye of the Dragon
+- [ ] (Class & Job Quests) ALC Lv. 25 - Practical Alchemy
 - [ ] (Class & Job Quests) WVR Lv. 25 - That Velveteen Dress
 - [ ] (Class & Job Quests) LTW Lv. 25 - Skin in the Game
 - [ ] (Class & Job Quests) GSM Lv. 25 - Or Ever the Silver Cord Be Loosed
