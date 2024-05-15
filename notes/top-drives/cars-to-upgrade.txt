@@ -11,24 +11,8 @@
 29 volvo 940 saloon
 
 =-=-=-=-=
-49 Mazda 2 Rally [323]
-=-=-=-=-=
-
-38 pontiac g6
-38 mg montego turbo
-38 holden hsv manta (vs)
-
-=-=-=-=-=
 59 Alfa Romeo 159 Alfetta [332]
 =-=-=-=-=
-
-40 gmc sierra 3500
-40 gmc sierra 3500
-41 infinit i35 (a33)
-
-41 dodge avenger r/t awd
-43 citroen visa chrono
-43 audi 0 quattro 2.2 (b2)
 
 44 volvo 850 r
 44 bmw 520i
