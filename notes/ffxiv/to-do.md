@@ -3,13 +3,13 @@
 ## Levels
 
 - CRP: 25
-- BSM: 25
+- BSM: 26
 - ARM: 25
 - GSM: 25
 - LTW: 26
-- WVR: 26
+- WVR: 27
 - ALC: 22
-- CUL: 21
+- CUL: 22
 - MIN: 24
 - BTN: 25
 - FSH: 24
@@ -32,10 +32,18 @@
 - [ ] (Class & Job Quests) ARM Lv. 25 - Showing Your Steel
 - [ ] (Class & Job Quests) BSM Lv. 25 - True as Steel
 - [ ] (Class & Job Quests) CRP Lv. 25 - A Crisis of Confidence
-- [ ] (Crafting) CRP Lv. 20 - Initiate's Thighboots
-- [ ] (Crafting) CRP Lv. 20 - Initiate's Gloves
-- [ ] (Crafting) CRP Lv. 20 - Initiate's Headgear
-- [ ] (Crafting) CRP Lv. 20 - Iron Claw Hammer
+- [ ] (Crafting) BTN Lv. 20 - Iron Scythe
+- [ ] (Crafting) MIN Lv. 20 - Goatskin Ring
+- [ ] (Crafting) MIN Lv. 20 - Initiate's Slops
+- [ ] (Crafting) MIN Lv. 20 - Cotton Work Gloves
+- [x] (Crafting) CUL Lv. 20 - Iron Culinary Knife
+- [x] (Crafting) ALC Lv. 20 - Iron Mortar
+- [x] (Crafting) WVR Lv. 20 - Brass Needle
+- [x] (Crafting) CRP Lv. 20 - Initiate's Thighboots
+- [x] (Crafting) CRP Lv. 20 - Initiate's Gloves
+- [x] (Crafting) CRP Lv. 20 - Initiate's Headgear
+- [x] (Crafting) CRP Lv. 20 - Iron Claw Hammer
+- [x] (Sidequests) Of Impish Importance
 - [x] (Class & Job Quests) FSH Lv. 20 - A Fish in Hot Water
 - [x] (Class & Job Quests) BTN Lv. 20 - Dressed to Harvest
 - [x] (Class & Job Quests) MIN Lv. 20 - Old Wisdom, New Ways
