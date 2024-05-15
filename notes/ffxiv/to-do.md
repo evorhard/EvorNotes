@@ -2,18 +2,18 @@
 
 ## Levels
 
-- CRP: 25
-- BSM: 26
+- CRP: 26
+- BSM: 27
 - ARM: 25
-- GSM: 25
-- LTW: 26
-- WVR: 27
+- GSM: 26
+- LTW: 28
+- WVR: 28
 - ALC: 22
 - CUL: 22
 - MIN: 24
 - BTN: 25
 - FSH: 24
-- LNC: 36
+- LNC: 37
 
 ## FFXIV To Do
 
@@ -32,10 +32,26 @@
 - [ ] (Class & Job Quests) ARM Lv. 25 - Showing Your Steel
 - [ ] (Class & Job Quests) BSM Lv. 25 - True as Steel
 - [ ] (Class & Job Quests) CRP Lv. 25 - A Crisis of Confidence
-- [ ] (Crafting) BTN Lv. 20 - Iron Scythe
-- [ ] (Crafting) MIN Lv. 20 - Goatskin Ring
-- [ ] (Crafting) MIN Lv. 20 - Initiate's Slops
-- [ ] (Crafting) MIN Lv. 20 - Cotton Work Gloves
+- [ ] (Crafting) GSM Lv. 21 - Mudstone Grinding Wheel
+- [ ] (Crafting) GSM Lv. 21 - Initiate's Chaser Hammer
+- [x] (Crafting) ARM Lv. 21 - Iron Pliers
+- [x] (Crafting) ARM Lv. 21 - Initiate's Doming Hammer
+- [x] (Crafting) BSM Lv. 21 - Iron File
+- [x] (Crafting) BSM Lv. 21 - Initiate's Cross-pein Hammer
+- [x] (Crafting) CRP Lv. 21 - Cotton Doublet Vest of Crafting
+- [x] (Crafting) LNC Lv. 20 - Brass Ear Cuffs
+- [x] (Crafting) LNC Lv. 20 - Goatskin Leg Guards
+- [x] (Crafting) LNC Lv. 20 - Goatskin Brais
+- [x] (Crafting) LNC Lv. 20 - Goatskin Armguards
+- [x] (Crafting) LNC Lv. 20 - Goatskin Jacket
+- [x] (Crafting) LNC Lv. 20 - Iron Sallet
+- [x] (Crafting) LNC Lv. 20 - Goatskin Eyepatch
+- [x] (Crafting) LNC Lv. 20 - Iron Lance
+- [x] (Crafting) FSH Lv. 20 - Initiate's Fishing Rod
+- [x] (Crafting) BTN Lv. 20 - Iron Scythe
+- [x] (Crafting) MIN Lv. 20 - Goatskin Ring
+- [x] (Crafting) MIN Lv. 20 - Initiate's Slops
+- [x] (Crafting) MIN Lv. 20 - Cotton Work Gloves
 - [x] (Crafting) CUL Lv. 20 - Iron Culinary Knife
 - [x] (Crafting) ALC Lv. 20 - Iron Mortar
 - [x] (Crafting) WVR Lv. 20 - Brass Needle
