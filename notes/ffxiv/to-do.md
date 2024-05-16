@@ -3,7 +3,7 @@
 ## Levels
 
 - CRP: 26
-- BSM: 27
+- BSM: 28
 - ARM: 25
 - GSM: 26
 - LTW: 28
@@ -32,8 +32,9 @@
 - [ ] (Class & Job Quests) ARM Lv. 25 - Showing Your Steel
 - [ ] (Class & Job Quests) BSM Lv. 25 - True as Steel
 - [ ] (Class & Job Quests) CRP Lv. 25 - A Crisis of Confidence
-- [ ] (Crafting) GSM Lv. 21 - Mudstone Grinding Wheel
-- [ ] (Crafting) GSM Lv. 21 - Initiate's Chaser Hammer
+- [ ] (Crafting) MIN Lv. 21 - Cotton Doublet Vest of Gathering
+- [x] (Crafting) GSM Lv. 21 - Mudstone Grinding Wheel
+- [x] (Crafting) GSM Lv. 21 - Initiate's Chaser Hammer
 - [x] (Crafting) ARM Lv. 21 - Iron Pliers
 - [x] (Crafting) ARM Lv. 21 - Initiate's Doming Hammer
 - [x] (Crafting) BSM Lv. 21 - Iron File

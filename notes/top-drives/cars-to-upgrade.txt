@@ -1,22 +1,6 @@
 =-=-=-=-=
-38 Alfa Romeo Alfasud Sprint Trofeo [323]
-=-=-=-=-=
-
-28 citroen ax sport
-28 aston martin v8 volante
-29 volvo 940 saloon
-
-=-=-=-=-=
 37 Audi 80 2.2 quattro (B2) [323]
 =-=-=-=-=
-
-20 aston martin lagonda
-21 nissan cedric (y30)
-21 mercedes-benz 230 te estate
-
-21 ford fairlane 500
-21 fiat abarth 850 tc corsa
-21 dodge intrepid es 3.3l v6
 
 21 citroen ds23 pallas injection
 21 chevrolet sprint turbo
@@ -25,14 +9,6 @@
 =-=-=-=-=
 49 Renault Clio 220 Trophy [323]
 =-=-=-=-=
-
-30 mazda 626 2.0
-30 fiat panda cross 4x4 mark 3
-30 buick terraza
-
-31 mazda cx-7 adrenaline
-32 mazda mx-6 2.5 v6
-32 cadillac eldorado
 
 34 mitsubishi eclipse cross
 34 aston martin virage
@@ -45,6 +21,10 @@
 37 mazda 929 3.0 v6
 38 mazda 6 2.3
 39 fiat formula 4
+
+=-=-=-=-=
+30 Nissan President Sovereign (G50) [323]
+=-=-=-=-=
 
 =-=-=-=-=
 43 BMW X5 3.0d [332]
