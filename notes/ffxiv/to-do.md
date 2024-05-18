@@ -3,15 +3,15 @@
 ## Levels
 
 - CRP: 27
-- BSM: 28
-- ARM: 25
+- BSM: 29
+- ARM: 27
 - GSM: 26
 - LTW: 28
 - WVR: 29
 - ALC: 24
 - CUL: 24
-- MIN: 25
-- BTN: 25
+- MIN: 26
+- BTN: 26
 - FSH: 24
 - LNC: 37
 
@@ -32,8 +32,24 @@
 - [ ] (Class & Job Quests) ARM Lv. 25 - Showing Your Steel
 - [ ] (Class & Job Quests) BSM Lv. 25 - True as Steel
 - [ ] (Class & Job Quests) CRP Lv. 25 - A Crisis of Confidence
-- [ ] (Crafting) LTW Lv. 23 - Initiate's Awl
-- [ ] (Crafting) LTW Lv. 23 - Iron Round Knife
+- [ ] (Crafting) LNC Lv. 23 - Iron-plated Jackboots
+- [ ] (Crafting) LNC Lv. 23 - Iron Scale Greaves
+- [ ] (Crafting) LNC Lv. 23 - Goatskin Breeches
+- [ ] (Crafting) LNC Lv. 23 - Cotton Kecks
+- [ ] (Crafting) LNC Lv. 23 - Iron Scale Fingers
+- [ ] (Crafting) LNC Lv. 23 - Cotton Bracers
+- [ ] (Crafting) LNC Lv. 23 - Iron Scale Mail
+- [ ] (Crafting) LNC Lv. 23 - Cotton Trapper's Tunic
+- [ ] (Crafting) LNC Lv. 23 - Reinforced Iron Sallet
+- [ ] (Crafting) LNC Lv. 23 - Iron Headgear
+- [ ] (Crafting) LNC Lv. 23 - Iron Elmo
+- [ ] (Crafting) LNC Lv. 23 - Iron Guisarme
+- [x] (Crafting) BTN Lv. 23 - Brass Hatchet
+- [x] (Crafting) CUL Lv. 23 - Iron Frypan
+- [x] (Crafting) ALC Lv. 23 - Iron Alembic
+- [x] (Crafting) WVR Lv. 23 - Elm Spinning Wheel
+- [x] (Crafting) LTW Lv. 23 - Initiate's Awl
+- [x] (Crafting) LTW Lv. 23 - Iron Round Knife
 - [x] (Crafting) CRP Lv. 23 - Velveteen Bandana
 - [x] (Crafting) CRP Lv. 23 - Bas-relief Iron Saw
 - [x] (Leveling) CUL -> Lv. 23

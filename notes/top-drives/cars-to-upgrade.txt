@@ -1,16 +1,4 @@
 =-=-=-=-=
-30 Nissan President Sovereign (G50) [323]
-=-=-=-=-=
-
-21 mitsubishi mirage
-21 hyundai stargazer 1.5 mpi
-21 hyundai pony coupe
-
-21 buick riviera
-22 opel manta gte
-22 opel manta gte
-
-=-=-=-=-=
 30 Mazda MX-5 RF 1.5 [323]
 =-=-=-=-=
 
