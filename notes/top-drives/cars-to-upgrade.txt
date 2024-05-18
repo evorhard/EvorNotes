@@ -1,37 +1,65 @@
 =-=-=-=-=
-37 Audi 80 2.2 quattro (B2) [323]
-=-=-=-=-=
-
-21 citroen ds23 pallas injection
-21 chevrolet sprint turbo
-21 chevrolet el camino
-
-=-=-=-=-=
-49 Renault Clio 220 Trophy [323]
-=-=-=-=-=
-
-34 mitsubishi eclipse cross
-34 aston martin virage
-34 alfa romeo 90
-
-35 porsche 924
-35 lotus elan sprint
-35 alfa romeo vola
-
-37 mazda 929 3.0 v6
-38 mazda 6 2.3
-39 fiat formula 4
-
-=-=-=-=-=
 30 Nissan President Sovereign (G50) [323]
 =-=-=-=-=
 
+21 mitsubishi mirage
+21 hyundai stargazer 1.5 mpi
+21 hyundai pony coupe
+
+21 buick riviera
+22 opel manta gte
+22 opel manta gte
+
 =-=-=-=-=
-43 BMW X5 3.0d [332]
+30 Mazda MX-5 RF 1.5 [323]
+=-=-=-=-=
+
+22 citroen sm
+23 tvr 280i
+23 nissan sunny turbo leprix (b11)
+
+23 mercury cougar xr-7
+23 mercury cougar eliminator
+23 mercury comet cyclone
+
+23 ford ranger
+23 ford cortina crusader
+23 fiat 500 coupe
+
+23 chevrolet nova twin-cam
+24 tvr tasmin 280i 2+2 coupe
+24 pontiac grand am
+
+=-=-=-=-=
+43 BMW X5 3.0d [323]
+=-=-=-=-=
+
+30 citroen spacetourer hyphen
+30 amc eagle wagon
+31 range rover suffix a
+
+31 mercury capri rs
+31 hummer h1 alpha wagon
+31 ford falcon gt hardtop (xb)
+
+33 peugeot 206 gti
+33 mitsubishi asx
+33 maserati ghibli ss spyder
+
+33 maserati ghibli ss spyder
+33 jaguar xj12
+34 ford 021c
+
+=-=-=-=-=
+38 Mercedes-Benz SLK 200 [323]
 =-=-=-=-=
 
 =-=-=-=-=
-48 Volkswagen Phaeton V6 TDI [332]
+48 Volkswagen Phaeton V6 TDI [323]
+=-=-=-=-=
+
+=-=-=-=-=
+60 Mercedes-Benz S 63 AMG [332]
 =-=-=-=-=
 
 =-=-=-=-=
@@ -51,5 +79,5 @@
 =-=-=-=-=
 
 =-=-=-=-=
-63 Nissan Cima VIP (Y51) [233]
+63 Nissan Cima VIP (Y51) [323]
 =-=-=-=-=

@@ -2,15 +2,15 @@
 
 ## Levels
 
-- CRP: 26
+- CRP: 27
 - BSM: 28
 - ARM: 25
 - GSM: 26
 - LTW: 28
-- WVR: 28
-- ALC: 22
-- CUL: 22
-- MIN: 24
+- WVR: 29
+- ALC: 24
+- CUL: 24
+- MIN: 25
 - BTN: 25
 - FSH: 24
 - LNC: 37
@@ -32,7 +32,16 @@
 - [ ] (Class & Job Quests) ARM Lv. 25 - Showing Your Steel
 - [ ] (Class & Job Quests) BSM Lv. 25 - True as Steel
 - [ ] (Class & Job Quests) CRP Lv. 25 - A Crisis of Confidence
-- [ ] (Crafting) MIN Lv. 21 - Cotton Doublet Vest of Gathering
+- [ ] (Crafting) LTW Lv. 23 - Initiate's Awl
+- [ ] (Crafting) LTW Lv. 23 - Iron Round Knife
+- [x] (Crafting) CRP Lv. 23 - Velveteen Bandana
+- [x] (Crafting) CRP Lv. 23 - Bas-relief Iron Saw
+- [x] (Leveling) CUL -> Lv. 23
+- [x] (Leveling) ALC -> Lv. 23
+- [x] (Crafting) MIN Lv. 22 - Goatskin Espadrilles
+- [x] (Crafting) MIN Lv. 22 - Iron Sledgehammer
+- [x] (Crafting) MIN Lv. 22 - Initiate's Pickaxe
+- [x] (Crafting) MIN Lv. 21 - Cotton Doublet Vest of Gathering
 - [x] (Crafting) GSM Lv. 21 - Mudstone Grinding Wheel
 - [x] (Crafting) GSM Lv. 21 - Initiate's Chaser Hammer
 - [x] (Crafting) ARM Lv. 21 - Iron Pliers
