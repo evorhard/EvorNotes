@@ -2,17 +2,17 @@
 
 ## Levels
 
-- CRP: 29
-- BSM: 31
-- ARM: 29
-- GSM: 28
-- LTW: 29
-- WVR: 30
-- ALC: 25
-- CUL: 25
-- MIN: 28
-- BTN: 27
-- FSH: 32
+- CRP: 31
+- BSM: 34
+- ARM: 30
+- GSM: 31
+- LTW: 31
+- WVR: 33
+- ALC: 27
+- CUL: 27
+- MIN: 30
+- BTN: 29
+- FSH: 33
 - LNC: 37
 
 ## FFXIV To Do
@@ -21,18 +21,24 @@
 - [ ] (Other Quests) We Come in Peace
 - [ ] (Sidequests) Braving New Depths
 - [ ] (Class & Job Quests) DRG Lv. 30 - Eye of the Dragon
+- [ ] (Class & Job Quests) FSH Lv. 30 - Like Fish Passing in the Night
+- [ ] (Class & Job Quests) BTN Lv. 30 - What Nature Giveth
+- [ ] (Class & Job Quests) MIN Lv. 30 - Obsidian Race
+- [ ] (Class & Job Quests) CUL Lv. 30 - The Chefsbane Cometh
+- [ ] (Class & Job Quests) ALC Lv. 30 - Baleful Brews
+- [ ] (Class & Job Quests) WVR Lv. 30 - Miner on a Mission
 - [ ] (Class & Job Quests) LTW Lv. 30 - Toadskins of the Father
 - [ ] (Class & Job Quests) GSM Lv. 30 - Serendipity Now
 - [ ] (Class & Job Quests) ARM Lv. 30 - May the Best Armorer Win
 - [ ] (Class & Job Quests) BSM Lv. 30 - As Iron Sharpens Iron
 - [ ] (Class & Job Quests) CRP Lv. 30 - Between Captain and Conjurer
 - [ ] (Class & Job Quests) FSH Lv. 25 - A Game of Cat and Fish
-- [ ] (Class & Job Quests) BTN Lv. 25 - Aromatic Aspirations
-- [ ] (Class & Job Quests) MIN Lv. 25 - Water from Stone
-- [ ] (Class & Job Quests) CUL Lv. 25 - Winning Friends with Aldgoat
-- [ ] (Class & Job Quests) ALC Lv. 25 - Practical Alchemy
-- [ ] (Class & Job Quests) WVR Lv. 25 - That Velveteen Dress
-- [ ] (Grand Company) Supply and Provisioning Missions
+- [x] (Class & Job Quests) BTN Lv. 25 - Aromatic Aspirations
+- [x] (Class & Job Quests) MIN Lv. 25 - Water from Stone
+- [x] (Class & Job Quests) CUL Lv. 25 - Winning Friends with Aldgoat
+- [x] (Class & Job Quests) ALC Lv. 25 - Practical Alchemy
+- [x] (Class & Job Quests) WVR Lv. 25 - That Velveteen Dress
+- [x] (Grand Company) Supply and Provisioning Missions
 - [x] (Class & Job Quests) LTW Lv. 25 - Skin in the Game
 - [x] (Class & Job Quests) GSM Lv. 25 - Or Ever the Silver Cord Be Loosed
 - [x] (Class & Job Quests) ARM Lv. 25 - Showing Your Steel

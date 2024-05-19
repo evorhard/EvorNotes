@@ -22,10 +22,6 @@
 38 Mercedes-Benz SLK 200 [323]
 =-=-=-=-=
 
-24 jaguar mark 2
-24 ford fiesta
-24 fiat 500
-
 24 dodge regal lancer super d-500
 24 citroen c5 aircross puretech 130
 24 citroen c3 aircross
@@ -37,18 +33,6 @@
 25 smart fortwo coupe t
 25 peugeot 205 rallye
 25 lincoln town car cartier l
-
-=-=-=-=-=
-20 Mercedes-Benz 300 SL [332]
-=-=-=-=-=
-
-19 skoda funstar
-19 nissan micra
-19 nissan micra
-
-19 mazda demio mazdaspeed
-19 honda jazz hybrid
-19 fiat punto sporting
 
 =-=-=-=-=
 48 Volkswagen Phaeton V6 TDI [323]
