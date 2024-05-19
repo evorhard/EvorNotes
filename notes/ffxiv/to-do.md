@@ -4,15 +4,15 @@
 
 - CRP: 29
 - BSM: 31
-- ARM: 28
+- ARM: 29
 - GSM: 28
 - LTW: 29
 - WVR: 30
 - ALC: 25
 - CUL: 25
-- MIN: 27
+- MIN: 28
 - BTN: 27
-- FSH: 27
+- FSH: 32
 - LNC: 37
 
 ## FFXIV To Do
@@ -33,7 +33,7 @@
 - [ ] (Class & Job Quests) ALC Lv. 25 - Practical Alchemy
 - [ ] (Class & Job Quests) WVR Lv. 25 - That Velveteen Dress
 - [ ] (Grand Company) Supply and Provisioning Missions
-- [ ] (Class & Job Quests) LTW Lv. 25 - Skin in the Game
+- [x] (Class & Job Quests) LTW Lv. 25 - Skin in the Game
 - [x] (Class & Job Quests) GSM Lv. 25 - Or Ever the Silver Cord Be Loosed
 - [x] (Class & Job Quests) ARM Lv. 25 - Showing Your Steel
 - [x] (Class & Job Quests) BSM Lv. 25 - True as Steel
