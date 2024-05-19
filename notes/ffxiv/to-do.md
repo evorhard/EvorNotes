@@ -5,12 +5,12 @@
 - CRP: 29
 - BSM: 31
 - ARM: 28
-- GSM: 27
-- LTW: 28
+- GSM: 28
+- LTW: 29
 - WVR: 30
 - ALC: 25
 - CUL: 25
-- MIN: 26
+- MIN: 27
 - BTN: 27
 - FSH: 27
 - LNC: 37
@@ -21,6 +21,9 @@
 - [ ] (Other Quests) We Come in Peace
 - [ ] (Sidequests) Braving New Depths
 - [ ] (Class & Job Quests) DRG Lv. 30 - Eye of the Dragon
+- [ ] (Class & Job Quests) LTW Lv. 30 - Toadskins of the Father
+- [ ] (Class & Job Quests) GSM Lv. 30 - Serendipity Now
+- [ ] (Class & Job Quests) ARM Lv. 30 - May the Best Armorer Win
 - [ ] (Class & Job Quests) BSM Lv. 30 - As Iron Sharpens Iron
 - [ ] (Class & Job Quests) CRP Lv. 30 - Between Captain and Conjurer
 - [ ] (Class & Job Quests) FSH Lv. 25 - A Game of Cat and Fish
@@ -29,10 +32,11 @@
 - [ ] (Class & Job Quests) CUL Lv. 25 - Winning Friends with Aldgoat
 - [ ] (Class & Job Quests) ALC Lv. 25 - Practical Alchemy
 - [ ] (Class & Job Quests) WVR Lv. 25 - That Velveteen Dress
+- [ ] (Grand Company) Supply and Provisioning Missions
 - [ ] (Class & Job Quests) LTW Lv. 25 - Skin in the Game
-- [ ] (Class & Job Quests) GSM Lv. 25 - Or Ever the Silver Cord Be Loosed
-- [ ] (Class & Job Quests) ARM Lv. 25 - Showing Your Steel
-- [ ] (Class & Job Quests) BSM Lv. 25 - True as Steel
+- [x] (Class & Job Quests) GSM Lv. 25 - Or Ever the Silver Cord Be Loosed
+- [x] (Class & Job Quests) ARM Lv. 25 - Showing Your Steel
+- [x] (Class & Job Quests) BSM Lv. 25 - True as Steel
 - [x] (Class & Job Quests) CRP Lv. 25 - A Crisis of Confidence
 - [x] (Leveling) FSH -> Lv. 25
 - [x] (Leveling) CUL -> Lv. 25
