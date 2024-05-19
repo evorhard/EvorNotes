@@ -2,17 +2,17 @@
 
 ## Levels
 
-- CRP: 27
-- BSM: 29
-- ARM: 27
-- GSM: 26
+- CRP: 29
+- BSM: 31
+- ARM: 28
+- GSM: 27
 - LTW: 28
-- WVR: 29
-- ALC: 24
-- CUL: 24
+- WVR: 30
+- ALC: 25
+- CUL: 25
 - MIN: 26
-- BTN: 26
-- FSH: 24
+- BTN: 27
+- FSH: 27
 - LNC: 37
 
 ## FFXIV To Do
@@ -21,6 +21,8 @@
 - [ ] (Other Quests) We Come in Peace
 - [ ] (Sidequests) Braving New Depths
 - [ ] (Class & Job Quests) DRG Lv. 30 - Eye of the Dragon
+- [ ] (Class & Job Quests) BSM Lv. 30 - As Iron Sharpens Iron
+- [ ] (Class & Job Quests) CRP Lv. 30 - Between Captain and Conjurer
 - [ ] (Class & Job Quests) FSH Lv. 25 - A Game of Cat and Fish
 - [ ] (Class & Job Quests) BTN Lv. 25 - Aromatic Aspirations
 - [ ] (Class & Job Quests) MIN Lv. 25 - Water from Stone
@@ -31,19 +33,34 @@
 - [ ] (Class & Job Quests) GSM Lv. 25 - Or Ever the Silver Cord Be Loosed
 - [ ] (Class & Job Quests) ARM Lv. 25 - Showing Your Steel
 - [ ] (Class & Job Quests) BSM Lv. 25 - True as Steel
-- [ ] (Class & Job Quests) CRP Lv. 25 - A Crisis of Confidence
-- [ ] (Crafting) LNC Lv. 23 - Iron-plated Jackboots
-- [ ] (Crafting) LNC Lv. 23 - Iron Scale Greaves
-- [ ] (Crafting) LNC Lv. 23 - Goatskin Breeches
-- [ ] (Crafting) LNC Lv. 23 - Cotton Kecks
-- [ ] (Crafting) LNC Lv. 23 - Iron Scale Fingers
-- [ ] (Crafting) LNC Lv. 23 - Cotton Bracers
-- [ ] (Crafting) LNC Lv. 23 - Iron Scale Mail
-- [ ] (Crafting) LNC Lv. 23 - Cotton Trapper's Tunic
-- [ ] (Crafting) LNC Lv. 23 - Reinforced Iron Sallet
-- [ ] (Crafting) LNC Lv. 23 - Iron Headgear
-- [ ] (Crafting) LNC Lv. 23 - Iron Elmo
-- [ ] (Crafting) LNC Lv. 23 - Iron Guisarme
+- [x] (Class & Job Quests) CRP Lv. 25 - A Crisis of Confidence
+- [x] (Leveling) FSH -> Lv. 25
+- [x] (Leveling) CUL -> Lv. 25
+- [x] (Crafting) BTN Lv. 24 - Initiate's Scythe
+- [x] (Crafting) MIN Lv. 24 - Initiate's Doublet Vest
+- [x] (Crafting) CUL Lv. 24 - Initiate's Culinary Knife
+- [x] (Crafting) ALC Lv. 24 - Initiate's Mortar
+- [x] (Crafting) WVR Lv. 24 - Initiate's Needle
+- [x] (Crafting) GSM Lv. 24 - Iron Ornamental Hammer
+- [x] (Crafting) ARM Lv. 24 - Iron Raising Hammer
+- [x] (Crafting) BSM Lv. 24 - Crowsbeak Hammer
+- [x] (Crafting) CRP Lv. 24 - Elm Pattens
+- [x] (Crafting) CRP Lv. 24 - Velveteen Chausses
+- [x] (Crafting) CRP Lv. 24 - Velveteen Halfgloves
+- [x] (Crafting) CRP Lv. 24 - Initiate's Gown
+- [x] (Crafting) CRP Lv. 24 - Initiate's Claw Hammer
+- [x] (Crafting) LNC Lv. 23 - Iron-plated Jackboots
+- [x] (Crafting) LNC Lv. 23 - Iron Scale Greaves
+- [x] (Crafting) LNC Lv. 23 - Goatskin Breeches
+- [x] (Crafting) LNC Lv. 23 - Cotton Kecks
+- [x] (Crafting) LNC Lv. 23 - Iron Scale Fingers
+- [x] (Crafting) LNC Lv. 23 - Cotton Bracers
+- [x] (Crafting) LNC Lv. 23 - Iron Scale Mail
+- [x] (Crafting) LNC Lv. 23 - Cotton Trapper's Tunic
+- [x] (Crafting) LNC Lv. 23 - Reinforced Iron Sallet
+- [x] (Crafting) LNC Lv. 23 - Iron Headgear
+- [x] (Crafting) LNC Lv. 23 - Iron Elmo
+- [x] (Crafting) LNC Lv. 23 - Iron Guisarme
 - [x] (Crafting) BTN Lv. 23 - Brass Hatchet
 - [x] (Crafting) CUL Lv. 23 - Iron Frypan
 - [x] (Crafting) ALC Lv. 23 - Iron Alembic
