@@ -1,18 +1,6 @@
 =-=-=-=-=
-30 Mazda MX-5 RF 1.5 [323]
-=-=-=-=-=
-
-23 chevrolet nova twin-cam
-24 tvr tasmin 280i 2+2 coupe
-24 pontiac grand am
-
-=-=-=-=-=
 43 BMW X5 3.0d [323]
 =-=-=-=-=
-
-33 peugeot 206 gti
-33 mitsubishi asx
-33 maserati ghibli ss spyder
 
 33 maserati ghibli ss spyder
 33 jaguar xj12
@@ -21,10 +9,6 @@
 =-=-=-=-=
 38 Mercedes-Benz SLK 200 [323]
 =-=-=-=-=
-
-24 dodge regal lancer super d-500
-24 citroen c5 aircross puretech 130
-24 citroen c3 aircross
 
 24 alfa romeo disco vlante (c52)
 25 volvo 760 2.8 v6 saloon
@@ -38,10 +22,6 @@
 48 Volkswagen Phaeton V6 TDI [323]
 =-=-=-=-=
 
-35 maserati ghibli ss
-35 lotus elan sprint
-36 nissan wingroad (y11)
-
 36 ford mondeo 2.0 tdci
 36 eagle summit wagon
 36 citreon c5 v6
@@ -53,6 +33,26 @@
 38 mg montego turbo
 38 citroen sm trallye du maroc
 39 renault 21 2.0l turbo quadra
+
+=-=-=-=-=
+34 Chrysler Pacifica Plug-in Hybrid [332]
+=-=-=-=-=
+
+=-=-=-=-=
+38 Chevrolet K1500 Blazer [332]
+=-=-=-=-=
+
+=-=-=-=-=
+24 Ram ProMaster 1500 [323]
+=-=-=-=-=
+
+=-=-=-=-=
+26 Bently Brooklands [323]
+=-=-=-=-=
+
+=-=-=-=-=
+28 Holden Suburban [332]
+=-=-=-=-=
 
 =-=-=-=-=
 60 Mercedes-Benz S 63 AMG [332]

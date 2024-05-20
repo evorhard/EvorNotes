@@ -5,12 +5,12 @@
 - CRP: 31
 - BSM: 34
 - ARM: 30
-- GSM: 31
+- GSM: 32
 - LTW: 31
 - WVR: 33
-- ALC: 27
+- ALC: 28
 - CUL: 27
-- MIN: 30
+- MIN: 31
 - BTN: 29
 - FSH: 33
 - LNC: 37
@@ -32,7 +32,10 @@
 - [ ] (Class & Job Quests) ARM Lv. 30 - May the Best Armorer Win
 - [ ] (Class & Job Quests) BSM Lv. 30 - As Iron Sharpens Iron
 - [ ] (Class & Job Quests) CRP Lv. 30 - Between Captain and Conjurer
-- [ ] (Class & Job Quests) FSH Lv. 25 - A Game of Cat and Fish
+- [ ] (Crafting) BSM Lv. 25 - Initiate's File
+- [ ] (Crafting) CRP Lv. 25 - Horn Earrings
+- [x] (Crafting) CRP Lv. 25 - Silver Magnifiers
+- [x] (Class & Job Quests) FSH Lv. 25 - A Game of Cat and Fish
 - [x] (Class & Job Quests) BTN Lv. 25 - Aromatic Aspirations
 - [x] (Class & Job Quests) MIN Lv. 25 - Water from Stone
 - [x] (Class & Job Quests) CUL Lv. 25 - Winning Friends with Aldgoat
