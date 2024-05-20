@@ -3,7 +3,7 @@
 ## Levels
 
 - CRP: 31
-- BSM: 34
+- BSM: 35
 - ARM: 30
 - GSM: 32
 - LTW: 31
@@ -32,8 +32,23 @@
 - [ ] (Class & Job Quests) ARM Lv. 30 - May the Best Armorer Win
 - [ ] (Class & Job Quests) BSM Lv. 30 - As Iron Sharpens Iron
 - [ ] (Class & Job Quests) CRP Lv. 30 - Between Captain and Conjurer
-- [ ] (Crafting) BSM Lv. 25 - Initiate's File
-- [ ] (Crafting) CRP Lv. 25 - Horn Earrings
+- [ ] (Crafting) LNC Lv. 25 - Goatskin Crakows
+- [ ] (Crafting) LNC Lv. 25 - Velveteen Sarouel
+- [ ] (Crafting) LNC Lv. 25 - Fingerless Goatskin Gloves
+- [ ] (Crafting) LNC Lv. 25 - Velveteen Shirt
+- [ ] (Crafting) LNC Lv. 25 - Velveteen Turban
+- [ ] (Crafting) LNC Lv. 25 - Altered Velveteen Bandana
+- [x] (Crafting) FSH Lv. 25 - Yew Fishing Rod
+- [x] (Crafting) MIN Lv. 25 - Goatskin Choker
+- [x] (Crafting) MIN Lv. 25 - Goatskin Crakows of Gathering
+- [x] (Crafting) MIN Lv. 25 - Velveteen Sarouel of Gathering
+- [x] (Crafting) MIN Lv. 25 - Fingerless Goatskin Gloves of Gathering
+- [x] (Crafting) MIN Lv. 25 - Iron Dolabra
+- [x] (Crafting) GSM Lv. 25 - Initiate's Grinding Wheel
+- [x] (Crafting) ARM Lv. 25 - Initiate's Pliers
+- [x] (Sidequests) Gone to Pieces
+- [x] (Crafting) BSM Lv. 25 - Initiate's File
+- [x] (Crafting) CRP Lv. 25 - Horn Earrings
 - [x] (Crafting) CRP Lv. 25 - Silver Magnifiers
 - [x] (Class & Job Quests) FSH Lv. 25 - A Game of Cat and Fish
 - [x] (Class & Job Quests) BTN Lv. 25 - Aromatic Aspirations

@@ -10,10 +10,6 @@
 38 Mercedes-Benz SLK 200 [323]
 =-=-=-=-=
 
-24 alfa romeo disco vlante (c52)
-25 volvo 760 2.8 v6 saloon
-25 smart fortwo coupe t
-
 25 smart fortwo coupe t
 25 peugeot 205 rallye
 25 lincoln town car cartier l
