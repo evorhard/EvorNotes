@@ -6,8 +6,8 @@
 - BSM: 35
 - ARM: 30
 - GSM: 32
-- LTW: 31
-- WVR: 33
+- LTW: 32
+- WVR: 34
 - ALC: 28
 - CUL: 27
 - MIN: 31
@@ -32,12 +32,16 @@
 - [ ] (Class & Job Quests) ARM Lv. 30 - May the Best Armorer Win
 - [ ] (Class & Job Quests) BSM Lv. 30 - As Iron Sharpens Iron
 - [ ] (Class & Job Quests) CRP Lv. 30 - Between Captain and Conjurer
-- [ ] (Crafting) LNC Lv. 25 - Goatskin Crakows
-- [ ] (Crafting) LNC Lv. 25 - Velveteen Sarouel
-- [ ] (Crafting) LNC Lv. 25 - Fingerless Goatskin Gloves
-- [ ] (Crafting) LNC Lv. 25 - Velveteen Shirt
-- [ ] (Crafting) LNC Lv. 25 - Velveteen Turban
-- [ ] (Crafting) LNC Lv. 25 - Altered Velveteen Bandana
+- [ ] (Crafting) CRP Lv. 27 - Silver Ring of Crafting
+- [ ] (Crafting) CRP Lv. 27 - Velveteen Wedge Cap of Crafting
+- [x] (Crafting) CRP Lv. 26 - Silver Wristlets of Crafting
+- [x] (Crafting) CRP Lv. 26 - Velveteen Coatee of Crafting
+- [x] (Crafting) LNC Lv. 25 - Goatskin Crakows
+- [x] (Crafting) LNC Lv. 25 - Velveteen Sarouel
+- [x] (Crafting) LNC Lv. 25 - Fingerless Goatskin Gloves
+- [x] (Crafting) LNC Lv. 25 - Velveteen Shirt
+- [x] (Crafting) LNC Lv. 25 - Velveteen Turban
+- [x] (Crafting) LNC Lv. 25 - Altered Velveteen Bandana
 - [x] (Crafting) FSH Lv. 25 - Yew Fishing Rod
 - [x] (Crafting) MIN Lv. 25 - Goatskin Choker
 - [x] (Crafting) MIN Lv. 25 - Goatskin Crakows of Gathering
