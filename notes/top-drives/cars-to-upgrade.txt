@@ -1,58 +1,106 @@
 =-=-=-=-=
-34 Chrysler Pacifica Plug-in Hybrid [323]
-=-=-=-=-=
-
-21 buick riviera
-21 audi a2 1.4
-21 aston martin dbs
-
-=-=-=-=-=
 38 Chevrolet K1500 Blazer [323]
 =-=-=-=-=
-
-22 mazda rx-3
-22 mazda rx-3
-22 mazda demio ev
-
-22 mazda demio ev
-22 chrysler sebring
-23 suzuki forenza
-
-23 peugeot 504 coupe
-23 mercury cougar xr-7
-23 ford ranger
 
 24 volvo 244 glt
 24 tvr tsmin 280i 2+2 coupe
 24 subaru legacy
 
 =-=-=-=-=
+30 Fiat PanDAKAR [323]
+=-=-=-=-=
+
+25 buick reatta
+25 buick cielo
+25 alfa romeo giulia gta stradale
+
+26 volvo 240 glt
+26 subaru leone
+26 subaru leone
+
+26 skoda slavia
+26 saturn lw
+26 nissan juke
+
+26 mitsubishi colt gti-16v
+26 mazda hr-x2
+26 mazda hr-x2
+
+26 mazda hr-x2
+26 mazda cx-5
+26 mazda cosmo
+
+=-=-=-=-=
+16 Buick Centurion [332]
+=-=-=-=-=
+
+14 suzuki fronte 360
+14 chrysler cordoba 360
+15 volkswagen jetta
+
+15 chrysler valiant wayfarer
+15 chrysler lebaron town & country convertible
+16 hyundai pony 1400
+
+17 renault twingo
+17 plymouth barracuda formula s
+17 lancia flaminia gt
+
+17 lancia 2000 hf coupe
+19 saturn relay
+19 nissan micra
+
+=-=-=-=-=
+24 Chevrolet 454 SS [323]
+=-=-=-=-=
+
+20 aston martin lagonda
+21 renault laguna
+21 oldsmobile jetstar 1
+
+21 mitsubishi mirage
+21 amc m422 mighty mike
+22 nissan almera
+
+22 mitsubishi colt
+22 mazda demio ev
+23 volkswagen golf
+
+=-=-=-=-=
 24 Ram ProMaster 1500 [323]
 =-=-=-=-=
+
+23 fiat tipo
+23 citroen ds 4
+23 chevrolet impala
+
+23 bristol 603s
+24 rover p6
+24 rover p6
+
+24 renault laguna
+24 renault laguna
+24 ram promaster 1500
 
 =-=-=-=-=
 26 Bently Brooklands [323]
 =-=-=-=-=
 
-=-=-=-=-=
-28 Holden Suburban [323]
-=-=-=-=-=
+24 chevrolet cruze sw
+24 cadillac fleetwood eldorado
+25 volvo 760 2.8 v6 salooon
 
-=-=-=-=-=
-60 Mercedes-Benz S 63 AMG [332]
-=-=-=-=-=
+25 volvo 480 es
+25 volvo 440 glt
+25 nissan juke
+
+25 citroen c-elysee
+25 citroen ax gti
+25 buick riviera gran sport
 
 =-=-=-=-=
 49 Bentley Arnage T [332]
 =-=-=-=-=
-
-30 chevrolet corvette lt-1
-31 mazda cx-7 adrenaline
-31 mazda az offroad
-
-31 ford torino cobra
-31 fiat punto 1.4 gt
-32 audi a1 30 tfsi (gb)
 
 33 vauxhall astra
 33 dodge colt gt turbo
@@ -66,6 +114,30 @@
 58 Fiat Abarth 500 R3T [323]
 =-=-=-=-=
 
+40 subaru alcyone svx
+40 skoda kamiq 1.5 tsi
+43 vauxhall antara 2.2cdti
+
+43 ford super duty f-250
+44 mazda cosmo turbo (hb)
+44 chevrolet malibu
+
+45 volvo 850 t-5r saloon
+45 mazda mx-5 speedster evolution
+46 subaru xv (gt)
+
+47 subaru legacy
+47 lotus esprit turbo
+48 buick verano
+
+49 vauxhall vx220
+49 ford bronco sport
+49 audi tt 225 quattro (8n)
+
+=-=-=-=-=
+53 Lotus Elise Sport 135 [233]
+=-=-=-=-=
+
 =-=-=-=-=
 52 Suzuki Kizashi 4x4 [323]
 =-=-=-=-=
@@ -76,4 +148,8 @@
 
 =-=-=-=-=
 63 Nissan Cima VIP (Y51) [323]
+=-=-=-=-=
+
+=-=-=-=-=
+60 Mercedes-Benz S 63 AMG [332]
 =-=-=-=-=

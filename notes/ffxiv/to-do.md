@@ -2,17 +2,17 @@
 
 ## Levels
 
-- CRP: 31
+- CRP: 32
 - BSM: 35
 - ARM: 30
-- GSM: 32
+- GSM: 33
 - LTW: 32
-- WVR: 34
-- ALC: 28
-- CUL: 27
+- WVR: 35
+- ALC: 30
+- CUL: 31
 - MIN: 31
-- BTN: 29
-- FSH: 33
+- BTN: 31
+- FSH: 34
 - LNC: 37
 
 ## FFXIV To Do
@@ -32,8 +32,24 @@
 - [ ] (Class & Job Quests) ARM Lv. 30 - May the Best Armorer Win
 - [ ] (Class & Job Quests) BSM Lv. 30 - As Iron Sharpens Iron
 - [ ] (Class & Job Quests) CRP Lv. 30 - Between Captain and Conjurer
-- [ ] (Crafting) CRP Lv. 27 - Silver Ring of Crafting
-- [ ] (Crafting) CRP Lv. 27 - Velveteen Wedge Cap of Crafting
+- [ ] (Crafting) WVR Lv. 28 - Silver Needle
+- [x] (Crafting) LTW Lv. 28 - Iron Head Knife
+- [x] (Crafting) CRP Lv. 28 - Velveteen Gaiters
+- [x] (Crafting) CRP Lv. 28 - Velveteen Bottoms
+- [x] (Crafting) CRP Lv. 28 - Velveteen Shortgloves
+- [x] (Crafting) CRP Lv. 28 - Iron Chocobotail Saw
+- [x] (Grand Company) Supply and Provisioning Missions (ALC/CUL/BTN)
+- [x] (Crafting) LNC Lv. 27 - Silver Ring
+- [x] (Crafting) LNC Lv. 27 - Goatskin Wristbands
+- [x] (Leveling) CUL -> Lv. 28
+- [x] (Crafting) LNC Lv. 26 - Silver Gorget
+- [x] (Crafting) LNC Lv. 26 - Silver Battle Fork
+- [x] (Crafting) MIN Lv. 27 - Goatskin Wristbands of Gathering
+- [x] (Crafting) MIN Lv. 27 - Silver Earrings
+- [x] (Crafting) MIN Lv. 27 - Velveteen Coatee of Gathering
+- [x] (Crafting) MIN Lv. 27 - Velveteen Wedge Cap of Gathering
+- [x] (Crafting) CRP Lv. 27 - Silver Ring of Crafting
+- [x] (Crafting) CRP Lv. 27 - Velveteen Wedge Cap of Crafting
 - [x] (Crafting) CRP Lv. 26 - Silver Wristlets of Crafting
 - [x] (Crafting) CRP Lv. 26 - Velveteen Coatee of Crafting
 - [x] (Crafting) LNC Lv. 25 - Goatskin Crakows
