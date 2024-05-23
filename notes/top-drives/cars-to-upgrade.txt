@@ -1,18 +1,6 @@
 =-=-=-=-=
-38 Chevrolet K1500 Blazer [323]
-=-=-=-=-=
-
-24 volvo 244 glt
-24 tvr tsmin 280i 2+2 coupe
-24 subaru legacy
-
-=-=-=-=-=
 30 Fiat PanDAKAR [323]
 =-=-=-=-=
-
-25 buick reatta
-25 buick cielo
-25 alfa romeo giulia gta stradale
 
 26 volvo 240 glt
 26 subaru leone
@@ -34,10 +22,6 @@
 49 Bentley Arnage T [332]
 =-=-=-=-=
 
-33 vauxhall astra
-33 dodge colt gt turbo
-34 mitsubishi eclipse cross
-
 35 rover 216
 35 citroen c4 2.0 16v vts
 35 alfa romeo spider v6
@@ -45,10 +29,6 @@
 =-=-=-=-=
 58 Fiat Abarth 500 R3T [323]
 =-=-=-=-=
-
-40 subaru alcyone svx
-40 skoda kamiq 1.5 tsi
-43 vauxhall antara 2.2cdti
 
 43 ford super duty f-250
 44 mazda cosmo turbo (hb)
