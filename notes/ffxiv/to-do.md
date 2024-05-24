@@ -6,10 +6,10 @@
 
 - CRP: 32
 - BSM: 35
-- ARM: 31
+- ARM: 32
 - GSM: 34
 - LTW: 32
-- WVR: 35
+- WVR: 36
 - ALC: 30
 - CUL: 31
 - MIN: 31
@@ -41,13 +41,15 @@
 - [ ] (Class & Job Quests) ARM Lv. 30 - May the Best Armorer Win
 - [ ] (Class & Job Quests) BSM Lv. 30 - As Iron Sharpens Iron
 - [ ] (Class & Job Quests) CRP Lv. 30 - Between Captain and Conjurer
-- [ ] (Crafting) LNC Lv. 28 - Sunstone Bracelet
-- [ ] (Crafting) LNC Lv. 28 - Sphene Bracelet
-- [ ] (Crafting) LNC Lv. 28 - Sunstone Choker
-- [ ] (Crafting) LNC Lv. 28 - Sphene Choker
-- [ ] (Crafting) LNC Lv. 28 - Velveteen Trousers
-- [ ] (Crafting) LNC Lv. 28 - Steel Vambraces
-- [ ] (Crafting) LNC Lv. 28 - Steel Chainmail
+- [ ] (Crafting) CRP Lv. 29 - Silver Choker
+- [ ] (Crafting) CRP Lv. 29 - Velveteen Beret
+- [x] (Crafting) LNC Lv. 28 - Sunstone Bracelet
+- [x] (Crafting) LNC Lv. 28 - Sphene Bracelet
+- [x] (Crafting) LNC Lv. 28 - Sunstone Choker
+- [x] (Crafting) LNC Lv. 28 - Sphene Choker
+- [x] (Crafting) LNC Lv. 28 - Velveteen Trousers
+- [x] (Crafting) LNC Lv. 28 - Steel Vambraces
+- [x] (Crafting) LNC Lv. 28 - Steel Chainmail
 - [x] (Crafting) BTN Lv. 28 - Plumed Iron Hatchet
 - [x] (Crafting) CUL Lv. 28 - Bomb Frypan
 - [x] (Crafting) ALC Lv. 28 - Conical Alembic
