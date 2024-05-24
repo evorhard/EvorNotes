@@ -2,10 +2,12 @@
 
 ## Levels
 
+### Ham Slamous
+
 - CRP: 32
 - BSM: 35
-- ARM: 30
-- GSM: 33
+- ARM: 31
+- GSM: 34
 - LTW: 32
 - WVR: 35
 - ALC: 30
@@ -14,6 +16,13 @@
 - BTN: 31
 - FSH: 34
 - LNC: 37
+
+### Retainers
+
+- MIN: 1 -> Thata
+- BTN: 1 -> P'dhamya
+- FSH: 1 -> Fihpo
+- LNC: 1 -> X'telihgo
 
 ## FFXIV To Do
 
@@ -32,7 +41,23 @@
 - [ ] (Class & Job Quests) ARM Lv. 30 - May the Best Armorer Win
 - [ ] (Class & Job Quests) BSM Lv. 30 - As Iron Sharpens Iron
 - [ ] (Class & Job Quests) CRP Lv. 30 - Between Captain and Conjurer
-- [ ] (Crafting) WVR Lv. 28 - Silver Needle
+- [ ] (Crafting) LNC Lv. 28 - Sunstone Bracelet
+- [ ] (Crafting) LNC Lv. 28 - Sphene Bracelet
+- [ ] (Crafting) LNC Lv. 28 - Sunstone Choker
+- [ ] (Crafting) LNC Lv. 28 - Sphene Choker
+- [ ] (Crafting) LNC Lv. 28 - Velveteen Trousers
+- [ ] (Crafting) LNC Lv. 28 - Steel Vambraces
+- [ ] (Crafting) LNC Lv. 28 - Steel Chainmail
+- [x] (Crafting) BTN Lv. 28 - Plumed Iron Hatchet
+- [x] (Crafting) CUL Lv. 28 - Bomb Frypan
+- [x] (Crafting) ALC Lv. 28 - Conical Alembic
+- [x] (Crafting) WVR Lv. 28 - Silver Needle
+- [x] (Crafting Retainers) MIN Lv. 1 - Leather Duckbills of Gathering
+- [x] (Crafting Retainers) MIN Lv. 1 - Hempen Shepherd's Slops
+- [x] (Crafting Retainers) MIN Lv. 1 - Leather Wristguards
+- [x] (Crafting Retainers) MIN Lv. 1 - Hempen Dalmatica of Gathering
+- [x] (Crafting Retainers) MIN Lv. 1 - Hempen Coif of Gathering
+- [x] (Other Quests) Just Crowning Around
 - [x] (Crafting) LTW Lv. 28 - Iron Head Knife
 - [x] (Crafting) CRP Lv. 28 - Velveteen Gaiters
 - [x] (Crafting) CRP Lv. 28 - Velveteen Bottoms

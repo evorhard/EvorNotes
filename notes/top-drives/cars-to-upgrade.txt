@@ -1,50 +1,46 @@
 =-=-=-=-=
-30 Fiat PanDAKAR [323]
+30 Dodge Li'l Red Express Truck [332]
 =-=-=-=-=
 
-26 volvo 240 glt
-26 subaru leone
-26 subaru leone
+29 fiat dino spider
+29 fiat tempra 2.0 i.e. turbo
+29 fiat tempra 2.0 i.e. turbo
 
-26 skoda slavia
-26 saturn lw
-26 nissan juke
-
-26 mitsubishi colt gti-16v
-26 mazda hr-x2
-26 mazda hr-x2
-
-26 mazda hr-x2
-26 mazda cx-5
-26 mazda cosmo
+29 fiat tempra 2.0 i.e. turbo
+29 fiat tempra 2.0 i.e. turbo
+29 fiat tempra 2.0 i.e. turbo
 
 =-=-=-=-=
-49 Bentley Arnage T [332]
+43 Audi A6 Saloon 40 TDI (C8) [323]
 =-=-=-=-=
 
-35 rover 216
-35 citroen c4 2.0 16v vts
-35 alfa romeo spider v6
+30 chrysler valiant charger 770 se (vh)
+31 renault 9 turbo
+31 buick rendezvous
+
+32 audi a1 1.4 tfsi (8x)
+33 opel insignia country tourer
+33 mitsubishi pajero mini
+
+33 mazda koeru
+33 lancia fulvia coupe
+33 de tomaso pampero
+
+33 citroen activa 2
+33 citroen activa 2
+34 holden hdt aero (vl)
 
 =-=-=-=-=
-58 Fiat Abarth 500 R3T [323]
+23 Ford Ranger [323]
 =-=-=-=-=
 
-43 ford super duty f-250
-44 mazda cosmo turbo (hb)
-44 chevrolet malibu
+18 volvo 740 2.4 estate
+18 volvo 740 2.4 estate
+19 skoda funstar
 
-45 volvo 850 t-5r saloon
-45 mazda mx-5 speedster evolution
-46 subaru xv (gt)
-
-47 subaru legacy
-47 lotus esprit turbo
-48 buick verano
-
-49 vauxhall vx220
-49 ford bronco sport
-49 audi tt 225 quattro (8n)
+=-=-=-=-=
+60 Mercedes-Benz S 63 AMG [332]
+=-=-=-=-=
 
 =-=-=-=-=
 53 Lotus Elise Sport 135 [233]
@@ -60,8 +56,4 @@
 
 =-=-=-=-=
 63 Nissan Cima VIP (Y51) [323]
-=-=-=-=-=
-
-=-=-=-=-=
-60 Mercedes-Benz S 63 AMG [332]
 =-=-=-=-=
