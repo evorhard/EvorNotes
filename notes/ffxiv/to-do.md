@@ -4,25 +4,25 @@
 
 ### Ham Slamous
 
-- CRP: 32
-- BSM: 35
-- ARM: 32
-- GSM: 34
-- LTW: 32
+- CRP: 33
+- BSM: 36
+- ARM: 33
+- GSM: 35
+- LTW: 33
 - WVR: 36
 - ALC: 30
 - CUL: 31
-- MIN: 31
-- BTN: 31
+- MIN: 32
+- BTN: 32
 - FSH: 34
 - LNC: 37
 
 ### Retainers
 
-- MIN: 1 -> Thata
-- BTN: 1 -> P'dhamya
-- FSH: 1 -> Fihpo
-- LNC: 1 -> X'telihgo
+- MIN: 6 -> Thata
+- BTN: 6 -> P'dhamya
+- FSH: 6 -> Fihpo
+- LNC: 6 -> X'telihgo
 
 ## FFXIV To Do
 
@@ -41,8 +41,32 @@
 - [ ] (Class & Job Quests) ARM Lv. 30 - May the Best Armorer Win
 - [ ] (Class & Job Quests) BSM Lv. 30 - As Iron Sharpens Iron
 - [ ] (Class & Job Quests) CRP Lv. 30 - Between Captain and Conjurer
-- [ ] (Crafting) CRP Lv. 29 - Silver Choker
-- [ ] (Crafting) CRP Lv. 29 - Velveteen Beret
+- [ ] (Crafting) LNC Lv. 29 - Sunstone Ring
+- [ ] (Crafting) LNC Lv. 29 - Sphene Ring
+- [ ] (Crafting) LNC Lv. 29 - Horn Armillae
+- [ ] (Crafting) LNC Lv. 29 - Sunstone Earrings
+- [ ] (Crafting) LNC Lv. 29 - Sphene Earrings
+- [ ] (Crafting) LNC Lv. 29 - Steel Halberd
+- [x] (Crafting) FSH Lv. 29 - Staghorn Fishing Rod
+- [x] (Crafting) MIN Lv. 29 - Toadskin Jerkin
+- [x] (Crafting) MIN Lv. 29 - Steel Pickaxe
+- [x] (Crafting) GSM Lv. 29 - Steel Chaser Hammer
+- [x] (Crafting) ARM Lv. 29 - Wrapped Iron Raising Hammer
+- [x] (Crafting Retainers) LNC Lv. 6 - Leather Crakows
+- [x] (Crafting Retainers) LNC Lv. 6 - Hempen Sarouel
+- [x] (Crafting Retainers) LNC Lv. 6 - Fingerless Leather Gloves
+- [x] (Crafting Retainers) LNC Lv. 6 - Hempen Tabard
+- [x] (Crafting Retainers) LNC Lv. 6 - Leather Eyepatch
+- [x] (Crafting Retainers) LNC Lv. 6 - Bone Harpoon
+- [x] (Crafting Retainers) MIN Lv. 6 - Leather Choker
+- [x] (Crafting Retainers) MIN Lv. 6 - Leather Shoes
+- [x] (Crafting Retainers) MIN Lv. 6 - Leather Culottes
+- [x] (Crafting Retainers) MIN Lv. 6 - Hempen Work Gloves
+- [x] (Crafting Retainers) MIN Lv. 6 - Hempen Shepherd's Tunic
+- [x] (Crafting Retainers) MIN Lv. 6 - Hempen Bandana
+- [x] (Crafting) BSM Lv. 29 - Heavy Crowsbeak Hammer
+- [x] (Crafting) CRP Lv. 29 - Silver Choker
+- [x] (Crafting) CRP Lv. 29 - Velveteen Beret
 - [x] (Crafting) LNC Lv. 28 - Sunstone Bracelet
 - [x] (Crafting) LNC Lv. 28 - Sphene Bracelet
 - [x] (Crafting) LNC Lv. 28 - Sunstone Choker
