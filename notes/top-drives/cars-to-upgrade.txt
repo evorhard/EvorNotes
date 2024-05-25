@@ -10,10 +10,6 @@
 38 Skoda Enyaq iV 80 [323]
 =-=-=-=-=
 
-22 fiat tipo 2.0 sedicivalvole
-22 citroen ds 5
-22 citroen ds 5
-
 22 chevrolet malibu
 23 tvr taimar
 23 skoda atero
