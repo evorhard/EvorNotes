@@ -1,18 +1,6 @@
 =-=-=-=-=
-43 Audi A6 Saloon 40 TDI (C8) [323]
-=-=-=-=-=
-
-33 citroen activa 2
-33 citroen activa 2
-34 holden hdt aero (vl)
-
-=-=-=-=-=
 38 Skoda Enyaq iV 80 [323]
 =-=-=-=-=
-
-22 chevrolet malibu
-23 tvr taimar
-23 skoda atero
 
 23 nissan primera
 23 ford focus

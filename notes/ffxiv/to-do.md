@@ -7,8 +7,8 @@
 - CRP: 34
 - BSM: 37
 - ARM: 34
-- GSM: 35
-- LTW: 33
+- GSM: 36
+- LTW: 34
 - WVR: 36
 - ALC: 30
 - CUL: 31
@@ -29,6 +29,7 @@
 - [ ] (Other Quests) We Come in Peace
 - [ ] (Sidequests) Dishonor Before Death
 - [ ] (Sidequests) Braving New Depths
+- [ ] (Class & Job Quests) LTW Lv. 35 - Lead by Example
 - [ ] (Class & Job Quests) GSM Lv. 35 - Mammets on Fire
 - [ ] (Class & Job Quests) ARM Lv. 35 - Pans of Steel
 - [ ] (Class & Job Quests) BSM Lv. 35 - Set Faezahr to Stun
@@ -42,7 +43,7 @@
 - [ ] (Class & Job Quests) ALC Lv. 30 - Baleful Brews
 - [ ] (Class & Job Quests) WVR Lv. 30 - Miner on a Mission
 - [ ] (Class & Job Quests) LTW Lv. 30 - Toadskins of the Father
-- [ ] (Class & Job Quests) GSM Lv. 30 - Serendipity Now
+- [x] (Class & Job Quests) GSM Lv. 30 - Serendipity Now
 - [x] (Class & Job Quests) ARM Lv. 30 - May the Best Armorer Win
 - [x] (Class & Job Quests) BSM Lv. 30 - As Iron Sharpens Iron
 - [x] (Class & Job Quests) CRP Lv. 30 - Between Captain and Conjurer
