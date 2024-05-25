@@ -4,7 +4,7 @@
 
 ### Ham Slamous
 
-- CRP: 33
+- CRP: 34
 - BSM: 36
 - ARM: 33
 - GSM: 35
@@ -26,9 +26,12 @@
 
 ## FFXIV To Do
 
-- [ ] [38] (Sidequests) Dishonor Before Death
 - [ ] (Other Quests) We Come in Peace
+- [ ] (Sidequests) Dishonor Before Death
 - [ ] (Sidequests) Braving New Depths
+- [ ] (Class & Job Quests) BSM Lv. 35 - Set Faezahr to Stun
+- [ ] (Class & Job Quests) CRP Lv. 35 - Growing Apart
+- [ ] (Crafting) CRP Lv. 30 - Velveteen Gown
 - [ ] (Class & Job Quests) DRG Lv. 30 - Eye of the Dragon
 - [ ] (Class & Job Quests) FSH Lv. 30 - Like Fish Passing in the Night
 - [ ] (Class & Job Quests) BTN Lv. 30 - What Nature Giveth
@@ -40,13 +43,13 @@
 - [ ] (Class & Job Quests) GSM Lv. 30 - Serendipity Now
 - [ ] (Class & Job Quests) ARM Lv. 30 - May the Best Armorer Win
 - [ ] (Class & Job Quests) BSM Lv. 30 - As Iron Sharpens Iron
-- [ ] (Class & Job Quests) CRP Lv. 30 - Between Captain and Conjurer
-- [ ] (Crafting) LNC Lv. 29 - Sunstone Ring
-- [ ] (Crafting) LNC Lv. 29 - Sphene Ring
-- [ ] (Crafting) LNC Lv. 29 - Horn Armillae
-- [ ] (Crafting) LNC Lv. 29 - Sunstone Earrings
-- [ ] (Crafting) LNC Lv. 29 - Sphene Earrings
-- [ ] (Crafting) LNC Lv. 29 - Steel Halberd
+- [x] (Class & Job Quests) CRP Lv. 30 - Between Captain and Conjurer
+- [x] (Crafting) LNC Lv. 29 - Sunstone Ring
+- [x] (Crafting) LNC Lv. 29 - Sphene Ring
+- [x] (Crafting) LNC Lv. 29 - Horn Armillae
+- [x] (Crafting) LNC Lv. 29 - Sunstone Earrings
+- [x] (Crafting) LNC Lv. 29 - Sphene Earrings
+- [x] (Crafting) LNC Lv. 29 - Steel Halberd
 - [x] (Crafting) FSH Lv. 29 - Staghorn Fishing Rod
 - [x] (Crafting) MIN Lv. 29 - Toadskin Jerkin
 - [x] (Crafting) MIN Lv. 29 - Steel Pickaxe

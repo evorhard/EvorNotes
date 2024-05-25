@@ -1,34 +1,26 @@
 =-=-=-=-=
-30 Dodge Li'l Red Express Truck [332]
-=-=-=-=-=
-
-29 fiat dino spider
-29 fiat tempra 2.0 i.e. turbo
-29 fiat tempra 2.0 i.e. turbo
-
-29 fiat tempra 2.0 i.e. turbo
-29 fiat tempra 2.0 i.e. turbo
-29 fiat tempra 2.0 i.e. turbo
-
-=-=-=-=-=
 43 Audi A6 Saloon 40 TDI (C8) [323]
 =-=-=-=-=
-
-30 chrysler valiant charger 770 se (vh)
-31 renault 9 turbo
-31 buick rendezvous
-
-32 audi a1 1.4 tfsi (8x)
-33 opel insignia country tourer
-33 mitsubishi pajero mini
-
-33 mazda koeru
-33 lancia fulvia coupe
-33 de tomaso pampero
 
 33 citroen activa 2
 33 citroen activa 2
 34 holden hdt aero (vl)
+
+=-=-=-=-=
+38 Skoda Enyaq iV 80 [323]
+=-=-=-=-=
+
+22 fiat tipo 2.0 sedicivalvole
+22 citroen ds 5
+22 citroen ds 5
+
+22 chevrolet malibu
+23 tvr taimar
+23 skoda atero
+
+23 nissan primera
+23 ford focus
+23 chrysler sebring
 
 =-=-=-=-=
 60 Mercedes-Benz S 63 AMG [332]
