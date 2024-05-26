@@ -9,40 +9,74 @@
 - ARM: 34
 - GSM: 36
 - LTW: 34
-- WVR: 36
-- ALC: 30
-- CUL: 31
-- MIN: 32
-- BTN: 32
-- FSH: 34
+- WVR: 37
+- ALC: 31
+- CUL: 32
+- MIN: 33
+- BTN: 33
+- FSH: 35
 - LNC: 37
 
 ### Retainers
 
-- MIN: 6 -> Thata
-- BTN: 6 -> P'dhamya
-- FSH: 6 -> Fihpo
-- LNC: 6 -> X'telihgo
+- MIN: 11 -> Thata
+- BTN: 11 -> P'dhamya
+- FSH: 11 -> Fihpo
+- LNC: 11 -> X'telihgo
 
 ## FFXIV To Do
 
 - [ ] (Other Quests) We Come in Peace
 - [ ] (Sidequests) Dishonor Before Death
 - [ ] (Sidequests) Braving New Depths
+- [ ] (Class & Job Quests) DRG Lv. 35 - Lance of Fury
+- [ ] (Class & Job Quests) FSH Lv. 35 - A Fish out of Water
+- [ ] (Class & Job Quests) BTN Lv. 35 - A Feast to Say the Least
+- [ ] (Class & Job Quests) MIN Lv. 35 - Amethysts Are Forever
+- [ ] (Class & Job Quests) CUL Lv. 35 - Of Cooks and Books
+- [ ] (Class & Job Quests) ALC Lv. 35 - Cease and Assist
+- [ ] (Class & Job Quests) WVR Lv. 35 - Designed by Committee
 - [ ] (Class & Job Quests) LTW Lv. 35 - Lead by Example
 - [ ] (Class & Job Quests) GSM Lv. 35 - Mammets on Fire
 - [ ] (Class & Job Quests) ARM Lv. 35 - Pans of Steel
 - [ ] (Class & Job Quests) BSM Lv. 35 - Set Faezahr to Stun
 - [ ] (Class & Job Quests) CRP Lv. 35 - Growing Apart
-- [ ] (Crafting) CRP Lv. 30 - Velveteen Gown
-- [ ] (Class & Job Quests) DRG Lv. 30 - Eye of the Dragon
-- [ ] (Class & Job Quests) FSH Lv. 30 - Like Fish Passing in the Night
-- [ ] (Class & Job Quests) BTN Lv. 30 - What Nature Giveth
-- [ ] (Class & Job Quests) MIN Lv. 30 - Obsidian Race
-- [ ] (Class & Job Quests) CUL Lv. 30 - The Chefsbane Cometh
-- [ ] (Class & Job Quests) ALC Lv. 30 - Baleful Brews
-- [ ] (Class & Job Quests) WVR Lv. 30 - Miner on a Mission
-- [ ] (Class & Job Quests) LTW Lv. 30 - Toadskins of the Father
+- [ ] (Crafting) MIN Lv. 30 - Toadskin Ring
+- [ ] (Crafting) MIN Lv. 30 - Toadskin Workboots
+- [ ] (Crafting) MIN Lv. 30 - Toadskin Culottes
+- [ ] (Crafting) MIN Lv. 30 - Velveteen Work Gloves
+- [ ] (Crafting) MIN Lv. 30 - Steel Sledgehammer
+- [x] (Crafting) CRP Lv. 30 - Velveteen Gown
+- [x] (Crafting Retainers) LNC Lv. 11 - Copper Ring
+- [x] (Crafting Retainers) LNC Lv. 11 - Leather Wristbands
+- [x] (Crafting Retainers) LNC Lv. 11 - Copper Gorget
+- [x] (Crafting Retainers) LNC Lv. 11 - Copper Ear Cuffs
+- [x] (Crafting Retainers) LNC Lv. 11 - Leather Jackboots
+- [x] (Crafting Retainers) LNC Lv. 11 - Hempen Trousers
+- [x] (Crafting Retainers) LNC Lv. 11 - Hempen Bracers
+- [x] (Crafting Retainers) LNC Lv. 11 - Leather Jacket
+- [x] (Crafting Retainers) LNC Lv. 11 - Bronze Sallet
+- [x] (Crafting Retainers) LNC Lv. 11 - Ramhorn Harpoon
+- [x] (Crafting Retainers) FSH Lv. 11 - Maple Fishing Rod
+- [x] (Crafting Retainers) BTN Lv. 11 - Bronze Scythe
+- [x] (Crafting Retainers) BTN Lv. 11 - Bronze Hatchet
+- [x] (Crafting Retainers) MIN Lv. 11 - Copper Earrings
+- [x] (Crafting Retainers) MIN Lv. 11 - Hard Leather Shoes
+- [x] (Crafting Retainers) MIN Lv. 11 - Amateur's Slops
+- [x] (Crafting Retainers) MIN Lv. 11 - Hard Leather Wristguards
+- [x] (Crafting Retainers) MIN Lv. 11 - Amateur's Doublet Vest
+- [x] (Crafting Retainers) MIN Lv. 11 - Straw Hat
+- [x] (Crafting Retainers) MIN Lv. 11 - Bronze Sledgehammer
+- [x] (Crafting Retainers) MIN Lv. 11 - Amateur's Pickaxe
+- [x] (Class & Job Quests) DRG Lv. 30 - Eye of the Dragon
+- [x] (Sidequests) Hunger Is the Best Sauce
+- [x] (Class & Job Quests) FSH Lv. 30 - Like Fish Passing in the Night
+- [x] (Class & Job Quests) BTN Lv. 30 - What Nature Giveth
+- [x] (Class & Job Quests) MIN Lv. 30 - Obsidian Race
+- [x] (Class & Job Quests) CUL Lv. 30 - The Chefsbane Cometh
+- [x] (Class & Job Quests) ALC Lv. 30 - Baleful Brews
+- [x] (Class & Job Quests) WVR Lv. 30 - Miner on a Mission
+- [x] (Class & Job Quests) LTW Lv. 30 - Toadskins of the Father
 - [x] (Class & Job Quests) GSM Lv. 30 - Serendipity Now
 - [x] (Class & Job Quests) ARM Lv. 30 - May the Best Armorer Win
 - [x] (Class & Job Quests) BSM Lv. 30 - As Iron Sharpens Iron
