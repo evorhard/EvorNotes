@@ -2,13 +2,73 @@
 38 Lincoln Navigator [323]
 =-=-=-=-=
 
+24 ginetta g30
+24 fiat 500
+24 citroen c3 aircross
+
+24 chevrolet cruze sw
+25 skoda fabia hatchback 2.0
+25 mazda miata m coupe
+
+25 citroen e-c4
+25 citroen ax gti
+26 mazda rx-7
+
 =-=-=-=-=
 30 Chevrolet SSR [323]
 =-=-=-=-=
 
+27 vauxhall frontera
+27 skoda fabia monte carlo 1.4 tdi
+27 renault vel satis
+
+27 renault vel satis
+27 pontiac fiero
+27 oldsmobile cutlass supreme international
+
+27 oldsmobile 442
+27 nissan skyline hardtop 2000 gt-r (c10)
+27 nissan silvia
+
 =-=-=-=-=
 35 Bentley Mulsanne Turbo [323]
 =-=-=-=-=
+
+27 citroen c5 tourer 2.2 hdi
+27 citroen c5 tourer 2.2 hdi
+28 volkswagen corrado 16v g60
+
+28 tvr 3000m
+28 saturn ls100
+28 peugeot 405 mi16
+
+28 peugeot 405 mi16
+28 peugeot 2008
+28 land rover discovery 2
+
+=-=-=-=-=
+43 Buick Riviera Concept [323]
+=-=-=-=-=
+
+30 renault megane
+30 dodge ram li'l red express truck
+30 dodge ram li'l red express truck
+
+32 vauxhall chevette hsr
+33 vauxhall astra
+33 citroen c5 x puretech 180
+
+34 holden malibu cdx
+35 volkswagen golf vr6
+35 skoda octavia vrs
+
+35 saturn astra xr
+35 lotus m100 elan
+35 jaguar e-type
+
+35 chrysler thunderbolt
+35 chrysler 300 touring
+36 ford iosis
 
 =-=-=-=-=
 60 Mercedes-Benz S 63 AMG [332]

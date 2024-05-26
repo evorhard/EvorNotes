@@ -6,11 +6,11 @@
 
 - CRP: 34
 - BSM: 37
-- ARM: 34
-- GSM: 36
-- LTW: 34
+- ARM: 35
+- GSM: 37
+- LTW: 35
 - WVR: 37
-- ALC: 31
+- ALC: 32
 - CUL: 32
 - MIN: 33
 - BTN: 33
@@ -41,11 +41,22 @@
 - [ ] (Class & Job Quests) ARM Lv. 35 - Pans of Steel
 - [ ] (Class & Job Quests) BSM Lv. 35 - Set Faezahr to Stun
 - [ ] (Class & Job Quests) CRP Lv. 35 - Growing Apart
-- [ ] (Crafting) MIN Lv. 30 - Toadskin Ring
-- [ ] (Crafting) MIN Lv. 30 - Toadskin Workboots
-- [ ] (Crafting) MIN Lv. 30 - Toadskin Culottes
-- [ ] (Crafting) MIN Lv. 30 - Velveteen Work Gloves
-- [ ] (Crafting) MIN Lv. 30 - Steel Sledgehammer
+- [ ] (Crafting) LTW Lv. 31 - Steel Awl
+- [ ] (Crafting) LTW Lv. 31 - Silver Head Knife
+- [x] (Crafting) CRP Lv. 31 - Steel Goggles
+- [x] (Crafting) CRP Lv. 31 - Steel Claw Hammer
+- [x] (Crafting) CRP Lv. 31 - Bas-relief Steel Saw
+- [x] (Crafting) DRG Lv. 30 - Silver Ear Cuffs
+- [x] (Crafting) DRG Lv. 30 - Toadskin Leg Guards
+- [x] (Crafting) DRG Lv. 30 - Toadskin Brais
+- [x] (Crafting) DRG Lv. 30 - Toadskin Armguards
+- [x] (Crafting) DRG Lv. 30 - Toadskin Jacket
+- [x] (Crafting) DRG Lv. 30 - Steel Sallet
+- [x] (Crafting) MIN Lv. 30 - Toadskin Ring
+- [x] (Crafting) MIN Lv. 30 - Toadskin Workboots
+- [x] (Crafting) MIN Lv. 30 - Toadskin Culottes
+- [x] (Crafting) MIN Lv. 30 - Velveteen Work Gloves
+- [x] (Crafting) MIN Lv. 30 - Steel Sledgehammer
 - [x] (Crafting) CRP Lv. 30 - Velveteen Gown
 - [x] (Crafting Retainers) LNC Lv. 11 - Copper Ring
 - [x] (Crafting Retainers) LNC Lv. 11 - Leather Wristbands
