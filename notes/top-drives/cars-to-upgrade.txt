@@ -54,6 +54,46 @@
 60 Mercedes-Benz S 63 AMG [332]
 =-=-=-=-=
 
+42 mitsubishi pajero
+42 infiniti g35
+42 ford super duty f-350
+
+43 volvo s90 t5
+43 buick riviera concept
+45 volvo 850 t-5r saloon
+
+45 mazda mx-5 speedster evolution
+45 jaguar xk convertible
+45 ford puma st
+
+46 alfa romeo gt
+47 volvo v70 xc 2.4t awd
+48 hyundai ioniq 5 77 kwh
+
+=-=-=-=-=
+46 Skoda Mountiaq [323]
+=-=-=-=-=
+
+37 chevrolet impala ss
+37 bristol beaufighter
+37 audi a4 1.8t (b5)
+
+37 acura slx
+37 acura legend 3.2 v6
+38 skoda enyaq iv 80
+
+38 mazda 6 2.3
+38 lancia thesis 3.2 v6 24v
+38 ford focus st170
+
+38 chevrolet chevelle ss 454
+39 renault laguna coupe
+39 mazdaspeed mx-5 miata
+
+39 lotus elan se
+39 chrysler 200 convertible
+39 chrysler 200 convertible
+
 =-=-=-=-=
 53 Lotus Elise Sport 135 [233]
 =-=-=-=-=
