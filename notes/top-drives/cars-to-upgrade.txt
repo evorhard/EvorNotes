@@ -1,74 +1,54 @@
 =-=-=-=-=
-38 Lincoln Navigator [323]
+36 Ginetta G40 Junior [323]
 =-=-=-=-=
 
-24 ginetta g30
-24 fiat 500
-24 citroen c3 aircross
+20 ford airstream
+20 citroen karin
+20 chevrolet prizm (e110)
 
-24 chevrolet cruze sw
-25 skoda fabia hatchback 2.0
-25 mazda miata m coupe
+20 buick riviera coupe
+20 buick riviera coupe
+20 buick park avenue essence
 
-25 citroen e-c4
-25 citroen ax gti
-26 mazda rx-7
-
-=-=-=-=-=
-30 Chevrolet SSR [323]
-=-=-=-=-=
-
-27 vauxhall frontera
-27 skoda fabia monte carlo 1.4 tdi
-27 renault vel satis
-
-27 renault vel satis
-27 pontiac fiero
-27 oldsmobile cutlass supreme international
-
-27 oldsmobile 442
-27 nissan skyline hardtop 2000 gt-r (c10)
-27 nissan silvia
+21 mitsubishi colt
+21 ford fiesta
+21 chrysler 300c
 
 =-=-=-=-=
-35 Bentley Mulsanne Turbo [323]
+39 Buick Velite 6 EV [323]
 =-=-=-=-=
 
-27 citroen c5 tourer 2.2 hdi
-27 citroen c5 tourer 2.2 hdi
-28 volkswagen corrado 16v g60
+23 ford mustang m81
+24 volvo 244 glt
+24 dodge d-100
 
-28 tvr 3000m
-28 saturn ls100
-28 peugeot 405 mi16
+25 buick riviera gran sport
+26 saturn lw
+26 mazda hr-x2
 
-28 peugeot 405 mi16
-28 peugeot 2008
-28 land rover discovery 2
+26 maserati kyalami
+26 maserati kyalami
+26 hyundai ioniq electric
 
 =-=-=-=-=
-43 Buick Riviera Concept [323]
+48 Hyundai Ioniq 5 77 kWh [323]
 =-=-=-=-=
 
-30 renault megane
-30 dodge ram li'l red express truck
-30 dodge ram li'l red express truck
+30 ford focus
+31 suzuki swift sport hybrid (a2l)
+31 mazda cx-7 adrenaline
 
-32 vauxhall chevette hsr
-33 vauxhall astra
-33 citroen c5 x puretech 180
+32 chevrolet chevelle malibu ss
+35 porsche 924
+35 audi 200 quattro (c3)
 
-34 holden malibu cdx
-35 volkswagen golf vr6
-35 skoda octavia vrs
+36 ford focus
+36 alfa romeo 146 ti
+37 porsche 550 spyder
 
-35 saturn astra xr
-35 lotus m100 elan
-35 jaguar e-type
-
-35 chrysler thunderbolt
-35 chrysler 300 touring
-36 ford iosis
+37 lotus elan
+37 holden cruze sri-v
+37 fiat 124 spider
 
 =-=-=-=-=
 60 Mercedes-Benz S 63 AMG [332]

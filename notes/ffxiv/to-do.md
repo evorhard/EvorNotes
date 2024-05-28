@@ -4,9 +4,9 @@
 
 ### Ham Slamous
 
-- CRP: 34
-- BSM: 37
-- ARM: 35
+- CRP: 35
+- BSM: 38
+- ARM: 36
 - GSM: 37
 - LTW: 35
 - WVR: 37
@@ -15,7 +15,7 @@
 - MIN: 33
 - BTN: 33
 - FSH: 35
-- LNC: 37
+- DRG: 37
 
 ### Retainers
 
@@ -41,8 +41,18 @@
 - [ ] (Class & Job Quests) ARM Lv. 35 - Pans of Steel
 - [ ] (Class & Job Quests) BSM Lv. 35 - Set Faezahr to Stun
 - [ ] (Class & Job Quests) CRP Lv. 35 - Growing Apart
-- [ ] (Crafting) LTW Lv. 31 - Steel Awl
-- [ ] (Crafting) LTW Lv. 31 - Silver Head Knife
+- [ ] (Leveling) CUL -> Lv. 33
+- [ ] (Leveling) ALC -> Lv. 33
+- [ ] (Crafting) CRP Lv. 32 - Velveteen Doublet Vest of Crafting
+- [x] (Crafting) DRG Lv. 31 - Steel Spear
+- [x] (Crafting) BTN Lv. 31 - Steel Scythe
+- [x] (Crafting) BTN Lv. 31 - Steel Hatchet
+- [x] (Crafting) CUL Lv. 31 - Steel Culinary Knife
+- [x] (Crafting) CUL Lv. 31 - Steel Skillet
+- [x] (Crafting) ALC Lv. 31 - Steel Mortar
+- [x] (Crafting) ALC Lv. 31 - Steel Alembic
+- [x] (Crafting) LTW Lv. 31 - Steel Awl
+- [x] (Crafting) LTW Lv. 31 - Silver Head Knife
 - [x] (Crafting) CRP Lv. 31 - Steel Goggles
 - [x] (Crafting) CRP Lv. 31 - Steel Claw Hammer
 - [x] (Crafting) CRP Lv. 31 - Bas-relief Steel Saw
