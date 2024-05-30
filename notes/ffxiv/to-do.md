@@ -6,16 +6,16 @@
 
 - CRP: 35
 - BSM: 38
-- ARM: 36
+- ARM: 37
 - GSM: 37
-- LTW: 35
+- LTW: 36
 - WVR: 37
 - ALC: 32
 - CUL: 32
-- MIN: 33
-- BTN: 33
+- MIN: 34
+- BTN: 34
 - FSH: 35
-- DRG: 37
+- DRG: 38
 
 ### Retainers
 
@@ -43,7 +43,14 @@
 - [ ] (Class & Job Quests) CRP Lv. 35 - Growing Apart
 - [ ] (Leveling) CUL -> Lv. 33
 - [ ] (Leveling) ALC -> Lv. 33
-- [ ] (Crafting) FSH Lv. 32 - Walnut Fishing Rod
+- [x] (Crafting) DRG Lv. 32 - Steel-plated Jackboots
+- [x] (Crafting) DRG Lv. 32 - Steel Scale Greaves
+- [x] (Crafting) DRG Lv. 32 - Toadskin Breeches
+- [x] (Crafting) DRG Lv. 32 - Steel Scale Fingers
+- [x] (Crafting) DRG Lv. 32 - Steel Scale Mail
+- [x] (Crafting) DRG Lv. 32 - Steel Headgear
+- [x] (Crafting) DRG Lv. 32 - Steel Elmo
+- [x] (Crafting) FSH Lv. 32 - Walnut Fishing Rod
 - [x] (Crafting) MIN Lv. 32 - Velveteen Doublet Vest of Gathering
 - [x] (Crafting) WVR Lv. 32 - Walnut Spinning Wheel
 - [x] (Crafting) WVR Lv. 32 - Worm Fang Needle

@@ -2,10 +2,6 @@
 48 Hyundai Ioniq 5 77 kWh [323]
 =-=-=-=-=
 
-36 ford focus
-36 alfa romeo 146 ti
-37 porsche 550 spyder
-
 37 lotus elan
 37 holden cruze sri-v
 37 fiat 124 spider
@@ -14,21 +10,9 @@
 60 Mercedes-Benz S 63 AMG [332]
 =-=-=-=-=
 
-45 mazda mx-5 speedster evolution
-45 jaguar xk convertible
-45 ford puma st
-
 46 alfa romeo gt
 47 volvo v70 xc 2.4t awd
 48 hyundai ioniq 5 77 kwh
-
-=-=-=-=-=
-46 Skoda Mountiaq [323]
-=-=-=-=-=
-
-39 lotus elan se
-39 chrysler 200 convertible
-39 chrysler 200 convertible
 
 =-=-=-=-=
 30 Chevrolet Corvette 396 [332]
