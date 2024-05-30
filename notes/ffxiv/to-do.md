@@ -43,7 +43,12 @@
 - [ ] (Class & Job Quests) CRP Lv. 35 - Growing Apart
 - [ ] (Leveling) CUL -> Lv. 33
 - [ ] (Leveling) ALC -> Lv. 33
-- [ ] (Crafting) CRP Lv. 32 - Velveteen Doublet Vest of Crafting
+- [ ] (Crafting) FSH Lv. 32 - Walnut Fishing Rod
+- [x] (Crafting) MIN Lv. 32 - Velveteen Doublet Vest of Gathering
+- [x] (Crafting) WVR Lv. 32 - Walnut Spinning Wheel
+- [x] (Crafting) WVR Lv. 32 - Worm Fang Needle
+- [x] (Crafting) BSM Lv. 32 - Steel Cross-pein Hammer
+- [x] (Crafting) CRP Lv. 32 - Velveteen Doublet Vest of Crafting
 - [x] (Crafting) DRG Lv. 31 - Steel Spear
 - [x] (Crafting) BTN Lv. 31 - Steel Scythe
 - [x] (Crafting) BTN Lv. 31 - Steel Hatchet

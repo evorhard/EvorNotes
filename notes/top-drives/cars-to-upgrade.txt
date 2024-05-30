@@ -1,46 +1,6 @@
 =-=-=-=-=
-36 Ginetta G40 Junior [323]
-=-=-=-=-=
-
-20 ford airstream
-20 citroen karin
-20 chevrolet prizm (e110)
-
-20 buick riviera coupe
-20 buick riviera coupe
-20 buick park avenue essence
-
-21 mitsubishi colt
-21 ford fiesta
-21 chrysler 300c
-
-=-=-=-=-=
-39 Buick Velite 6 EV [323]
-=-=-=-=-=
-
-23 ford mustang m81
-24 volvo 244 glt
-24 dodge d-100
-
-25 buick riviera gran sport
-26 saturn lw
-26 mazda hr-x2
-
-26 maserati kyalami
-26 maserati kyalami
-26 hyundai ioniq electric
-
-=-=-=-=-=
 48 Hyundai Ioniq 5 77 kWh [323]
 =-=-=-=-=
-
-30 ford focus
-31 suzuki swift sport hybrid (a2l)
-31 mazda cx-7 adrenaline
-
-32 chevrolet chevelle malibu ss
-35 porsche 924
-35 audi 200 quattro (c3)
 
 36 ford focus
 36 alfa romeo 146 ti
@@ -54,14 +14,6 @@
 60 Mercedes-Benz S 63 AMG [332]
 =-=-=-=-=
 
-42 mitsubishi pajero
-42 infiniti g35
-42 ford super duty f-350
-
-43 volvo s90 t5
-43 buick riviera concept
-45 volvo 850 t-5r saloon
-
 45 mazda mx-5 speedster evolution
 45 jaguar xk convertible
 45 ford puma st
@@ -74,25 +26,25 @@
 46 Skoda Mountiaq [323]
 =-=-=-=-=
 
-37 chevrolet impala ss
-37 bristol beaufighter
-37 audi a4 1.8t (b5)
-
-37 acura slx
-37 acura legend 3.2 v6
-38 skoda enyaq iv 80
-
-38 mazda 6 2.3
-38 lancia thesis 3.2 v6 24v
-38 ford focus st170
-
-38 chevrolet chevelle ss 454
-39 renault laguna coupe
-39 mazdaspeed mx-5 miata
-
 39 lotus elan se
 39 chrysler 200 convertible
 39 chrysler 200 convertible
+
+=-=-=-=-=
+30 Chevrolet Corvette 396 [332]
+=-=-=-=-=
+
+21 skoda fabia scout 1.2 tsi
+21 oldsmobile jetstar 1
+21 mitsubishi mirage
+
+21 chrysler 300c
+21 chevrolet sprint turbo
+22 nissan leaf
+
+22 lancia dedra
+23 vauxhall firenza 2000 sl coupe
+23 saturn ion
 
 =-=-=-=-=
 53 Lotus Elise Sport 135 [233]
