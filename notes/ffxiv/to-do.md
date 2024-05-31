@@ -4,15 +4,15 @@
 
 ### Ham Slamous
 
-- CRP: 36
-- BSM: 39
+- CRP: 37
+- BSM: 40
 - ARM: 38
 - GSM: 38
 - LTW: 36
 - WVR: 38
 - ALC: 34
 - CUL: 34
-- MIN: 34
+- MIN: 35
 - BTN: 34
 - FSH: 36
 - DRG: 38
@@ -41,7 +41,13 @@
 - [ ] (Class & Job Quests) ARM Lv. 35 - Pans of Steel
 - [ ] (Class & Job Quests) BSM Lv. 35 - Set Faezahr to Stun
 - [ ] (Class & Job Quests) CRP Lv. 35 - Growing Apart
-- [ ] (Crafting) BSM Lv. 34 - Steel Crowsbeak Hammer
+- [ ] (Crafting) MIN Lv. 34 - Steel Dolabra
+- [x] (Crafting) CUL Lv. 34 - White Skillet
+- [x] (Crafting) ALC Lv. 34 - Silver Alembic
+- [x] (Crafting) LTW Lv. 34 - Steel Round Knife
+- [x] (Crafting) GSM Lv. 34 - Steel Ornamental Hammer
+- [x] (Crafting) ARM Lv. 34 - Steel Doming Hammer
+- [x] (Crafting) BSM Lv. 34 - Steel Crowsbeak Hammer
 - [x] (Crafting) CRP Lv. 34 - Mythril Magnifiers
 - [x] (Crafting) CRP Lv. 34 - Crosscut Saw
 - [x] (Crafting) DRG Lv. 33 - Skull Eyepatch
