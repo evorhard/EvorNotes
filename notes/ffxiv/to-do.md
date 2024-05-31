@@ -4,17 +4,17 @@
 
 ### Ham Slamous
 
-- CRP: 35
-- BSM: 38
-- ARM: 37
-- GSM: 37
+- CRP: 36
+- BSM: 39
+- ARM: 38
+- GSM: 38
 - LTW: 36
-- WVR: 37
-- ALC: 32
-- CUL: 32
+- WVR: 38
+- ALC: 34
+- CUL: 34
 - MIN: 34
 - BTN: 34
-- FSH: 35
+- FSH: 36
 - DRG: 38
 
 ### Retainers
@@ -41,8 +41,19 @@
 - [ ] (Class & Job Quests) ARM Lv. 35 - Pans of Steel
 - [ ] (Class & Job Quests) BSM Lv. 35 - Set Faezahr to Stun
 - [ ] (Class & Job Quests) CRP Lv. 35 - Growing Apart
-- [ ] (Leveling) CUL -> Lv. 33
-- [ ] (Leveling) ALC -> Lv. 33
+- [ ] (Crafting) BSM Lv. 34 - Steel Crowsbeak Hammer
+- [x] (Crafting) CRP Lv. 34 - Mythril Magnifiers
+- [x] (Crafting) CRP Lv. 34 - Crosscut Saw
+- [x] (Crafting) DRG Lv. 33 - Skull Eyepatch
+- [x] (Crafting) MIN Lv. 33 - Wrapped Steel Sledgehammer
+- [x] (Crafting) GSM Lv. 33 - Siltstone Grinding Wheel
+- [x] (Crafting) ARM Lv. 33 - Steel Pliers
+- [x] (Crafting) BSM Lv. 33 - Steel File
+- [x] (Crafting) CRP Lv. 33 - Walnut Pattens
+- [x] (Crafting) CRP Lv. 33 - Linen Chausses
+- [x] (Crafting) CRP Lv. 33 - Linen Halfgloves
+- [x] (Leveling) CUL -> Lv. 33
+- [x] (Leveling) ALC -> Lv. 33
 - [x] (Crafting) DRG Lv. 32 - Steel-plated Jackboots
 - [x] (Crafting) DRG Lv. 32 - Steel Scale Greaves
 - [x] (Crafting) DRG Lv. 32 - Toadskin Breeches

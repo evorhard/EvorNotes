@@ -1,26 +1,6 @@
 =-=-=-=-=
-48 Hyundai Ioniq 5 77 kWh [323]
-=-=-=-=-=
-
-37 lotus elan
-37 holden cruze sri-v
-37 fiat 124 spider
-
-=-=-=-=-=
-60 Mercedes-Benz S 63 AMG [332]
-=-=-=-=-=
-
-46 alfa romeo gt
-47 volvo v70 xc 2.4t awd
-48 hyundai ioniq 5 77 kwh
-
-=-=-=-=-=
 30 Chevrolet Corvette 396 [332]
 =-=-=-=-=
-
-21 skoda fabia scout 1.2 tsi
-21 oldsmobile jetstar 1
-21 mitsubishi mirage
 
 21 chrysler 300c
 21 chevrolet sprint turbo
@@ -29,6 +9,26 @@
 22 lancia dedra
 23 vauxhall firenza 2000 sl coupe
 23 saturn ion
+
+=-=-=-=-=
+33 Suzuki Vitara [323]
+=-=-=-=-=
+
+23 buick gl8 iii
+24 volvo 244 glt
+24 volkswagen touran
+
+24 ram promaster 1500
+24 plymouth barracuda fastback
+24 nissan 280z
+
+24 citroen c5 aircross puretech 180
+24 buick encore
+25 volvo 760 2.8 v6 saloon
+
+25 volvo 760 2.8 v6 saloon
+25 citroen c4 cactus 2.0 hdi 16v
+25 chrysler pt cruiser
 
 =-=-=-=-=
 53 Lotus Elise Sport 135 [233]
