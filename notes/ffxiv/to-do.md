@@ -4,10 +4,10 @@
 
 ### Ham Slamous
 
-- CRP: 37
+- CRP: 38
 - BSM: 40
-- ARM: 38
-- GSM: 38
+- ARM: 39
+- GSM: 39
 - LTW: 36
 - WVR: 38
 - ALC: 36
@@ -26,6 +26,7 @@
 
 ## FFXIV To Do
 
+- [ ] (Class & Job Quests) CRP Lv. 40 - Memento Mori
 - [ ] (Other Quests) We Come in Peace
 - [ ] (Sidequests) Dishonor Before Death
 - [ ] (Sidequests) Braving New Depths
@@ -40,10 +41,10 @@
 - [ ] (Class & Job Quests) GSM Lv. 35 - Mammets on Fire
 - [ ] (Class & Job Quests) ARM Lv. 35 - Pans of Steel
 - [ ] (Class & Job Quests) BSM Lv. 35 - Set Faezahr to Stun
-- [ ] (Class & Job Quests) CRP Lv. 35 - Growing Apart
-- [ ] (Crafting) CRP Lv. 35 - Wolf Earrings
-- [ ] (Crafting) CRP Lv. 35 - Apprentice's Smock
-- [ ] (Crafting) CRP Lv. 35 - Wrapped Steel Claw Hammer
+- [ ] (Crafting) LTW Lv. 35 - Wrapped Steel Awl
+- [x] (Class & Job Quests) CRP Lv. 35 - Growing Apart
+- [x] (Crafting) CRP Lv. 35 - Wolf Earrings
+- [x] (Crafting) CRP Lv. 35 - Wrapped Steel Claw Hammer
 - [x] (Leveling) BTN -> Lv. 35
 - [x] (Leveling) CUL -> Lv. 35
 - [x] (Leveling) ALC -> Lv. 35

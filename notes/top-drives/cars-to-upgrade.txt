@@ -1,22 +1,6 @@
 =-=-=-=-=
-30 Chevrolet Corvette 396 [332]
-=-=-=-=-=
-
-21 chrysler 300c
-21 chevrolet sprint turbo
-22 nissan leaf
-
-22 lancia dedra
-23 vauxhall firenza 2000 sl coupe
-23 saturn ion
-
-=-=-=-=-=
 33 Suzuki Vitara [323]
 =-=-=-=-=
-
-23 buick gl8 iii
-24 volvo 244 glt
-24 volkswagen touran
 
 24 ram promaster 1500
 24 plymouth barracuda fastback
@@ -31,7 +15,47 @@
 25 chrysler pt cruiser
 
 =-=-=-=-=
+37 Dodge Dart [323]
+=-=-=-=-=
+
+27 volvo c30 drive electric
+27 rover 623
+27 nissan skyline hardtop 2000 gt-r (c10)
+
+27 mitsubishi starion turbo
+27 mitsubishi starion gsr-iii
+27 ford svt f-150 lightning
+
+27 ford sportka
+27 ford fiesta 1.0
+27 citroen c5 airscape
+
+=-=-=-=-=
+31 Chevrolet Tru 140S [323]
+=-=-=-=-=
+
+28 holden monaro cv6 (v2)
+28 holden monaro cv6 (v2)
+28 holden monaro cv6 (v2)
+
+28 ford mondeo estate
+28 ford mondeo estate
+28 ford escort rs2000
+
+28 fiat 500
+28 fiat 500
+28 dodge journey
+
+=-=-=-=-=
 53 Lotus Elise Sport 135 [233]
+=-=-=-=-=
+
+=-=-=-=-=
+62 TVR Tuscan Convertible [332]
+=-=-=-=-=
+
+=-=-=-=-=
+62 TVR Tuscan [332]
 =-=-=-=-=
 
 =-=-=-=-=
