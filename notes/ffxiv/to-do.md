@@ -10,10 +10,10 @@
 - GSM: 38
 - LTW: 36
 - WVR: 38
-- ALC: 34
-- CUL: 34
+- ALC: 36
+- CUL: 37
 - MIN: 35
-- BTN: 34
+- BTN: 38
 - FSH: 36
 - DRG: 38
 
@@ -41,7 +41,15 @@
 - [ ] (Class & Job Quests) ARM Lv. 35 - Pans of Steel
 - [ ] (Class & Job Quests) BSM Lv. 35 - Set Faezahr to Stun
 - [ ] (Class & Job Quests) CRP Lv. 35 - Growing Apart
-- [ ] (Crafting) MIN Lv. 34 - Steel Dolabra
+- [ ] (Crafting) CRP Lv. 35 - Wolf Earrings
+- [ ] (Crafting) CRP Lv. 35 - Apprentice's Smock
+- [ ] (Crafting) CRP Lv. 35 - Wrapped Steel Claw Hammer
+- [x] (Leveling) BTN -> Lv. 35
+- [x] (Leveling) CUL -> Lv. 35
+- [x] (Leveling) ALC -> Lv. 35
+- [x] (Crafting) DRG Lv. 34 - Heavy Steel Lance
+- [x] (Crafting) BTN Lv. 34 - Plumed Steel Hatchet
+- [x] (Crafting) MIN Lv. 34 - Steel Dolabra
 - [x] (Crafting) CUL Lv. 34 - White Skillet
 - [x] (Crafting) ALC Lv. 34 - Silver Alembic
 - [x] (Crafting) LTW Lv. 34 - Steel Round Knife
