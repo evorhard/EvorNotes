@@ -5,14 +5,14 @@
 ### Ham Slamous
 
 - CRP: 38
-- BSM: 40
-- ARM: 39
-- GSM: 39
-- LTW: 36
-- WVR: 38
-- ALC: 36
+- BSM: 42
+- ARM: 40
+- GSM: 40
+- LTW: 39
+- WVR: 40
+- ALC: 37
 - CUL: 37
-- MIN: 35
+- MIN: 36
 - BTN: 38
 - FSH: 36
 - DRG: 38
@@ -26,10 +26,15 @@
 
 ## FFXIV To Do
 
+- [ ] (Class & Job Quests) MIN Lv. 40 - To Die For
+- [ ] (Class & Job Quests) WVR Lv. 40 - A Subtle Inquiry
+- [ ] (Class & Job Quests) LTW Lv. 40 - Brand Loyalty
+- [ ] (Class & Job Quests) GSM Lv. 40 - The Horns of the Green
+- [ ] (Class & Job Quests) ARM Lv. 40 - Best of Three
+- [ ] (Class & Job Quests) BSM Lv. 40 - Forging Ahead
 - [ ] (Class & Job Quests) CRP Lv. 40 - Memento Mori
 - [ ] (Other Quests) We Come in Peace
 - [ ] (Sidequests) Dishonor Before Death
-- [ ] (Sidequests) Braving New Depths
 - [ ] (Class & Job Quests) DRG Lv. 35 - Lance of Fury
 - [ ] (Class & Job Quests) FSH Lv. 35 - A Fish out of Water
 - [ ] (Class & Job Quests) BTN Lv. 35 - A Feast to Say the Least
@@ -37,14 +42,30 @@
 - [ ] (Class & Job Quests) CUL Lv. 35 - Of Cooks and Books
 - [ ] (Class & Job Quests) ALC Lv. 35 - Cease and Assist
 - [ ] (Class & Job Quests) WVR Lv. 35 - Designed by Committee
-- [ ] (Class & Job Quests) LTW Lv. 35 - Lead by Example
-- [ ] (Class & Job Quests) GSM Lv. 35 - Mammets on Fire
-- [ ] (Class & Job Quests) ARM Lv. 35 - Pans of Steel
-- [ ] (Class & Job Quests) BSM Lv. 35 - Set Faezahr to Stun
-- [ ] (Crafting) LTW Lv. 35 - Wrapped Steel Awl
+- [x] (Class & Job Quests) LTW Lv. 35 - Lead by Example
+- [x] (Class & Job Quests) GSM Lv. 35 - Mammets on Fire
+- [x] (Class & Job Quests) ARM Lv. 35 - Pans of Steel
+- [x] (Class & Job Quests) BSM Lv. 35 - Set Faezahr to Stun
+- [x] (Crafting) DRG Lv. 35 - Boarskin Crakows
+- [x] (Crafting) DRG Lv. 35 - Altered Boarskin Thighboots
+- [x] (Crafting) DRG Lv. 35 - Linen Sarouel
+- [x] (Crafting) DRG Lv. 35 - Fingerless Boarskin Gloves
+- [x] (Crafting) DRG Lv. 35 - Linen Shirt
+- [x] (Crafting) DRG Lv. 35 - Linen Turban
+- [x] (Crafting) DRG Lv. 35 - Linen Bandana
+- [x] (Crafting) BTN Lv. 35 - Wrapped Steel Scythe
+- [x] (Crafting) MIN Lv. 35 - Boarskin Choker
+- [x] (Crafting) MIN Lv. 35 - Boarskin Crakows of Gathering
+- [x] (Crafting) MIN Lv. 35 - Linen Sarouel of Gathering
+- [x] (Crafting) MIN Lv. 35 - Fingerless Boarskin Gloves of Gathering
+- [x] (Crafting) MIN Lv. 35 - Angler's Hat
+- [x] (Crafting) CUL Lv. 35 - Wrapped Steel Culinary Knife
+- [x] (Crafting) ALC Lv. 35 - Heavy Steel Mortar
+- [x] (Crafting) LTW Lv. 35 - Wrapped Steel Awl
 - [x] (Class & Job Quests) CRP Lv. 35 - Growing Apart
 - [x] (Crafting) CRP Lv. 35 - Wolf Earrings
 - [x] (Crafting) CRP Lv. 35 - Wrapped Steel Claw Hammer
+- [x] (Sidequests) Braving New Depths
 - [x] (Leveling) BTN -> Lv. 35
 - [x] (Leveling) CUL -> Lv. 35
 - [x] (Leveling) ALC -> Lv. 35

@@ -2,10 +2,6 @@
 33 Suzuki Vitara [323]
 =-=-=-=-=
 
-24 ram promaster 1500
-24 plymouth barracuda fastback
-24 nissan 280z
-
 24 citroen c5 aircross puretech 180
 24 buick encore
 25 volvo 760 2.8 v6 saloon
@@ -15,36 +11,60 @@
 25 chrysler pt cruiser
 
 =-=-=-=-=
-37 Dodge Dart [323]
+38 GMC Denali XT [323]
 =-=-=-=-=
 
-27 volvo c30 drive electric
-27 rover 623
-27 nissan skyline hardtop 2000 gt-r (c10)
+28 dodge conquest tsi
+28 dodge conquest tsi
+28 dodge challenger t/a
 
-27 mitsubishi starion turbo
-27 mitsubishi starion gsr-iii
-27 ford svt f-150 lightning
+28 dodge challenger t/a
+28 de tomaso deauville
+28 chrysler newport
 
-27 ford sportka
-27 ford fiesta 1.0
-27 citroen c5 airscape
+28 chrysler newport
+28 chrysler laser xt
+28 chrysler laser xt
 
 =-=-=-=-=
-31 Chevrolet Tru 140S [323]
+38 Pontiac Grand Am GT [323]
 =-=-=-=-=
 
-28 holden monaro cv6 (v2)
-28 holden monaro cv6 (v2)
-28 holden monaro cv6 (v2)
+29 volkswagen passat
+28 volkswagen golf gti g60
+28 volkswagen golf gti g60
 
-28 ford mondeo estate
-28 ford mondeo estate
-28 ford escort rs2000
+29 renault wind
+29 pontiac grand prix 2+2
+29 plymouth roadrunner 383
 
-28 fiat 500
-28 fiat 500
-28 dodge journey
+29 plymouth roadrunner 383
+29 plymouth roadrunner 383
+29 opel vectra gsi
+
+=-=-=-=-=
+48 Porsche Cayman [323]
+=-=-=-=-=
+
+30 lotus elite
+30 citroen grand c4 picasso bluehdi 150
+30 citroen c5 aircross
+
+30 chrysler cirrus lxi
+30 chevrolet ssr
+30 chevrolet chevelle
+
+30 chevrolet camaro z/28
+31 range rover suffix a
+31 hyundai tiburon gt v6
+
+31 honda capa 4wd
+31 chevrolet tru 140s
+31 cadillac allante
+
+=-=-=-=-=
+55 Porsche Boxster RS60 Spyder (987) [233]
+=-=-=-=-=
 
 =-=-=-=-=
 53 Lotus Elise Sport 135 [233]
