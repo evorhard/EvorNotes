@@ -9,13 +9,13 @@
 - ARM: 40
 - GSM: 40
 - LTW: 39
-- WVR: 40
-- ALC: 37
-- CUL: 37
+- WVR: 41
+- ALC: 38
+- CUL: 38
 - MIN: 36
-- BTN: 38
-- FSH: 36
-- DRG: 38
+- BTN: 40
+- FSH: 46
+- DRG: 39
 
 ### Retainers
 
@@ -26,7 +26,12 @@
 
 ## FFXIV To Do
 
+- [ ] (Class & Job Quests) DRG Lv. 40 - Unfading Skies
+- [ ] (Class & Job Quests) FSH Lv. 40 - Fishing in the Rain
+- [ ] (Class & Job Quests) BTN Lv. 40 - Crisis of Faith
 - [ ] (Class & Job Quests) MIN Lv. 40 - To Die For
+- [ ] (Class & Job Quests) CUL Lv. 40 - Diplomacy of the Skillet
+- [ ] (Class & Job Quests) ALC Lv. 40 - Might Made Right
 - [ ] (Class & Job Quests) WVR Lv. 40 - A Subtle Inquiry
 - [ ] (Class & Job Quests) LTW Lv. 40 - Brand Loyalty
 - [ ] (Class & Job Quests) GSM Lv. 40 - The Horns of the Green
@@ -35,18 +40,23 @@
 - [ ] (Class & Job Quests) CRP Lv. 40 - Memento Mori
 - [ ] (Other Quests) We Come in Peace
 - [ ] (Sidequests) Dishonor Before Death
-- [ ] (Class & Job Quests) DRG Lv. 35 - Lance of Fury
-- [ ] (Class & Job Quests) FSH Lv. 35 - A Fish out of Water
-- [ ] (Class & Job Quests) BTN Lv. 35 - A Feast to Say the Least
-- [ ] (Class & Job Quests) MIN Lv. 35 - Amethysts Are Forever
-- [ ] (Class & Job Quests) CUL Lv. 35 - Of Cooks and Books
-- [ ] (Class & Job Quests) ALC Lv. 35 - Cease and Assist
-- [ ] (Class & Job Quests) WVR Lv. 35 - Designed by Committee
+- [ ] (Crafting) CRP Lv. 37 - Mythril Ring of Crafting
+- [ ] (Crafting) CRP Lv. 37 - Vintage Coatee
+- [x] (Crafting) DRG Lv. 36 - Mythril Gorget
+- [x] (Crafting) DRG Lv. 36 - Linen Trousers
+- [x] (Class & Job Quests) CRP Lv. 36 - Mythril Wristlets of Crafting
+- [x] (Class & Job Quests) FSH Lv. 35 - A Fish out of Water
+- [x] (Class & Job Quests) BTN Lv. 35 - A Feast to Say the Least
+- [x] (Sidequests) Leves of Costa del Sol
+- [x] (Class & Job Quests) MIN Lv. 35 - Amethysts Are Forever
+- [x] (Class & Job Quests) CUL Lv. 35 - Of Cooks and Books
+- [x] (Class & Job Quests) ALC Lv. 35 - Cease and Assist
+- [x] (Class & Job Quests) WVR Lv. 35 - Designed by Committee
 - [x] (Class & Job Quests) LTW Lv. 35 - Lead by Example
 - [x] (Class & Job Quests) GSM Lv. 35 - Mammets on Fire
 - [x] (Class & Job Quests) ARM Lv. 35 - Pans of Steel
 - [x] (Class & Job Quests) BSM Lv. 35 - Set Faezahr to Stun
-- [x] (Crafting) DRG Lv. 35 - Boarskin Crakows
+- [ ] (Crafting) DRG Lv. 35 - Boarskin Crakows
 - [x] (Crafting) DRG Lv. 35 - Altered Boarskin Thighboots
 - [x] (Crafting) DRG Lv. 35 - Linen Sarouel
 - [x] (Crafting) DRG Lv. 35 - Fingerless Boarskin Gloves

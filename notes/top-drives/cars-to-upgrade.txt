@@ -14,14 +14,6 @@
 38 GMC Denali XT [323]
 =-=-=-=-=
 
-28 dodge conquest tsi
-28 dodge conquest tsi
-28 dodge challenger t/a
-
-28 dodge challenger t/a
-28 de tomaso deauville
-28 chrysler newport
-
 28 chrysler newport
 28 chrysler laser xt
 28 chrysler laser xt
@@ -29,14 +21,6 @@
 =-=-=-=-=
 38 Pontiac Grand Am GT [323]
 =-=-=-=-=
-
-29 volkswagen passat
-28 volkswagen golf gti g60
-28 volkswagen golf gti g60
-
-29 renault wind
-29 pontiac grand prix 2+2
-29 plymouth roadrunner 383
 
 29 plymouth roadrunner 383
 29 plymouth roadrunner 383
