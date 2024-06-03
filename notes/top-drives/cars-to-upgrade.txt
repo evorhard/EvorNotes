@@ -1,50 +1,22 @@
 =-=-=-=-=
-33 Suzuki Vitara [323]
-=-=-=-=-=
-
-24 citroen c5 aircross puretech 180
-24 buick encore
-25 volvo 760 2.8 v6 saloon
-
-25 volvo 760 2.8 v6 saloon
-25 citroen c4 cactus 2.0 hdi 16v
-25 chrysler pt cruiser
-
-=-=-=-=-=
-38 GMC Denali XT [323]
-=-=-=-=-=
-
-28 chrysler newport
-28 chrysler laser xt
-28 chrysler laser xt
-
-=-=-=-=-=
-38 Pontiac Grand Am GT [323]
-=-=-=-=-=
-
-29 plymouth roadrunner 383
-29 plymouth roadrunner 383
-29 opel vectra gsi
-
-=-=-=-=-=
 48 Porsche Cayman [323]
 =-=-=-=-=
-
-30 lotus elite
-30 citroen grand c4 picasso bluehdi 150
-30 citroen c5 aircross
-
-30 chrysler cirrus lxi
-30 chevrolet ssr
-30 chevrolet chevelle
-
-30 chevrolet camaro z/28
-31 range rover suffix a
-31 hyundai tiburon gt v6
 
 31 honda capa 4wd
 31 chevrolet tru 140s
 31 cadillac allante
+
+=-=-=-=-=
+33 Opel Manta 400 [323]
+=-=-=-=-=
+
+29 lincoln mark vii lsc se
+29 hyundai i10 1.0 t-gdi n line
+29 ford fiesta 1.0
+
+29 ford fiesta 1.0
+29 ford fiesta 1.0
+29 ford escort rs1600
 
 =-=-=-=-=
 55 Porsche Boxster RS60 Spyder (987) [233]

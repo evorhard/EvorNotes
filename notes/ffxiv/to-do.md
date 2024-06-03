@@ -7,12 +7,12 @@
 - CRP: 38
 - BSM: 42
 - ARM: 40
-- GSM: 40
+- GSM: 41
 - LTW: 39
 - WVR: 41
 - ALC: 38
 - CUL: 38
-- MIN: 36
+- MIN: 37
 - BTN: 40
 - FSH: 46
 - DRG: 39
@@ -40,8 +40,11 @@
 - [ ] (Class & Job Quests) CRP Lv. 40 - Memento Mori
 - [ ] (Other Quests) We Come in Peace
 - [ ] (Sidequests) Dishonor Before Death
-- [ ] (Crafting) CRP Lv. 37 - Mythril Ring of Crafting
-- [ ] (Crafting) CRP Lv. 37 - Vintage Coatee
+- [ ] (Crafting) MIN Lv. 37 - Boarskin Wristbands of Gathering
+- [ ] (Crafting) MIN Lv. 37 - Mythril Earrings
+- [x] (Crafting) WVR Lv. 37 - Mythril Needle
+- [x] (Crafting) CRP Lv. 37 - Mythril Ring of Crafting
+- [x] (Crafting) CRP Lv. 37 - Vintage Coatee
 - [x] (Crafting) DRG Lv. 36 - Mythril Gorget
 - [x] (Crafting) DRG Lv. 36 - Linen Trousers
 - [x] (Class & Job Quests) CRP Lv. 36 - Mythril Wristlets of Crafting
@@ -56,7 +59,7 @@
 - [x] (Class & Job Quests) GSM Lv. 35 - Mammets on Fire
 - [x] (Class & Job Quests) ARM Lv. 35 - Pans of Steel
 - [x] (Class & Job Quests) BSM Lv. 35 - Set Faezahr to Stun
-- [ ] (Crafting) DRG Lv. 35 - Boarskin Crakows
+- [x] (Crafting) DRG Lv. 35 - Boarskin Crakows
 - [x] (Crafting) DRG Lv. 35 - Altered Boarskin Thighboots
 - [x] (Crafting) DRG Lv. 35 - Linen Sarouel
 - [x] (Crafting) DRG Lv. 35 - Fingerless Boarskin Gloves
