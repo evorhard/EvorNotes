@@ -1,38 +1,78 @@
 =-=-=-=-=
-35 Ford Focus 1.0 MHEV [323]
-=-=-=-=-=
-
-21 nissan pixo
-21 nissan cedric (y30)
-21 nissan cedric (y30)
-
-=-=-=-=-=
-39 Hyundai Pony Concept [323]
-=-=-=-=-=
-
-22 buick riviera t-type
-23 tvr 280i
-23 oldsmobile starfire coupe
-
-=-=-=-=-=
 42 Honda S2000 [323]
 =-=-=-=-=
-
-31 buick roadmaster wagon
-32 volkswagen jetta
-32 vauxhall chevette hsr
-
-32 renault espace
-32 nissan datsun bluebird 1300ss rally car (410)
-32 audi a1 30 tfsi (gb)
-
-32 audi a1 30 tfsi (gb)
-32 audi a1 30 tfsi (gb)
-32 ac frua convertible
 
 33 skoda sunroq
 33 mercury marauder s-55
 33 mazda koeru
+
+=-=-=-=-=
+49 Hyundai i30 N Project C [323]
+=-=-=-=-=
+
+34 suzuki swift
+34 mitsubishi hsr-vi
+34 mercedes-benz a 200
+
+34 mercedes-benz 280 ge
+34 lamborghini islero
+34 chrysler pacifica plug-in hybrid
+
+=-=-=-=-=
+48 Holden HSV GTS (V2) [323]
+=-=-=-=-=
+
+35 lincoln navigator
+35 dodge stealth
+35 alfa romeo vola
+
+36 skoda octavia estate 2.0 tdi
+36 nissan 300zx (z32)
+36 mitsubishi endeavor ralliart
+
+36 mitsubishi colt galant gto mr
+36 mazda mx-30 r-ev
+36 mazda miata m speedster
+
+=-=-=-=-=
+37 Hyundai Genesis Coupe 2.0T [323]
+=-=-=-=-=
+
+22 ford fiesta xr2i
+22 chrysler 300h
+22 chevrolet lumina
+
+=-=-=-=-=
+29 Chrysler Conquest TSi [323]
+=-=-=-=-=
+
+13 peugeot 204 coupe
+13 fiat panda
+13 citroen xsara picasso
+
+14 volvo 264 gl
+14 tvr grantura
+14 renault 14
+
+14 renault 12
+14 jaguar ss 100
+15 volkswagen golf
+
+=-=-=-=-=
+29 Citroen Xsara 1.8i 16V [323]
+=-=-=-=-=
+
+17 nissan pulsar
+17 morgan plus 4 super sports
+17 ford mustang ii
+
+17 chrysler imperial
+18 plymouth reliant
+18 peugeot ion
+
+18 opel gt
+18 ford streetka
+18 fiat cinquecento sporting
 
 =-=-=-=-=
 55 Porsche Boxster RS60 Spyder (987) [233]

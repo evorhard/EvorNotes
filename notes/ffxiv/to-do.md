@@ -6,13 +6,13 @@
 
 - CRP: 39
 - BSM: 42
-- ARM: 40
-- GSM: 41
-- LTW: 40
-- WVR: 41
-- ALC: 38
-- CUL: 38
-- MIN: 37
+- ARM: 41
+- GSM: 42
+- LTW: 41
+- WVR: 42
+- ALC: 40
+- CUL: 40
+- MIN: 41
 - BTN: 40
 - FSH: 46
 - DRG: 39
@@ -40,15 +40,26 @@
 - [ ] (Class & Job Quests) CRP Lv. 40 - Memento Mori
 - [ ] (Other Quests) We Come in Peace
 - [ ] (Sidequests) Dishonor Before Death
-- [ ] (Crafting) DRG Lv. 37 - Mythril Ring
-- [ ] (Crafting) DRG Lv. 37 - Boarskin Wristbands
-- [ ] (Crafting) DRG Lv. 37 - Boarskin Subligar
-- [ ] (Crafting) DRG Lv. 37 - Steel Mitt Gauntlets
-- [ ] (Crafting) DRG Lv. 37 - Boarskin Harness
-- [ ] (Crafting) DRG Lv. 37 - Steel Barbut
-- [ ] (Crafting) DRG Lv. 37 - Boarskin Pot Helm
-- [ ] (Crafting) DRG Lv. 37 - Altered Boarskin Pot Helm
-- [ ] (Crafting) DRG Lv. 37 - Yarzonshell Harpoon
+- [x] (Crafting) CRP Lv. 38 - Linen Gaiters
+- [x] (Crafting) CRP Lv. 38 - Linen Bottoms
+- [x] (Crafting) CRP Lv. 38 - Linen Shortgloves
+- [x] (Crafting) CRP Lv. 38 - Linen Coatee of Crafting
+- [x] (Crafting) CRP Lv. 38 - Linen Wedge Cap of Crafting
+- [x] (Leveling) MIN -> Lv. 39
+- [x] (Leveling) MIN -> Lv. 38
+- [x] (Leveling) CUL -> Lv. 39
+- [x] (Leveling) ALC -> Lv. 39
+- [x] (Hunting Log) Order of the Twin Adder - Rank 1
+- [x] (Crafting) DRG Lv. 37 - Steel-plated Caligae
+- [x] (Crafting) DRG Lv. 37 - Mythril Ring
+- [x] (Crafting) DRG Lv. 37 - Boarskin Wristbands
+- [x] (Crafting) DRG Lv. 37 - Boarskin Subligar
+- [x] (Crafting) DRG Lv. 37 - Steel Mitt Gauntlets
+- [x] (Crafting) DRG Lv. 37 - Boarskin Harness
+- [x] (Crafting) DRG Lv. 37 - Steel Barbut
+- [x] (Crafting) DRG Lv. 37 - Boarskin Pot Helm
+- [x] (Crafting) DRG Lv. 37 - Altered Boarskin Pot Helm
+- [x] (Crafting) DRG Lv. 37 - Yarzonshell Harpoon
 - [x] (Crafting) FSH Lv. 37 - Horn Fishing Rod
 - [x] (Crafting) MIN Lv. 37 - Boarskin Wristbands of Gathering
 - [x] (Crafting) MIN Lv. 37 - Mythril Earrings
