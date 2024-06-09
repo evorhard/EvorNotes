@@ -5,11 +5,11 @@
 ### Ham Slamous
 
 - CRP: 39
-- BSM: 42
-- ARM: 41
-- GSM: 42
+- BSM: 43
+- ARM: 43
+- GSM: 44
 - LTW: 41
-- WVR: 42
+- WVR: 44
 - ALC: 40
 - CUL: 40
 - MIN: 41
@@ -40,6 +40,25 @@
 - [ ] (Class & Job Quests) CRP Lv. 40 - Memento Mori
 - [ ] (Other Quests) We Come in Peace
 - [ ] (Sidequests) Dishonor Before Death
+- [x] (Crafting) DRG Lv. 38 - Heliodor Bracelet
+- [x] (Crafting) DRG Lv. 38 - Garnet Bracelet
+- [x] (Crafting) DRG Lv. 38 - Heliodor Choker
+- [x] (Crafting) DRG Lv. 38 - Garnet Choker
+- [x] (Crafting) DRG Lv. 38 - Horn Scale Greaves
+- [x] (Crafting) DRG Lv. 38 - Boarskin Breeches
+- [x] (Crafting) DRG Lv. 38 - Horn Scale Fingers
+- [x] (Crafting) DRG Lv. 38 - Horn Scale Mail
+- [x] (Crafting) DRG Lv. 38 - Vintage Celata
+- [x] (Crafting) DRG Lv. 38 - Mythril Elmo
+- [x] (Crafting) DRG Lv. 38 - Altered Mythril Elmo
+- [x] (Crafting) MIN Lv. 38 - Vintage Doublet Vest
+- [x] (Crafting) MIN Lv. 38 - Linen Coatee of Gathering
+- [x] (Crafting) MIN Lv. 38 - Linen Wedge Cap of Gathering
+- [x] (Crafting) MIN Lv. 38 - Plumed Mythril Pickaxe
+- [x] (Crafting) LTW Lv. 38 - Mythril Head Knife
+- [x] (Crafting) GSM Lv. 38 - Mythril Ornamental Hammer
+- [x] (Crafting) ARM Lv. 38 - Steel Raising Hammer
+- [x] (Crafting) BSM Lv. 38 - Wrapped Crowsbeak Hammer
 - [x] (Crafting) CRP Lv. 38 - Linen Gaiters
 - [x] (Crafting) CRP Lv. 38 - Linen Bottoms
 - [x] (Crafting) CRP Lv. 38 - Linen Shortgloves
