@@ -4,18 +4,18 @@
 
 ### Ham Slamous
 
-- CRP: 39
-- BSM: 43
-- ARM: 43
-- GSM: 44
-- LTW: 41
+- CRP: 41
+- BSM: 45
+- ARM: 45
+- GSM: 45
+- LTW: 42
 - WVR: 44
 - ALC: 40
 - CUL: 40
 - MIN: 41
 - BTN: 40
 - FSH: 46
-- DRG: 39
+- DRG: 40
 
 ### Retainers
 
@@ -26,6 +26,12 @@
 
 ## FFXIV To Do
 
+- [ ] (Class & Job Quests) BSM Lv. 45 - Beauty and the Bardiche
+- [ ] (Class & Job Quests) CRP Lv. 45 - Gone till the Sixth Astral Moon
+- [ ] (Other Quests) Shadows Uncast (Twin Adder)
+- [ ] (Sidequests) Adventurer for Hire
+- [ ] (Other Quests) We Come in Peace
+- [ ] (Crafting) CRP Lv. 40 - Vintage Chef's Apron
 - [ ] (Class & Job Quests) DRG Lv. 40 - Unfading Skies
 - [ ] (Class & Job Quests) FSH Lv. 40 - Fishing in the Rain
 - [ ] (Class & Job Quests) BTN Lv. 40 - Crisis of Faith
@@ -36,10 +42,21 @@
 - [ ] (Class & Job Quests) LTW Lv. 40 - Brand Loyalty
 - [ ] (Class & Job Quests) GSM Lv. 40 - The Horns of the Green
 - [ ] (Class & Job Quests) ARM Lv. 40 - Best of Three
-- [ ] (Class & Job Quests) BSM Lv. 40 - Forging Ahead
-- [ ] (Class & Job Quests) CRP Lv. 40 - Memento Mori
-- [ ] (Other Quests) We Come in Peace
-- [ ] (Sidequests) Dishonor Before Death
+- [x] (Class & Job Quests) BSM Lv. 40 - Forging Ahead
+- [x] (Class & Job Quests) CRP Lv. 40 - Memento Mori
+- [x] (Sidequests) Dishonor Before Death
+- [x] (Crafting) DRG Lv. 39 - Heliodor Ring
+- [x] (Crafting) DRG Lv. 39 - Garnet Ring
+- [x] (Crafting) DRG Lv. 39 - Red Coral Armillae
+- [x] (Crafting) DRG Lv. 39 - Heliodor Earrings
+- [x] (Crafting) DRG Lv. 39 - Garnet Earrings
+- [x] (Crafting) DRG Lv. 39 - Mythril Vambraces
+- [x] (Crafting) BTN Lv. 39 - Mythril Hatchet
+- [x] (Crafting) CUL Lv. 39 - Steel Frypan
+- [x] (Crafting) ALC Lv. 39 - Mythril Alembic
+- [x] (Crafting) CRP Lv. 39 - Mythril Choker
+- [x] (Crafting) CRP Lv. 39 - Vintage Smithy's Gloves
+- [x] (Crafting) CRP Lv. 39 - Mythril Saw
 - [x] (Crafting) DRG Lv. 38 - Heliodor Bracelet
 - [x] (Crafting) DRG Lv. 38 - Garnet Bracelet
 - [x] (Crafting) DRG Lv. 38 - Heliodor Choker
