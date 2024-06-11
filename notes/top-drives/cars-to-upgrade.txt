@@ -1,18 +1,6 @@
 =-=-=-=-=
-48 Holden HSV GTS (V2) [323]
-=-=-=-=-=
-
-36 mitsubishi colt galant gto mr
-36 mazda mx-30 r-ev
-36 mazda miata m speedster
-
-=-=-=-=-=
 49 Vauxhall VX220 [323]
 =-=-=-=-=
-
-36 fiat panda 100hp
-36 benley azure
-37 suzuki jimny sierra
 
 37 skoda fabia vrs hatchback
 37 nissan premera egt
@@ -26,14 +14,6 @@
 30 Mazda Eunos Roadster RS-Limited [323]
 =-=-=-=-=
 
-22 honda civic 1500
-22 fiat tipo 2.0 sedicivalvole
-22 citroen c1 vti 68
-
-22 audi cabriolet 2.3
-23 skoda fabia vrs
-23 saturn ion
-
 23 mazda demio sport
 24 suzuki swift gti (sf)
 24 ram promaster 1500
@@ -41,10 +21,6 @@
 =-=-=-=-=
 55 Porsche Boxster RS60 Spyder (987) [233]
 =-=-=-=-=
-
-43 infiniti g37
-45 subaru forester (sj)
-45 mazda rx-8 pz
 
 45 mazda mx-5 speedster evolution
 45 lincoln zephyr reflection
@@ -59,12 +35,8 @@
 49 mazda 323 gt-r
 
 =-=-=-=-=
-44 BMW Z4 sDrive 28i [323]
+48 Ginetta G40R [323]
 =-=-=-=-=
-
-37 buick lesabre
-37 bmw 330d
-37 bmw 320si
 
 37 acura slx
 38 volkswagen scirocco
@@ -83,32 +55,8 @@
 38 mitsubishi lancer rallliart wagon
 
 =-=-=-=-=
-29 Peugeot 106 Rallye (S2) [323]
-=-=-=-=-=
-
-12 citroen citela
-13 cadillac coupe deville
-13 ac aceca-bristol
-
-14 subaru rex
-14 oldsmobile toronado xsc
-14 mazda secret hideout
-
-14 hyundai i800 2.5 crdi
-16 vauxhall cavalier 1.6
-16 renault 17 gordini
-
-16 lotus mk1 cortina
-16 chevrolet monte carlo
-16 buick lucerne concept
-
-=-=-=-=-=
 38 Ford Mondeo Estate [323]
 =-=-=-=-=
-
-24 nissan 280z
-25 skoda fabia hatchback 2.0
-25 skoda fabia hatchback 1.0 tsi
 
 25 renault koleos
 25 mitsubishi mirage kammtop

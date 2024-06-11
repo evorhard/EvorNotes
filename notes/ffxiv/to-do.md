@@ -6,9 +6,9 @@
 
 - CRP: 41
 - BSM: 45
-- ARM: 45
-- GSM: 45
-- LTW: 42
+- ARM: 46
+- GSM: 46
+- LTW: 43
 - WVR: 44
 - ALC: 40
 - CUL: 40
@@ -26,6 +26,10 @@
 
 ## FFXIV To Do
 
+- [ ] (Class & Job Quests) WVR Lv. 45 - The Invervention
+- [ ] (Class & Job Quests) LTW Lv. 45 - Dissension in the Ranks
+- [ ] (Class & Job Quests) GSM Lv. 45 - The Fox in the Hen House
+- [ ] (Class & Job Quests) ARM Lv. 45 - For the Good of the Guild
 - [ ] (Class & Job Quests) BSM Lv. 45 - Beauty and the Bardiche
 - [ ] (Class & Job Quests) CRP Lv. 45 - Gone till the Sixth Astral Moon
 - [ ] (Other Quests) Shadows Uncast (Twin Adder)
@@ -39,9 +43,9 @@
 - [ ] (Class & Job Quests) CUL Lv. 40 - Diplomacy of the Skillet
 - [ ] (Class & Job Quests) ALC Lv. 40 - Might Made Right
 - [ ] (Class & Job Quests) WVR Lv. 40 - A Subtle Inquiry
-- [ ] (Class & Job Quests) LTW Lv. 40 - Brand Loyalty
-- [ ] (Class & Job Quests) GSM Lv. 40 - The Horns of the Green
-- [ ] (Class & Job Quests) ARM Lv. 40 - Best of Three
+- [x] (Class & Job Quests) LTW Lv. 40 - Brand Loyalty
+- [x] (Class & Job Quests) GSM Lv. 40 - The Horns of the Green
+- [x] (Class & Job Quests) ARM Lv. 40 - Best of Three
 - [x] (Class & Job Quests) BSM Lv. 40 - Forging Ahead
 - [x] (Class & Job Quests) CRP Lv. 40 - Memento Mori
 - [x] (Sidequests) Dishonor Before Death
