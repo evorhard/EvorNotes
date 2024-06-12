@@ -2,29 +2,13 @@
 49 Vauxhall VX220 [323]
 =-=-=-=-=
 
-37 skoda fabia vrs hatchback
-37 nissan premera egt
-37 lotus elan
-
 37 holden cruze sri-v
 37 dodge dart
 37 cadillac sedan de ville
 
 =-=-=-=-=
-30 Mazda Eunos Roadster RS-Limited [323]
-=-=-=-=-=
-
-23 mazda demio sport
-24 suzuki swift gti (sf)
-24 ram promaster 1500
-
-=-=-=-=-=
 55 Porsche Boxster RS60 Spyder (987) [233]
 =-=-=-=-=
-
-45 mazda mx-5 speedster evolution
-45 lincoln zephyr reflection
-46 skoda mountiaq
 
 47 volvo s60 t5
 47 volvo s60 t5
@@ -37,10 +21,6 @@
 =-=-=-=-=
 48 Ginetta G40R [323]
 =-=-=-=-=
-
-37 acura slx
-38 volkswagen scirocco
-38 volkswagen golf g60 rallye
 
 38 skoda octavia hatchback 2.0 tdi
 38 skoda octavia hatchback 2.0 tdi
@@ -58,14 +38,6 @@
 38 Ford Mondeo Estate [323]
 =-=-=-=-=
 
-25 renault koleos
-25 mitsubishi mirage kammtop
-25 geo tracker 4-door
-
-25 ford falcon 'bathurst' cobra
-25 fiat panda
-25 citroen c-quatre vts
-
 25 citroen c-elysee
 25 buick reatta
 25 buick gs 400
@@ -73,6 +45,70 @@
 25 audi cabriolet 2.8
 26 volvo 240 glt
 26 vauxhall senator
+
+=-=-=-=-=
+23 Dodge Colt Vista AWD [323]
+=-=-=-=-=
+
+13 chrysler town and country
+14 chevrolet corvettte corvair
+15 holden monaro ls (hj)
+
+15 alfa romeo 2000 gtv
+17 skoda felicia estate glxi 1.6
+17 plymouth barracuda formula s
+
+17 morgan plus 4
+17 jaguar mark 1
+17 honda odyssey 2.3
+
+17 ford country squire
+17 citroen zx volcane td
+17 chevrolet impala
+
+=-=-=-=-=
+24 Subary Legacy [323]
+=-=-=-=-=
+
+19 volvo 360 glt
+19 saturn relay
+19 nissan micra
+
+19 mazda demio mazdaspeed
+19 honda jazz hybrid
+19 ford ka
+
+19 ford fiesta
+19 fiat punto cabrio
+19 chrysler town and country
+
+19 chevrolet spark
+19 buick skylark
+19 audi coupe gt 5s (b2)
+
+=-=-=-=-=
+30 Citroen SpaceTourer Hyphen [323]
+=-=-=-=-=
+
+26 subaru leone
+26 peugeot 205 gti 1.6
+26 mazda rx-7
+
+26 mazda hr-x2
+26 mazda 2
+26 lotus elan+2
+
+26 ford mustang mach 1
+26 fiat stilo 2.4 20v schumacher gp
+27 volvo c30 drive electric
+
+27 skoda octavia hatchback 1.9 tdi pd
+27 rover 623
+27 porsche 911
+
+27 pontiac fiero
+27 oldsmobile alero gl
+27 nissan cube
 
 =-=-=-=-=
 53 Lotus Elise Sport 135 [233]

@@ -9,11 +9,11 @@
 - ARM: 46
 - GSM: 46
 - LTW: 43
-- WVR: 44
-- ALC: 40
-- CUL: 40
-- MIN: 41
-- BTN: 40
+- WVR: 45
+- ALC: 41
+- CUL: 41
+- MIN: 43
+- BTN: 42
 - FSH: 46
 - DRG: 40
 
@@ -26,6 +26,11 @@
 
 ## FFXIV To Do
 
+- [ ] (Class & Job Quests) FSH Lv. 45 - I Believe Fish Can Fly
+- [ ] (Class & Job Quests) BTN Lv. 45 - Botanist in a Bind
+- [ ] (Class & Job Quests) MIN Lv. 45 - Gulley of Woes
+- [ ] (Class & Job Quests) CUL Lv. 45 - A Taste of Home
+- [ ] (Class & Job Quests) ALC Lv. 45 - Ultimate Alchemy
 - [ ] (Class & Job Quests) WVR Lv. 45 - The Invervention
 - [ ] (Class & Job Quests) LTW Lv. 45 - Dissension in the Ranks
 - [ ] (Class & Job Quests) GSM Lv. 45 - The Fox in the Hen House
@@ -39,10 +44,10 @@
 - [ ] (Class & Job Quests) DRG Lv. 40 - Unfading Skies
 - [ ] (Class & Job Quests) FSH Lv. 40 - Fishing in the Rain
 - [ ] (Class & Job Quests) BTN Lv. 40 - Crisis of Faith
-- [ ] (Class & Job Quests) MIN Lv. 40 - To Die For
-- [ ] (Class & Job Quests) CUL Lv. 40 - Diplomacy of the Skillet
-- [ ] (Class & Job Quests) ALC Lv. 40 - Might Made Right
-- [ ] (Class & Job Quests) WVR Lv. 40 - A Subtle Inquiry
+- [x] (Class & Job Quests) MIN Lv. 40 - To Die For
+- [x] (Class & Job Quests) CUL Lv. 40 - Diplomacy of the Skillet
+- [x] (Class & Job Quests) ALC Lv. 40 - Might Made Right
+- [x] (Class & Job Quests) WVR Lv. 40 - A Subtle Inquiry
 - [x] (Class & Job Quests) LTW Lv. 40 - Brand Loyalty
 - [x] (Class & Job Quests) GSM Lv. 40 - The Horns of the Green
 - [x] (Class & Job Quests) ARM Lv. 40 - Best of Three
