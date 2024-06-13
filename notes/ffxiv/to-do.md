@@ -4,17 +4,17 @@
 
 ### Ham Slamous
 
-- CRP: 41
+- CRP: 42
 - BSM: 45
 - ARM: 46
-- GSM: 46
-- LTW: 43
-- WVR: 45
+- GSM: 47
+- LTW: 44
+- WVR: 46
 - ALC: 41
 - CUL: 41
 - MIN: 43
 - BTN: 42
-- FSH: 46
+- FSH: 47
 - DRG: 40
 
 ### Retainers
@@ -26,6 +26,7 @@
 
 ## FFXIV To Do
 
+- [ ] (Class & Job Quests) DRG Lv. 45 - Double Dragoon
 - [ ] (Class & Job Quests) FSH Lv. 45 - I Believe Fish Can Fly
 - [ ] (Class & Job Quests) BTN Lv. 45 - Botanist in a Bind
 - [ ] (Class & Job Quests) MIN Lv. 45 - Gulley of Woes
@@ -40,10 +41,26 @@
 - [ ] (Other Quests) Shadows Uncast (Twin Adder)
 - [ ] (Sidequests) Adventurer for Hire
 - [ ] (Other Quests) We Come in Peace
-- [ ] (Crafting) CRP Lv. 40 - Vintage Chef's Apron
-- [ ] (Class & Job Quests) DRG Lv. 40 - Unfading Skies
-- [ ] (Class & Job Quests) FSH Lv. 40 - Fishing in the Rain
-- [ ] (Class & Job Quests) BTN Lv. 40 - Crisis of Faith
+- [ ] (Crafting) DRG Lv. 40 - Mythril Ear Cuffs
+- [ ] (Crafting) DRG Lv. 40 - Peisteskin Crakows
+- [ ] (Crafting) DRG Lv. 40 - Woolen Sarouel
+- [ ] (Crafting) DRG Lv. 40 - Fingerless Peisteskin Gloves
+- [ ] (Crafting) DRG Lv. 40 - Woolen Shirt
+- [ ] (Crafting) DRG Lv. 40 - Altered Woolen Shirt
+- [ ] (Crafting) DRG Lv. 40 - Woolen Turban
+- [ ] (Crafting) DRG Lv. 40 - Mythril Lance
+- [x] (Crafting) FSH Lv. 40 - Mahogany Fishing Rod
+- [x] (Crafting) MIN Lv. 40 - Boarskin Ring
+- [x] (Crafting) MIN Lv. 40 - Peisteskin Crakows of Gathering
+- [x] (Crafting) MIN Lv. 40 - Woolen Sarouel of Gathering
+- [x] (Crafting) MIN Lv. 40 - Fingerless Peisteskin Gloves of Gathering
+- [x] (Crafting) MIN Lv. 40 - Woolen Coif of Gathering
+- [x] (Crafting) WVR Lv. 40 - Mahogany Spinning Wheel
+- [x] (Crafting) WVR Lv. 40 - Wolf Fang Needle
+- [x] (Crafting) CRP Lv. 40 - Vintage Chef's Apron
+- [x] (Class & Job Quests) DRG Lv. 40 - Unfading Skies
+- [x] (Class & Job Quests) FSH Lv. 40 - Fishing in the Rain
+- [x] (Class & Job Quests) BTN Lv. 40 - Crisis of Faith
 - [x] (Class & Job Quests) MIN Lv. 40 - To Die For
 - [x] (Class & Job Quests) CUL Lv. 40 - Diplomacy of the Skillet
 - [x] (Class & Job Quests) ALC Lv. 40 - Might Made Right
