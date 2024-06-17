@@ -8,14 +8,14 @@
 - BSM: 45
 - ARM: 46
 - GSM: 47
-- LTW: 44
-- WVR: 46
+- LTW: 45
+- WVR: 48
 - ALC: 41
 - CUL: 41
 - MIN: 43
 - BTN: 42
 - FSH: 47
-- DRG: 40
+- DRG: 41
 
 ### Retainers
 
@@ -39,16 +39,56 @@
 - [ ] (Class & Job Quests) BSM Lv. 45 - Beauty and the Bardiche
 - [ ] (Class & Job Quests) CRP Lv. 45 - Gone till the Sixth Astral Moon
 - [ ] (Other Quests) Shadows Uncast (Twin Adder)
-- [ ] (Sidequests) Adventurer for Hire
-- [ ] (Other Quests) We Come in Peace
-- [ ] (Crafting) DRG Lv. 40 - Mythril Ear Cuffs
-- [ ] (Crafting) DRG Lv. 40 - Peisteskin Crakows
-- [ ] (Crafting) DRG Lv. 40 - Woolen Sarouel
-- [ ] (Crafting) DRG Lv. 40 - Fingerless Peisteskin Gloves
-- [ ] (Crafting) DRG Lv. 40 - Woolen Shirt
-- [ ] (Crafting) DRG Lv. 40 - Altered Woolen Shirt
-- [ ] (Crafting) DRG Lv. 40 - Woolen Turban
-- [ ] (Crafting) DRG Lv. 40 - Mythril Lance
+- [ ] (Sidequests) Serveth Thy Master [DRG 46]
+- [ ] (Sidequests) Slim Pickings [DRG 46]
+- [ ] (Sidequests) Windy Wedding [DRG 43]
+- [ ] (Sidequests) Adventurer for Hire [DRG 43]
+- [ ] (Sidequests) Grave Happenings [DRG 42]
+- [ ] (Sidequests) Too Many Cooks [DRG 42]
+- [ ] (Sidequests) Pickled and Brined [DRG 42]
+- [ ] (Main Scenario) Into the Beast's Maw
+- [x] (Main Scenario) Noveau Riche
+- [x] (Sidequests) Enemy Mine
+- [x] (Main Scenario) Sylphish Concerns
+- [x] (Main Scenario) Like Fine Wine
+- [x] (Crafting) DRG Lv. 41 - Mythril-plated Jackboots
+- [x] (Crafting) DRG Lv. 41 - Vintage Scale Mail
+- [x] (Crafting) MIN Lv. 41 - Linen Doublet
+- [x] (Crafting) CRP Lv. 41 - Vintage Thighboots
+- [x] (Crafting) CRP Lv. 41 - Boarskin Thighboots
+- [x] (Crafting) CRP Lv. 41 - Linen Slops
+- [x] (Crafting) CRP Lv. 41 - Boarskin Smithy's Gloves
+- [x] (Crafting) CRP Lv. 41 - Linen Smock
+- [x] (Crafting) CRP Lv. 41 - Vintage Chef's Hat
+- [x] (Crafting) CRP Lv. 41 - Linen Deerstalker
+- [x] (Main Scenario) Microbrewing
+- [x] (Main Scenario) Never Forget
+- [x] (Sidequests) Buried Truth
+- [x] (Sidequests) The Hottest of Box Lunches
+- [x] (Main Scenario) Druthers House Rules
+- [x] (Main Scenario) Spirited Away
+- [x] (Main Scenario) Brotherly Love
+- [x] (Main Scenario) Presence of the Enemy
+- [x] (Main Scenario) Forest Friend
+- [x] (Sidequests) Threads Unraveled
+- [x] (Sidequests) Buzz Kill
+- [x] (Sidequests) A Procine Plight
+- [x] (Sidequests) Sylph Says
+- [x] (Main Scenario) Dance Dance Diplomacy
+- [x] (Main Scenario) First Contact
+- [x] (Sidequests) Roof Riders
+- [x] (Main Scenario) First Impressions
+- [x] (Sidequests) Meat of the Matter
+- [x] (Main Scenario) Sylphic Studies
+- [x] (Other Quests) We Come in Peace
+- [x] (Crafting) DRG Lv. 40 - Mythril Ear Cuffs
+- [x] (Crafting) DRG Lv. 40 - Peisteskin Crakows
+- [x] (Crafting) DRG Lv. 40 - Woolen Sarouel
+- [x] (Crafting) DRG Lv. 40 - Fingerless Peisteskin Gloves
+- [x] (Crafting) DRG Lv. 40 - Woolen Shirt
+- [x] (Crafting) DRG Lv. 40 - Altered Woolen Shirt
+- [x] (Crafting) DRG Lv. 40 - Woolen Turban
+- [x] (Crafting) DRG Lv. 40 - Mythril Lance
 - [x] (Crafting) FSH Lv. 40 - Mahogany Fishing Rod
 - [x] (Crafting) MIN Lv. 40 - Boarskin Ring
 - [x] (Crafting) MIN Lv. 40 - Peisteskin Crakows of Gathering

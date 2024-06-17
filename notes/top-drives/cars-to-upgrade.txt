@@ -1,26 +1,6 @@
 =-=-=-=-=
-30 Citroen SpaceTourer Hyphen [323]
-=-=-=-=-=
-
-22 gmc sprint sp
-22 citroen ds 5
-22 chevrolet caprice
-
-22 buick xp-300
-22 buick xp-300
-22 buick xp-300
-
-=-=-=-=-=
 40 Dodge Charger R/T [332]
 =-=-=-=-=
-
-30 suzuki jimny
-30 renault twizy f1
-30 mitsubishi lancer sportback
-
-30 mitsubishi eclipse spyder gts
-30 mazda bt-50
-30 mazda 626 2.0
 
 30 mazda 626 2.0
 30 mazda 626 2.0
@@ -38,10 +18,6 @@
 39 Lotus Esprit [323]
 =-=-=-=-=
 
-23 pontiac sunbird gt
-23 peugeot 504 coupe
-23 hyundai kona 1.0 t-gdi
-
 23 ford cortina crusader
 23 ford capri 3.0
 23 fiat tipo
@@ -53,6 +29,26 @@
 24 mazda demio racing
 24 jaguar mark 2 touring car
 24 jaguar mark 2 touring car
+
+=-=-=-=-=
+32 Subaru Impreza Casa Blanca [323]
+=-=-=-=-=
+
+25 peugeot 3008
+25 maserati mexico
+25 citroen e-c4
+
+25 chevrolet bel air
+25 audi cabriolet 2.8
+26 subaru leone
+
+26 mazda rx-7
+26 mazda 2
+26 lotus elan+2
+
+26 hyundai veloster 1.6 gdi
+26 ford mustang mach 1
+26 fiat stilo 2.4 20v schumacher gp
 
 =-=-=-=-=
 53 Lotus Elise SC [233]
