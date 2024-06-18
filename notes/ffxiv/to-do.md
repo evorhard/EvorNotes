@@ -6,16 +6,16 @@
 
 - CRP: 42
 - BSM: 45
-- ARM: 46
+- ARM: 47
 - GSM: 47
-- LTW: 45
+- LTW: 46
 - WVR: 48
-- ALC: 41
-- CUL: 41
+- ALC: 43
+- CUL: 45
 - MIN: 43
 - BTN: 42
 - FSH: 47
-- DRG: 41
+- DRG: 42
 
 ### Retainers
 
@@ -46,7 +46,17 @@
 - [ ] (Sidequests) Grave Happenings [DRG 42]
 - [ ] (Sidequests) Too Many Cooks [DRG 42]
 - [ ] (Sidequests) Pickled and Brined [DRG 42]
-- [ ] (Main Scenario) Into the Beast's Maw
+- [ ] (Main Scenario) A Simple Gift
+- [x] (Sidequests) Serveth Thy Master
+- [x] (Crafting) DRG Lv. 42 - Mythril-plated Caligae
+- [x] (Crafting) DRG Lv. 42 - Peisteskin Subligar
+- [x] (Crafting) DRG Lv. 42 - Mythril Mitt Gauntlets
+- [x] (Crafting) DRG Lv. 42 - Peisteskin Harness
+- [x] (Crafting) DRG Lv. 42 - Mythril Barbut
+- [x] (Crafting) MIN Lv. 42 - Mythril Mesail
+- [x] (Leveling) CUL -> Lv. 42
+- [x] (Leveling) ALC -> Lv. 42
+- [x] (Main Scenario) Into the Beast's Maw
 - [x] (Main Scenario) Noveau Riche
 - [x] (Sidequests) Enemy Mine
 - [x] (Main Scenario) Sylphish Concerns
