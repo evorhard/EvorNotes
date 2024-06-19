@@ -2,10 +2,6 @@
 40 Dodge Charger R/T [332]
 =-=-=-=-=
 
-30 mazda 626 2.0
-30 mazda 626 2.0
-30 lamborghini urraco p300
-
 30 lamborghini silhouette
 30 lamborghini 400gt
 30 fiat panda 4x4
@@ -17,10 +13,6 @@
 =-=-=-=-=
 39 Lotus Esprit [323]
 =-=-=-=-=
-
-23 ford cortina crusader
-23 ford capri 3.0
-23 fiat tipo
 
 23 citroen visa gti
 23 bristol 603s
@@ -34,10 +26,6 @@
 32 Subaru Impreza Casa Blanca [323]
 =-=-=-=-=
 
-25 peugeot 3008
-25 maserati mexico
-25 citroen e-c4
-
 25 chevrolet bel air
 25 audi cabriolet 2.8
 26 subaru leone
@@ -49,6 +37,82 @@
 26 hyundai veloster 1.6 gdi
 26 ford mustang mach 1
 26 fiat stilo 2.4 20v schumacher gp
+
+=-=-=-=-=
+36 Eagle Summit Wagon [323]
+=-=-=-=-=
+
+26 buick century gran sport 455 stage 1
+27 volvo c30 drive electric
+27 volkswagen t-roc
+
+27 skoda octavia hatchback 1.9 tdi pd
+27 rover 623
+27 porsche 911
+
+27 pontiac fiero
+27 oldsmobile alero gl
+27 oldsmobile 442
+
+27 nissan silvia
+27 nissan cube
+27 nissan cube
+
+=-=-=-=-=
+35 Alfa Romeo 75 6V 3.0 America [323]
+=-=-=-=-=
+
+27 mercury cyclone cobra jet
+27 holden piazza turbo
+27 ford telstar tx5 turbo
+
+27 ford svt f-150 lightning
+27 ford svt f-150 lightning
+27 ford crown victoria
+
+27 eagle vision
+27 citroen c5 tourer 2.2 hdi
+27 citroen c5 airscape
+
+27 chevrolet nomad
+27 chevrolet nomad
+27 chevrolet monte carlo z34
+
+27 chevrolet monte carlo z34
+27 buick park avenue ultra
+27 buick park avenue
+
+=-=-=-=-=
+21 Hyuindai Pony Coupe [323]
+=-=-=-=-=
+
+14 chrysler valiant charger 770 (cl)
+14 buick wildcat ii
+17 subaru vivio bistro
+
+17 renault megane
+17 nissan march turbo (k10)
+17 morgan plus 4 super sports
+
+17 ford country squire
+17 alfa romeo spider veloce (s2)
+18 vauxhall corsa 1.4
+
+18 peugeot 208
+18 mg midget
+19 renault espace
+
+19 renault 8 gordini
+19 chevrolet camaro sport coupe
+19 amc spirit gt
+
+=-=-=-=-=
+23 Chevrolet El Camino [332]
+=-=-=-=-=
+
+=-=-=-=-=
+14 Buick Skyhawk Limited Station Wagon [323]
+=-=-=-=-=
 
 =-=-=-=-=
 53 Lotus Elise SC [233]

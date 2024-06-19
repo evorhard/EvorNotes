@@ -43,10 +43,13 @@
 - [ ] (Sidequests) Slim Pickings [DRG 46]
 - [ ] (Sidequests) Windy Wedding [DRG 43]
 - [ ] (Sidequests) Adventurer for Hire [DRG 43]
-- [ ] (Sidequests) Grave Happenings [DRG 42]
-- [ ] (Sidequests) Too Many Cooks [DRG 42]
-- [ ] (Sidequests) Pickled and Brined [DRG 42]
-- [ ] (Main Scenario) A Simple Gift
+- [ ] (Sidequests) Grave Happenings [The Reluctant Researcher]
+- [ ] (Sidequests) Too Many Cooks [The Reluctant Researcher]
+- [ ] (Sidequests) Pickled and Brined [The Reluctant Researcher]
+- [ ] (Main Scenario) Back from the Wood
+- [x] (Main Scenario) Believe in Your Sylph
+- [x] (Sidequests) The Blood Price
+- [x] (Main Scenario) A Simple Gift
 - [x] (Sidequests) Serveth Thy Master
 - [x] (Crafting) DRG Lv. 42 - Mythril-plated Caligae
 - [x] (Crafting) DRG Lv. 42 - Peisteskin Subligar
