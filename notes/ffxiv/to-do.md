@@ -39,6 +39,8 @@
 - [ ] (Class & Job Quests) BSM Lv. 45 - Beauty and the Bardiche
 - [ ] (Class & Job Quests) CRP Lv. 45 - Gone till the Sixth Astral Moon
 - [ ] (Other Quests) Shadows Uncast (Twin Adder)
+- [ ] (Sidequests) Trauma Queen [DRG 50]
+- [ ] (Sidequests) Going for Gold [DRG 47]
 - [ ] (Sidequests) Serveth Thy Master [DRG 46]
 - [ ] (Sidequests) Slim Pickings [DRG 46]
 - [ ] (Sidequests) Windy Wedding [DRG 43]
@@ -46,7 +48,28 @@
 - [ ] (Sidequests) Grave Happenings [The Reluctant Researcher]
 - [ ] (Sidequests) Too Many Cooks [The Reluctant Researcher]
 - [ ] (Sidequests) Pickled and Brined [The Reluctant Researcher]
-- [ ] (Main Scenario) Back from the Wood
+- [ ] (Main Scenario) Tea for Three
+- [x] (Sidequests) Prickly Patients
+- [x] (Sidequests) Bad Blood
+- [x] (Main Scenario) On to Little Ala Mhigo
+- [x] (Sidequests) The Eyes Have It
+- [x] (Sidequests) U Don't Know Me
+- [x] (Sidequests) Tools of Office
+- [x] (Sidequests) Mind Games
+- [x] (Sidequests) Death from Above
+- [x] (Sidequests) Heat of the Moment
+- [x] (Sidequests) Minority Rapport
+- [x] (Sidequests) Survey Says
+- [x] (Sidequests) Fetch the Freshman
+- [x] (Sidequests) What's Your Poison
+- [x] (Sidequests) Blast from the Past
+- [x] (Sidequests) Leves of Little Ala Mhigo
+- [x] (Main Scenario) Where There Is Smoke
+- [x] (Main Scenario) Highbridge Times
+- [x] (Main Scenario) Shadow of Darkness
+- [x] (Sidequests) Tresses in Distress
+- [x] (Sidequests) D Is for Dead
+- [x] (Main Scenario) Back from the Wood
 - [x] (Main Scenario) Believe in Your Sylph
 - [x] (Sidequests) The Blood Price
 - [x] (Main Scenario) A Simple Gift
