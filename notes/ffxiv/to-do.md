@@ -4,18 +4,18 @@
 
 ### Ham Slamous
 
-- CRP: 42
-- BSM: 45
+- CRP: 46
+- BSM: 46
 - ARM: 47
 - GSM: 47
 - LTW: 46
-- WVR: 48
+- WVR: 49
 - ALC: 43
 - CUL: 45
 - MIN: 43
-- BTN: 42
+- BTN: 44
 - FSH: 47
-- DRG: 42
+- DRG: 43
 
 ### Retainers
 
@@ -48,7 +48,19 @@
 - [ ] (Sidequests) Grave Happenings [The Reluctant Researcher]
 - [ ] (Sidequests) Too Many Cooks [The Reluctant Researcher]
 - [ ] (Sidequests) Pickled and Brined [The Reluctant Researcher]
-- [ ] (Main Scenario) Tea for Three
+- [ ] (Main Scenario) Foot in the Door
+- [ ] (Crafting) CRP Lv. 43 - Mythril File
+- [ ] (Crafting) CRP Lv. 43 - Cobalt Cross-pein Hammer
+- [x] (Crafting) CRP Lv. 43 - Oak Pattens
+- [x] (Crafting) CRP Lv. 43 - Woolen Chausses
+- [x] (Crafting) CRP Lv. 43 - Woolen Halfgloves
+- [x] (Crafting) CRP Lv. 43 - Woolen Gown
+- [x] (Crafting) CRP Lv. 43 - Woolen Beret
+- [x] (Crafting) CRP Lv. 43 - Mythril Claw Hammer
+- [x] (Crafting) CRP Lv. 43 - Mythril Chocobotail Saw
+- [x] (Leveling) BTN -> Lv. 43
+- [x] (Leveling) CRP -> Lv. 43
+- [x] (Main Scenario) Tea for Three
 - [x] (Sidequests) Prickly Patients
 - [x] (Sidequests) Bad Blood
 - [x] (Main Scenario) On to Little Ala Mhigo

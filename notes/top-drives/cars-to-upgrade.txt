@@ -19,14 +19,6 @@
 26 fiat stilo 2.4 20v schumacher gp
 
 =-=-=-=-=
-36 Eagle Summit Wagon [323]
-=-=-=-=-=
-
-27 nissan silvia
-27 nissan cube
-27 nissan cube
-
-=-=-=-=-=
 35 Alfa Romeo 75 6V 3.0 America [323]
 =-=-=-=-=
 
@@ -49,14 +41,6 @@
 27 chevrolet monte carlo z34
 27 buick park avenue ultra
 27 buick park avenue
-
-=-=-=-=-=
-21 Hyuindai Pony Coupe [323]
-=-=-=-=-=
-
-19 renault 8 gordini
-19 chevrolet camaro sport coupe
-19 amc spirit gt
 
 =-=-=-=-=
 23 Chevrolet El Camino [332]
