@@ -1,18 +1,6 @@
 =-=-=-=-=
-40 Dodge Charger R/T [332]
-=-=-=-=-=
-
-30 fiat panda 4x4
-30 fiat panda 4x4
-30 citroen saxo vts 16v
-
-=-=-=-=-=
 32 Subaru Impreza Casa Blanca [323]
 =-=-=-=-=
-
-26 mazda rx-7
-26 mazda 2
-26 lotus elan+2
 
 26 hyundai veloster 1.6 gdi
 26 ford mustang mach 1
@@ -21,14 +9,6 @@
 =-=-=-=-=
 35 Alfa Romeo 75 6V 3.0 America [323]
 =-=-=-=-=
-
-27 mercury cyclone cobra jet
-27 holden piazza turbo
-27 ford telstar tx5 turbo
-
-27 ford svt f-150 lightning
-27 ford svt f-150 lightning
-27 ford crown victoria
 
 27 eagle vision
 27 citroen c5 tourer 2.2 hdi
@@ -41,6 +21,50 @@
 27 chevrolet monte carlo z34
 27 buick park avenue ultra
 27 buick park avenue
+
+=-=-=-=-=
+47 Dodge Razor [323]
+=-=-=-=-=
+
+30 lincoln continental
+30 lamborghini urraco p250
+30 citroen saxo vts 16v
+
+31 skoda rapid spaceback 1.4 tsi
+31 skoda rapid spaceback 1.4 tsi
+31 nissan pathfinder
+
+31 mercury capri asc mclaren
+31 mercedes-benz e 320
+31 land rover defender 110
+
+31 land rover defender 110
+31 citroen activa 1
+31 buick rendezvous
+
+=-=-=-=-=
+35 Mitsubishi Lancer 200 Turbo [323]
+=-=-=-=-=
+
+28 peugeot 5008
+28 peugeot 406 coupe
+28 oldsmobile cutlass s sport coupe
+
+28 oldsmobile cutlass s sport coupe
+28 mitsubishi galant gti-16v
+28 mitsubishi galant gti-16v
+
+28 mercury marauder
+28 mazdaspeed mx-6 a spec
+28 mazda cosmo
+
+28 lancia fulvia sport 1600
+28 lancia beta coupe volumex
+28 hyundai ioniq hybrid
+
+=-=-=-=-=
+35 Alfa Romeo 75 6V 3.0 America [323]
+=-=-=-=-=
 
 =-=-=-=-=
 23 Chevrolet El Camino [332]

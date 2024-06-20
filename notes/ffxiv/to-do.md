@@ -5,7 +5,7 @@
 ### Ham Slamous
 
 - CRP: 46
-- BSM: 46
+- BSM: 48
 - ARM: 47
 - GSM: 47
 - LTW: 46
@@ -49,8 +49,12 @@
 - [ ] (Sidequests) Too Many Cooks [The Reluctant Researcher]
 - [ ] (Sidequests) Pickled and Brined [The Reluctant Researcher]
 - [ ] (Main Scenario) Foot in the Door
-- [ ] (Crafting) CRP Lv. 43 - Mythril File
-- [ ] (Crafting) CRP Lv. 43 - Cobalt Cross-pein Hammer
+- [ ] (Crafting) GSM Lv. 44 - Garnet Grinding Wheel
+- [ ] (Crafting) GSM Lv. 44 - Mythril Lapidary Hammer
+- [x] (Crafting) ARM Lv. 43 - Mythril Pliers
+- [x] (Crafting) ARM Lv. 43 - Cobalt Doming Hammer
+- [x] (Crafting) BSM Lv. 43 - Mythril File
+- [x] (Crafting) BSM Lv. 43 - Cobalt Cross-pein Hammer
 - [x] (Crafting) CRP Lv. 43 - Oak Pattens
 - [x] (Crafting) CRP Lv. 43 - Woolen Chausses
 - [x] (Crafting) CRP Lv. 43 - Woolen Halfgloves
