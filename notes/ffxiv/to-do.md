@@ -4,11 +4,11 @@
 
 ### Ham Slamous
 
-- CRP: 47
+- CRP: 48
 - BSM: 48
-- ARM: 48
+- ARM: 49
 - GSM: 48
-- LTW: 46
+- LTW: 47
 - WVR: 49
 - ALC: 43
 - CUL: 45
@@ -49,6 +49,21 @@
 - [ ] (Main Scenario) Foot in the Door
 - [ ] (Sidequests) Windy Wedding
 - [ ] (Sidequests) Adventurer for Hire
+- [x] (Crafting) DRG Lv. 43 - Mythril Sollerets
+- [x] (Crafting) DRG Lv. 43 - Boarskin Moccasins
+- [x] (Crafting) DRG Lv. 43 - Vintage Hose
+- [x] (Crafting) DRG Lv. 43 - Woolen Kecks
+- [x] (Crafting) DRG Lv. 43 - Boarskin Skirt
+- [x] (Crafting) DRG Lv. 43 - Woolen Bracers
+- [x] (Crafting) DRG Lv. 43 - Altered Woolen Bracers
+- [x] (Crafting) DRG Lv. 43 - Woolen Tunic
+- [x] (Crafting) DRG Lv. 43 - Ranger's Tunic
+- [x] (Crafting) DRG Lv. 43 - Mythril Haubergeon
+- [x] (Crafting) DRG Lv. 43 - Silver Tricorne
+- [x] (Crafting) DRG Lv. 43 - Ranger's Hat
+- [x] (Crafting) DRG Lv. 43 - Mythril Chain Coif
+- [x] (Crafting) DRG Lv. 43 - Altered Woolen Hat
+- [x] (Crafting) DRG Lv. 43 - Cobalt Halberd
 - [x] (Crafting) FSH Lv. 43 - Rosewood Fishing Rod
 - [x] (Crafting) BTN Lv. 43 - Mythril Scythe
 - [x] (Crafting) MIN Lv. 43 - Boarskin Workboots
