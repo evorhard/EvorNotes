@@ -49,7 +49,8 @@
 - [ ] (Main Scenario) Foot in the Door
 - [ ] (Sidequests) Windy Wedding
 - [ ] (Sidequests) Adventurer for Hire
-- [ ] (Crafting) BTN Lv. 43 - Mythril Scythe
+- [x] (Crafting) FSH Lv. 43 - Rosewood Fishing Rod
+- [x] (Crafting) BTN Lv. 43 - Mythril Scythe
 - [x] (Crafting) MIN Lv. 43 - Boarskin Workboots
 - [x] (Crafting) MIN Lv. 43 - Boarskin Culottes
 - [x] (Crafting) MIN Lv. 43 - Woolen Work Gloves

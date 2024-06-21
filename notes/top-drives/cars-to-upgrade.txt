@@ -83,16 +83,48 @@
 28 citroen ax sport
 
 =-=-=-=-=
-29 Volvo 940 Saloon [323]
+23 Volvo 360 GLT Saloon [323]
 =-=-=-=-=
 
-19 skoda funstar
-19 fiat punto cabrio
-19 eagle summit
+17 mercedes-benz 600
+19 chrysler town and country
+19 chrysler town and country
+
+19 buick skylark
+19 bristol arnolt-bristol
+28 chrysler newport
+
+28 chrysler laser xt
+28 chrysler laser xt
+28 chrysler 300m special edition
+
+28 chrysler 300 hurst
+28 cadillac escalade
+28 cadillac eldorodo
 
 =-=-=-=-=
 63 Lotus Elise SC [233]
 =-=-=-=-=
+
+40 mercedes-benz e220 bluetec
+40 honda hr-v 1.8 4wd
+40 cadillac devillle concours
+
+40 buick lucerne
+41 dodge avenger r/t awd
+42 acura 3.0cl
+
+43 infiniti m35
+44 chevrolet malibu
+45 volvo 850 t-5r saloon
+
+47 mercedes-benz e 500
+47 dodge razor
+48 bmw h2r
+
+48 acura rsx type s
+48 bufori v6i
+49 audi tt 225 quattro (bn)
 
 =-=-=-=-=
 62 TVR Tuscan Convertible [332]
