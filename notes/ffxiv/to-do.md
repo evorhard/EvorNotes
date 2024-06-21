@@ -7,13 +7,13 @@
 - CRP: 47
 - BSM: 48
 - ARM: 48
-- GSM: 47
+- GSM: 48
 - LTW: 46
 - WVR: 49
 - ALC: 43
 - CUL: 45
-- MIN: 43
-- BTN: 44
+- MIN: 44
+- BTN: 45
 - FSH: 47
 - DRG: 43
 
@@ -49,10 +49,14 @@
 - [ ] (Sidequests) Too Many Cooks [The Reluctant Researcher]
 - [ ] (Sidequests) Pickled and Brined [The Reluctant Researcher]
 - [ ] (Main Scenario) Foot in the Door
-- [ ] (Crafting) LTW Lv. 44 - Mythril Awl
-- [ ] (Crafting) LTW Lv. 44 - Mythril Round Knife
-- [x] (Crafting) GSM Lv. 44 - Garnet Grinding Wheel
-- [x] (Crafting) GSM Lv. 44 - Mythril Lapidary Hammer
+- [x] (Crafting) CUL Lv. 43 - Mythril Culinary Knife
+- [x] (Crafting) ALC Lv. 43 - Mythril Mortar
+- [x] (Crafting) ALC Lv. 43 - Electrum Alembic
+- [x] (Crafting) WVR Lv. 43 - Thousand Needle
+- [x] (Crafting) LTW Lv. 43 - Mythril Awl
+- [x] (Crafting) LTW Lv. 43 - Mythril Round Knife
+- [x] (Crafting) GSM Lv. 43 - Garnet Grinding Wheel
+- [x] (Crafting) GSM Lv. 43 - Mythril Lapidary Hammer
 - [x] (Crafting) ARM Lv. 43 - Mythril Pliers
 - [x] (Crafting) ARM Lv. 43 - Cobalt Doming Hammer
 - [x] (Crafting) BSM Lv. 43 - Mythril File

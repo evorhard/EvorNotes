@@ -63,35 +63,75 @@
 28 hyundai ioniq hybrid
 
 =-=-=-=-=
-14 Buick Skyhawk Limited Station Wagon [323]
-=-=-=-=-=
-
-13 peugeot 203
-15 nissan datsun sunny (b210)
-15 cadillac eldorado
-
-16 nissan patrol (4w60)
-16 chevrolet matiz
-17 smart fortwo
-
-17 renault twingo
-17 jaguar xk140
-18 nissan 260z
-
-18 mg mgb
-18 ford b-max
-18 bristol zagato 406s
-
-=-=-=-=-=
 48 Chrysler Crossfire SRT-6 Coupe [323]
 =-=-=-=-=
 
-=-=-=-=-=
-23 Chevrolet El Camino [332]
-=-=-=-=-=
+31 bufori mkii series 1
+32 renault espace
+32 renault espace
+
+32 plymouth barracuda 383
+32 fiat barchetta
+32 chevrolet chevelle malibu ss
+
+32 alfa romeo 147 q2
+33 renault koleos
+33 mitsubishi colt 1.8 gti
+
+33 mg mgb gt v8
+33 mazda koeru
+33 lancia fulvia coupe
+
+33 lancia delta
+33 lancia delta
+33 ford puma 1.0 mhev
 
 =-=-=-=-=
-53 Lotus Elise SC [233]
+37 Ford Mustang GT [323]
+=-=-=-=-=
+
+28 honda s-mx 4wd
+28 honda s-mx 4wd
+28 honda s-mx 4wd
+
+28 holden suburban
+28 holden monaro gts 350 (ht)
+28 holden monaro cv6 (v2)
+
+28 ford mondeo estate
+28 ford escort rs2000
+28 fiat 500x
+
+28 fiat 500
+28 dodge journey
+28 dodge coronet super bee
+
+28 dodge coronet super bee
+28 dodge challenger t/a
+28 citroen ax sport
+
+=-=-=-=-=
+29 Volvo 940 Saloon [323]
+=-=-=-=-=
+
+14 renault 14
+14 amc pacer
+15 lincoln mark iv
+
+15 lancia aurelia b20 gt
+16 volkswagen transporter
+16 renault espace
+
+16 oldsmobile toronado
+17 volkswagen golf
+18 ford streetka
+
+19 skoda funstar
+19 fiat punto cabrio
+19 eagle summit
+
+=-=-=-=-=
+63 Lotus Elise SC [233]
 =-=-=-=-=
 
 =-=-=-=-=
