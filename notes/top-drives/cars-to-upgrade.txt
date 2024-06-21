@@ -1,18 +1,6 @@
 =-=-=-=-=
-32 Subaru Impreza Casa Blanca [323]
-=-=-=-=-=
-
-26 hyundai veloster 1.6 gdi
-26 ford mustang mach 1
-26 fiat stilo 2.4 20v schumacher gp
-
-=-=-=-=-=
 35 Alfa Romeo 75 6V 3.0 America [323]
 =-=-=-=-=
-
-27 eagle vision
-27 citroen c5 tourer 2.2 hdi
-27 citroen c5 airscape
 
 27 chevrolet nomad
 27 chevrolet nomad
@@ -25,10 +13,6 @@
 =-=-=-=-=
 47 Dodge Razor [323]
 =-=-=-=-=
-
-30 lincoln continental
-30 lamborghini urraco p250
-30 citroen saxo vts 16v
 
 31 skoda rapid spaceback 1.4 tsi
 31 skoda rapid spaceback 1.4 tsi
@@ -46,10 +30,6 @@
 35 Mitsubishi Lancer 200 Turbo [323]
 =-=-=-=-=
 
-28 peugeot 5008
-28 peugeot 406 coupe
-28 oldsmobile cutlass s sport coupe
-
 28 oldsmobile cutlass s sport coupe
 28 mitsubishi galant gti-16v
 28 mitsubishi galant gti-16v
@@ -65,10 +45,6 @@
 =-=-=-=-=
 48 Chrysler Crossfire SRT-6 Coupe [323]
 =-=-=-=-=
-
-31 bufori mkii series 1
-32 renault espace
-32 renault espace
 
 32 plymouth barracuda 383
 32 fiat barchetta
@@ -90,10 +66,6 @@
 37 Ford Mustang GT [323]
 =-=-=-=-=
 
-28 honda s-mx 4wd
-28 honda s-mx 4wd
-28 honda s-mx 4wd
-
 28 holden suburban
 28 holden monaro gts 350 (ht)
 28 holden monaro cv6 (v2)
@@ -113,10 +85,6 @@
 =-=-=-=-=
 29 Volvo 940 Saloon [323]
 =-=-=-=-=
-
-16 oldsmobile toronado
-17 volkswagen golf
-18 ford streetka
 
 19 skoda funstar
 19 fiat punto cabrio

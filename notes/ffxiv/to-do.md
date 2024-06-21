@@ -49,12 +49,13 @@
 - [ ] (Main Scenario) Foot in the Door
 - [ ] (Sidequests) Windy Wedding
 - [ ] (Sidequests) Adventurer for Hire
-- [ ] (Crafting) MIN Lv. 43 - Boarskin Workboots
-- [ ] (Crafting) MIN Lv. 43 - Boarskin Culottes
-- [ ] (Crafting) MIN Lv. 43 - Woolen Work Gloves
-- [ ] (Crafting) MIN Lv. 43 - Boarskin Jerkin
-- [ ] (Crafting) MIN Lv. 43 - Mythril Sledgehammer
-- [ ] (Crafting) MIN Lv. 43 - Cobalt Dolabra
+- [ ] (Crafting) BTN Lv. 43 - Mythril Scythe
+- [x] (Crafting) MIN Lv. 43 - Boarskin Workboots
+- [x] (Crafting) MIN Lv. 43 - Boarskin Culottes
+- [x] (Crafting) MIN Lv. 43 - Woolen Work Gloves
+- [x] (Crafting) MIN Lv. 43 - Boarskin Jerkin
+- [x] (Crafting) MIN Lv. 43 - Mythril Sledgehammer
+- [x] (Crafting) MIN Lv. 43 - Cobalt Dolabra
 - [x] (Crafting) CUL Lv. 43 - Mythril Culinary Knife
 - [x] (Crafting) ALC Lv. 43 - Mythril Mortar
 - [x] (Crafting) ALC Lv. 43 - Electrum Alembic
