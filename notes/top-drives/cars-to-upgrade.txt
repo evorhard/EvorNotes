@@ -114,14 +114,6 @@
 29 Volvo 940 Saloon [323]
 =-=-=-=-=
 
-14 renault 14
-14 amc pacer
-15 lincoln mark iv
-
-15 lancia aurelia b20 gt
-16 volkswagen transporter
-16 renault espace
-
 16 oldsmobile toronado
 17 volkswagen golf
 18 ford streetka

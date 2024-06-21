@@ -43,12 +43,18 @@
 - [ ] (Sidequests) Going for Gold [DRG 47]
 - [ ] (Sidequests) Serveth Thy Master [DRG 46]
 - [ ] (Sidequests) Slim Pickings [DRG 46]
-- [ ] (Sidequests) Windy Wedding [DRG 43]
-- [ ] (Sidequests) Adventurer for Hire [DRG 43]
 - [ ] (Sidequests) Grave Happenings [The Reluctant Researcher]
 - [ ] (Sidequests) Too Many Cooks [The Reluctant Researcher]
 - [ ] (Sidequests) Pickled and Brined [The Reluctant Researcher]
 - [ ] (Main Scenario) Foot in the Door
+- [ ] (Sidequests) Windy Wedding
+- [ ] (Sidequests) Adventurer for Hire
+- [ ] (Crafting) MIN Lv. 43 - Boarskin Workboots
+- [ ] (Crafting) MIN Lv. 43 - Boarskin Culottes
+- [ ] (Crafting) MIN Lv. 43 - Woolen Work Gloves
+- [ ] (Crafting) MIN Lv. 43 - Boarskin Jerkin
+- [ ] (Crafting) MIN Lv. 43 - Mythril Sledgehammer
+- [ ] (Crafting) MIN Lv. 43 - Cobalt Dolabra
 - [x] (Crafting) CUL Lv. 43 - Mythril Culinary Knife
 - [x] (Crafting) ALC Lv. 43 - Mythril Mortar
 - [x] (Crafting) ALC Lv. 43 - Electrum Alembic
