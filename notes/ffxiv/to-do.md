@@ -46,8 +46,11 @@
 - [ ] (Class & Job Quests) ARM Lv. 45 - For the Good of the Guild
 - [ ] (Class & Job Quests) BSM Lv. 45 - Beauty and the Bardiche
 - [ ] (Class & Job Quests) CRP Lv. 45 - Gone till the Sixth Astral Moon
-- [ ] (Main Scenario) Meeting with the Resistance
-- [ ] (Sidequests) Shadows of the Empire
+- [ ] (Main Scenario) He Ain't Heavy
+- [x] (Main Scenario) Helping Horn
+- [x] (Main Scenario) Killing Him Softly
+- [x] (Main Scenario) Meeting with the Resistance
+- [x] (Sidequests) Shadows of the Empire
 - [x] (Main Scenario) Foot in the Door
 - [x] (Sidequests) This One's for the Lovers
 - [x] (Sidequests) Some Seedy Business
