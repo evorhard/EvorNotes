@@ -26,6 +26,14 @@
 
 ## FFXIV To Do
 
+- [ ] (Sidequests) Trauma Queen [DRG 50]
+- [ ] (Other Quests) Shadows Uncast (Twin Adder)
+- [ ] (Sidequests) Going for Gold [DRG 47]
+- [ ] (Sidequests) Serveth Thy Master [DRG 46]
+- [ ] (Sidequests) Slim Pickings [DRG 46]
+- [ ] (Sidequests) Grave Happenings [The Reluctant Researcher]
+- [ ] (Sidequests) Too Many Cooks [The Reluctant Researcher]
+- [ ] (Sidequests) Pickled and Brined [The Reluctant Researcher]
 - [ ] (Class & Job Quests) DRG Lv. 45 - Double Dragoon
 - [ ] (Class & Job Quests) FSH Lv. 45 - I Believe Fish Can Fly
 - [ ] (Class & Job Quests) BTN Lv. 45 - Botanist in a Bind
@@ -38,17 +46,13 @@
 - [ ] (Class & Job Quests) ARM Lv. 45 - For the Good of the Guild
 - [ ] (Class & Job Quests) BSM Lv. 45 - Beauty and the Bardiche
 - [ ] (Class & Job Quests) CRP Lv. 45 - Gone till the Sixth Astral Moon
-- [ ] (Other Quests) Shadows Uncast (Twin Adder)
-- [ ] (Sidequests) Trauma Queen [DRG 50]
-- [ ] (Sidequests) Going for Gold [DRG 47]
-- [ ] (Sidequests) Serveth Thy Master [DRG 46]
-- [ ] (Sidequests) Slim Pickings [DRG 46]
-- [ ] (Sidequests) Grave Happenings [The Reluctant Researcher]
-- [ ] (Sidequests) Too Many Cooks [The Reluctant Researcher]
-- [ ] (Sidequests) Pickled and Brined [The Reluctant Researcher]
-- [ ] (Main Scenario) Foot in the Door
-- [ ] (Sidequests) Windy Wedding
-- [ ] (Sidequests) Adventurer for Hire
+- [ ] (Main Scenario) Meeting with the Resistance
+- [ ] (Sidequests) Shadows of the Empire
+- [x] (Main Scenario) Foot in the Door
+- [x] (Sidequests) This One's for the Lovers
+- [x] (Sidequests) Some Seedy Business
+- [x] (Sidequests) Windy Wedding
+- [x] (Sidequests) Adventurer for Hire
 - [x] (Crafting) DRG Lv. 43 - Mythril Sollerets
 - [x] (Crafting) DRG Lv. 43 - Boarskin Moccasins
 - [x] (Crafting) DRG Lv. 43 - Vintage Hose

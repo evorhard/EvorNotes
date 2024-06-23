@@ -1,26 +1,6 @@
 =-=-=-=-=
-35 Alfa Romeo 75 6V 3.0 America [323]
-=-=-=-=-=
-
-27 chevrolet nomad
-27 chevrolet nomad
-27 chevrolet monte carlo z34
-
-27 chevrolet monte carlo z34
-27 buick park avenue ultra
-27 buick park avenue
-
-=-=-=-=-=
 47 Dodge Razor [323]
 =-=-=-=-=
-
-31 skoda rapid spaceback 1.4 tsi
-31 skoda rapid spaceback 1.4 tsi
-31 nissan pathfinder
-
-31 mercury capri asc mclaren
-31 mercedes-benz e 320
-31 land rover defender 110
 
 31 land rover defender 110
 31 citroen activa 1
@@ -30,14 +10,6 @@
 35 Mitsubishi Lancer 200 Turbo [323]
 =-=-=-=-=
 
-28 oldsmobile cutlass s sport coupe
-28 mitsubishi galant gti-16v
-28 mitsubishi galant gti-16v
-
-28 mercury marauder
-28 mazdaspeed mx-6 a spec
-28 mazda cosmo
-
 28 lancia fulvia sport 1600
 28 lancia beta coupe volumex
 28 hyundai ioniq hybrid
@@ -45,14 +17,6 @@
 =-=-=-=-=
 48 Chrysler Crossfire SRT-6 Coupe [323]
 =-=-=-=-=
-
-32 plymouth barracuda 383
-32 fiat barchetta
-32 chevrolet chevelle malibu ss
-
-32 alfa romeo 147 q2
-33 renault koleos
-33 mitsubishi colt 1.8 gti
 
 33 mg mgb gt v8
 33 mazda koeru
@@ -66,53 +30,13 @@
 37 Ford Mustang GT [323]
 =-=-=-=-=
 
-28 holden suburban
-28 holden monaro gts 350 (ht)
-28 holden monaro cv6 (v2)
-
-28 ford mondeo estate
-28 ford escort rs2000
-28 fiat 500x
-
-28 fiat 500
-28 dodge journey
-28 dodge coronet super bee
-
 28 dodge coronet super bee
 28 dodge challenger t/a
 28 citroen ax sport
 
 =-=-=-=-=
-23 Volvo 360 GLT Saloon [323]
-=-=-=-=-=
-
-17 mercedes-benz 600
-19 chrysler town and country
-19 chrysler town and country
-
-19 buick skylark
-19 bristol arnolt-bristol
-28 chrysler newport
-
-28 chrysler laser xt
-28 chrysler laser xt
-28 chrysler 300m special edition
-
-28 chrysler 300 hurst
-28 cadillac escalade
-28 cadillac eldorodo
-
-=-=-=-=-=
 63 Lotus Elise SC [233]
 =-=-=-=-=
-
-40 mercedes-benz e220 bluetec
-40 honda hr-v 1.8 4wd
-40 cadillac devillle concours
-
-40 buick lucerne
-41 dodge avenger r/t awd
-42 acura 3.0cl
 
 43 infiniti m35
 44 chevrolet malibu
@@ -125,6 +49,26 @@
 48 acura rsx type s
 48 bufori v6i
 49 audi tt 225 quattro (bn)
+
+=-=-=-=-=
+21 Chevrolet El Camino [332]
+=-=-=-=-=
+
+12 citroen ami buggy
+13 vauxhall pa velox
+13 gmc suburban
+
+14 renault 14
+14 honda city cabriolet
+14 dodge monaco
+
+14 citroen berlingo
+14 chrysler valiant charger 770 (cl)
+16 renault clio
+
+16 renault clio
+16 holden limited edition coupe (hx)
+18 porsche 912
 
 =-=-=-=-=
 62 TVR Tuscan Convertible [332]
