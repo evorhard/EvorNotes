@@ -1,46 +1,14 @@
 =-=-=-=-=
-47 Dodge Razor [323]
-=-=-=-=-=
-
-31 land rover defender 110
-31 citroen activa 1
-31 buick rendezvous
-
-=-=-=-=-=
-35 Mitsubishi Lancer 200 Turbo [323]
-=-=-=-=-=
-
-28 lancia fulvia sport 1600
-28 lancia beta coupe volumex
-28 hyundai ioniq hybrid
-
-=-=-=-=-=
 48 Chrysler Crossfire SRT-6 Coupe [323]
 =-=-=-=-=
-
-33 mg mgb gt v8
-33 mazda koeru
-33 lancia fulvia coupe
 
 33 lancia delta
 33 lancia delta
 33 ford puma 1.0 mhev
 
 =-=-=-=-=
-37 Ford Mustang GT [323]
-=-=-=-=-=
-
-28 dodge coronet super bee
-28 dodge challenger t/a
-28 citroen ax sport
-
-=-=-=-=-=
 63 Lotus Elise SC [233]
 =-=-=-=-=
-
-43 infiniti m35
-44 chevrolet malibu
-45 volvo 850 t-5r saloon
 
 47 mercedes-benz e 500
 47 dodge razor
@@ -51,24 +19,20 @@
 49 audi tt 225 quattro (bn)
 
 =-=-=-=-=
-21 Chevrolet El Camino [332]
+33 Dodge Colt GT Turbo [323]
 =-=-=-=-=
 
-12 citroen ami buggy
-13 vauxhall pa velox
-13 gmc suburban
+20 peugeot 307
+20 nissan 280zx
+20 maserati sebring
 
-14 renault 14
-14 honda city cabriolet
-14 dodge monaco
+20 honda vamos 4wd turbo
+20 ford focus coupe-cabriolet
+20 fiat campagnola
 
-14 citroen berlingo
-14 chrysler valiant charger 770 (cl)
-16 renault clio
-
-16 renault clio
-16 holden limited edition coupe (hx)
-18 porsche 912
+20 datsun 240z
+20 chrysler new yorker
+20 buick park avenue essence
 
 =-=-=-=-=
 62 TVR Tuscan Convertible [332]
