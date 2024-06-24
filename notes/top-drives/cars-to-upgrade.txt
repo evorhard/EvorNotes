@@ -35,6 +35,46 @@
 20 buick park avenue essence
 
 =-=-=-=-=
+21 Volvo 480 Cabrio [323]
+=-=-=-=-=
+
+15 ford thunderbird
+16 ford escort xr3i
+16 chrysler tc by maserati
+
+17 subaru vivio bistro
+17 peugeot 505 break
+17 nissan micra
+
+17 chrysler imperial
+18 volvo 740 2.4 estate
+18 opel gt
+
+=-=-=-=-=
+31 Buick Rendezvous [323]
+=-=-=-=-=
+
+20 bristol 410
+21 vauxhall tigra
+21 vauxhall astra 1.6 cdti
+
+21 renault laguna
+21 oldsmobile jetstar 1
+21 oldsmobile delmont 88
+
+21 nissan cedric (y30)
+21 mitsubishi colt
+21 hyundai pony coupe
+
+21 hummer h1
+21 ford model u
+21 ford fiesta xr2
+
+21 ford fiesta
+21 ford fairlane 500
+21 fiat punto
+
+=-=-=-=-=
 62 TVR Tuscan Convertible [332]
 =-=-=-=-=
 
