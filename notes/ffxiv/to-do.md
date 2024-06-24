@@ -46,7 +46,12 @@
 - [ ] (Class & Job Quests) ARM Lv. 45 - For the Good of the Guild
 - [ ] (Class & Job Quests) BSM Lv. 45 - Beauty and the Bardiche
 - [ ] (Class & Job Quests) CRP Lv. 45 - Gone till the Sixth Astral Moon
-- [ ] (Main Scenario) He Ain't Heavy
+- [ ] (Main Scenario) Big Trouble in Little Ala Mhigo
+- [x] (Sidequests) Corpse Confrontation
+- [x] (Main Scenario) Wilred Wants You
+- [x] (Main Scenario) The Bear and the Young'uns' Cares
+- [x] (Main Scenario) Come Highly Recommended
+- [x] (Main Scenario) He Ain't Heavy
 - [x] (Main Scenario) Helping Horn
 - [x] (Main Scenario) Killing Him Softly
 - [x] (Main Scenario) Meeting with the Resistance
