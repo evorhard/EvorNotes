@@ -75,14 +75,6 @@
 22 ford fiesta zetec s
 
 =-=-=-=-=
-17 Chrysler Drifter [332]
-=-=-=-=-=
-
-19 fiat punto sporting
-19 eagle summit
-19 citroen tubik
-
-=-=-=-=-=
 62 TVR Tuscan Convertible [332]
 =-=-=-=-=
 
