@@ -1,70 +1,14 @@
 =-=-=-=-=
-48 Chrysler Crossfire SRT-6 Coupe [323]
-=-=-=-=-=
-
-33 lancia delta
-33 lancia delta
-33 ford puma 1.0 mhev
-
-=-=-=-=-=
-63 Lotus Elise SC [233]
-=-=-=-=-=
-
-47 mercedes-benz e 500
-47 dodge razor
-48 bmw h2r
-
-48 acura rsx type s
-48 bufori v6i
-49 audi tt 225 quattro (bn)
-
-=-=-=-=-=
 33 Dodge Colt GT Turbo [323]
 =-=-=-=-=
-
-20 peugeot 307
-20 nissan 280zx
-20 maserati sebring
-
-20 honda vamos 4wd turbo
-20 ford focus coupe-cabriolet
-20 fiat campagnola
 
 20 datsun 240z
 20 chrysler new yorker
 20 buick park avenue essence
 
 =-=-=-=-=
-21 Volvo 480 Cabrio [323]
-=-=-=-=-=
-
-15 ford thunderbird
-16 ford escort xr3i
-16 chrysler tc by maserati
-
-17 subaru vivio bistro
-17 peugeot 505 break
-17 nissan micra
-
-17 chrysler imperial
-18 volvo 740 2.4 estate
-18 opel gt
-
-=-=-=-=-=
 31 Buick Rendezvous [323]
 =-=-=-=-=
-
-20 bristol 410
-21 vauxhall tigra
-21 vauxhall astra 1.6 cdti
-
-21 renault laguna
-21 oldsmobile jetstar 1
-21 oldsmobile delmont 88
-
-21 nissan cedric (y30)
-21 mitsubishi colt
-21 hyundai pony coupe
 
 21 hummer h1
 21 ford model u
@@ -73,6 +17,70 @@
 21 ford fiesta
 21 ford fairlane 500
 21 fiat punto
+
+=-=-=-=-=
+45 Volvo 850 T-5R Saloon [323]
+=-=-=-=-=
+
+34 volkswagen jetta vr6
+34 honda odyssey
+34 honda city turbo
+
+34 fiat stilo abarth
+34 citroen ds5 ls
+34 citroen ds5 ls
+
+34 citroen ds5 ls
+34 chevrolet captiva
+34 abarth 695 tributo maserati
+
+=-=-=-=-=
+48 Alfa Romeo Brera 3.2 V6 Q4 [332]
+=-=-=-=-=
+
+35 subaru legacy
+35 subaru legacy
+35 subaru legacy
+
+35 subaru legacy
+35 subaru legacy
+35 peugeot 306 gti-6
+
+35 mini cooper sd
+35 lotus m100 elan
+35 land rover discovery 3
+
+35 caterham 21
+35 caterham 21
+35 caterham 21
+
+=-=-=-=-=
+36 Audi TT Roadster 1.8 TFSI (8J) [332]
+=-=-=-=-=
+
+21 chevrolet el camino
+21 audi a2 1.4
+21 aston martin dbs
+
+21 aston martin dbs
+21 amc m422 mighty mite
+22 subaru sumo
+
+22 nissan exa turbo (n12)
+22 mazda rx-3
+22 mazda rx-3
+
+22 ford mustang 289
+22 ford fiesta zetec s
+22 ford fiesta zetec s
+
+=-=-=-=-=
+17 Chrysler Drifter [332]
+=-=-=-=-=
+
+19 fiat punto sporting
+19 eagle summit
+19 citroen tubik
 
 =-=-=-=-=
 62 TVR Tuscan Convertible [332]
