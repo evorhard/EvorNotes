@@ -1,78 +1,58 @@
 =-=-=-=-=
-33 Dodge Colt GT Turbo [323]
+45 Mitsubishi Colt Ralliart Verion-R [323]
 =-=-=-=-=
 
-20 datsun 240z
-20 chrysler new yorker
-20 buick park avenue essence
+36 fiat panda 100hp
+36 citroen spacetourer 4x4 e
+36 citroen c5 x plug-in hybrid
 
 =-=-=-=-=
-31 Buick Rendezvous [323]
+30 Ford Mustang SVO [323]
 =-=-=-=-=
 
-21 hummer h1
-21 ford model u
-21 ford fiesta xr2
-
-21 ford fiesta
-21 ford fairlane 500
-21 fiat punto
+23 saturn ion
+23 saturn ion
+23 pontiac sunbird gt
 
 =-=-=-=-=
-45 Volvo 850 T-5R Saloon [323]
+39 Acura CSX Type-S [323]
 =-=-=-=-=
 
-34 volkswagen jetta vr6
-34 honda odyssey
-34 honda city turbo
+23 mercury comet cyclone
+23 jaguar xk150
+23 hummer h1 hard-top
 
-34 fiat stilo abarth
-34 citroen ds5 ls
-34 citroen ds5 ls
-
-34 citroen ds5 ls
-34 chevrolet captiva
-34 abarth 695 tributo maserati
+23 honda jazz
+23 holden panel van sandman (hz)
+23 ford cortina crusader
 
 =-=-=-=-=
-48 Alfa Romeo Brera 3.2 V6 Q4 [332]
+39 Chevrolet Corvette C4 [323]
 =-=-=-=-=
 
-35 subaru legacy
-35 subaru legacy
-35 subaru legacy
+24 subary legacy
+24 rover p6
+24 plymouth fury
 
-35 subaru legacy
-35 subaru legacy
-35 peugeot 306 gti-6
-
-35 mini cooper sd
-35 lotus m100 elan
-35 land rover discovery 3
-
-35 caterham 21
-35 caterham 21
-35 caterham 21
+24 plymouth barracuda fastback
+24 peugeot 405
+24 nissan 280zx turbo
 
 =-=-=-=-=
-36 Audi TT Roadster 1.8 TFSI (8J) [332]
+22 Mitsubishi Colt [323]
 =-=-=-=-=
 
-21 chevrolet el camino
-21 audi a2 1.4
-21 aston martin dbs
+14 subaru pleo nasta
+14 lincoln continental convertible
+15 geo metro
 
-21 aston martin dbs
-21 amc m422 mighty mite
-22 subaru sumo
+15 citroen c-cactus
+15 chrysler centura (kb)
+15 cadillac cimarron
 
-22 nissan exa turbo (n12)
-22 mazda rx-3
-22 mazda rx-3
-
-22 ford mustang 289
-22 ford fiesta zetec s
-22 ford fiesta zetec s
+15 alfa romeo junior z
+16 volvo 145 express
+16 volkswagen transporter
 
 =-=-=-=-=
 62 TVR Tuscan Convertible [332]
