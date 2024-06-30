@@ -7,20 +7,8 @@
 36 citroen c5 x plug-in hybrid
 
 =-=-=-=-=
-30 Ford Mustang SVO [323]
-=-=-=-=-=
-
-23 saturn ion
-23 saturn ion
-23 pontiac sunbird gt
-
-=-=-=-=-=
 39 Acura CSX Type-S [323]
 =-=-=-=-=
-
-23 mercury comet cyclone
-23 jaguar xk150
-23 hummer h1 hard-top
 
 23 honda jazz
 23 holden panel van sandman (hz)
@@ -29,10 +17,6 @@
 =-=-=-=-=
 39 Chevrolet Corvette C4 [323]
 =-=-=-=-=
-
-24 subary legacy
-24 rover p6
-24 plymouth fury
 
 24 plymouth barracuda fastback
 24 peugeot 405
