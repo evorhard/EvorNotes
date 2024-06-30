@@ -26,14 +26,6 @@
 22 Mitsubishi Colt [323]
 =-=-=-=-=
 
-14 subaru pleo nasta
-14 lincoln continental convertible
-15 geo metro
-
-15 citroen c-cactus
-15 chrysler centura (kb)
-15 cadillac cimarron
-
 15 alfa romeo junior z
 16 volvo 145 express
 16 volkswagen transporter
