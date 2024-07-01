@@ -46,10 +46,6 @@
 23 Chevrolet El Camino [323]
 =-=-=-=-=
 
-16 skoda citijet
-16 reanult 18
-16 nissan prince gloria super 6
-
 16 honda jazz
 16 ford escort xr3i
 16 citroen c3
@@ -61,10 +57,6 @@
 =-=-=-=-=
 27 Skoda Rapid Saloon 1.2 TSI [323]
 =-=-=-=-=
-
-17 lancia flaminia gt
-17 ford fiesta xr2
-17 fiat 126p
 
 17 bentley mulsanne s
 18 subaru r2
