@@ -46,10 +46,6 @@
 23 Chevrolet El Camino [323]
 =-=-=-=-=
 
-15 oldsmobile firenza sx
-15 chrysler lebaron town & country convertible
-16 volkswagen transporter
-
 16 skoda citijet
 16 reanult 18
 16 nissan prince gloria super 6
@@ -65,10 +61,6 @@
 =-=-=-=-=
 27 Skoda Rapid Saloon 1.2 TSI [323]
 =-=-=-=-=
-
-17 plymouth barracuda formula s
-17 nissan pulsar
-17 nissan micra
 
 17 lancia flaminia gt
 17 ford fiesta xr2
