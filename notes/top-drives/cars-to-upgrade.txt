@@ -1,34 +1,98 @@
 =-=-=-=-=
-45 Mitsubishi Colt Ralliart Verion-R [323]
+38 Bristol 411 Series 6 [332]
 =-=-=-=-=
 
-36 fiat panda 100hp
-36 citroen spacetourer 4x4 e
-36 citroen c5 x plug-in hybrid
+20 suzuki ertiga
+20 nissan wingroad aero sport limited
+20 nissan 280zx
+
+20 mercedes-benz v 250d
+20 ginetta g31
+20 geo storm hatchback
+
+20 datsun 240z
+20 buick somerset t-type
+20 buick somerset t-type
+
+20 buick riviera coupe
+21 volkswagen polo
+21 suzuki ertiga (nc)
 
 =-=-=-=-=
-39 Acura CSX Type-S [323]
+49 Chevrolet Corvette Stingray III [323]
 =-=-=-=-=
 
-23 honda jazz
-23 holden panel van sandman (hz)
-23 ford cortina crusader
+30 suzuki jimny
+30 renault megane
+30 plymouth gtx
+
+30 nissan patrol
+30 nissan cefiro 3.0 brougham vip (a33)
+30 mitsubishi colt czc
+
+30 mitsubishi colt czc
+30 mazda mx-5 rf
+30 mazda eunos roadster rs-limited
+
+30 lamborghini silhouette
+30 lamborghini 350gt
+30 ford mustang svo
+
+30 ford mustang mach 1
+30 chevrolet corvette astrovette
+30 chevrolet chevelle
 
 =-=-=-=-=
-39 Chevrolet Corvette C4 [323]
+23 Chevrolet El Camino [323]
 =-=-=-=-=
 
-24 plymouth barracuda fastback
-24 peugeot 405
-24 nissan 280zx turbo
-
-=-=-=-=-=
-22 Mitsubishi Colt [323]
-=-=-=-=-=
-
-15 alfa romeo junior z
-16 volvo 145 express
+15 oldsmobile firenza sx
+15 chrysler lebaron town & country convertible
 16 volkswagen transporter
+
+16 skoda citijet
+16 reanult 18
+16 nissan prince gloria super 6
+
+16 honda jazz
+16 ford escort xr3i
+16 citroen c3
+
+16 chrysler tc by maserati
+16 bmw 2800 cs
+17 suzuki sc100
+
+=-=-=-=-=
+27 Skoda Rapid Saloon 1.2 TSI [323]
+=-=-=-=-=
+
+17 plymouth barracuda formula s
+17 nissan pulsar
+17 nissan micra
+
+17 lancia flaminia gt
+17 ford fiesta xr2
+17 fiat 126p
+
+17 bentley mulsanne s
+18 subaru r2
+18 morgan ev3
+
+18 mazda cosmo 1800 coupe
+18 fiat multipla
+18 citreon e-berlingo electric
+
+=-=-=-=-=
+31 Mitsubishi Eclipse Coupe GTS [323]
+=-=-=-=-=
+
+=-=-=-=-=
+40 Mazda Roadster NR-A [323]
+=-=-=-=-=
+
+=-=-=-=-=
+35 Acura Integra GS-R [323]
+=-=-=-=-=
 
 =-=-=-=-=
 62 TVR Tuscan Convertible [332]
