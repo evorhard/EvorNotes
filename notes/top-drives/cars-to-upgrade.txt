@@ -46,10 +46,6 @@
 23 Chevrolet El Camino [323]
 =-=-=-=-=
 
-16 honda jazz
-16 ford escort xr3i
-16 citroen c3
-
 16 chrysler tc by maserati
 16 bmw 2800 cs
 17 suzuki sc100
@@ -57,10 +53,6 @@
 =-=-=-=-=
 27 Skoda Rapid Saloon 1.2 TSI [323]
 =-=-=-=-=
-
-17 bentley mulsanne s
-18 subaru r2
-18 morgan ev3
 
 18 mazda cosmo 1800 coupe
 18 fiat multipla
