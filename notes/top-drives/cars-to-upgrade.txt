@@ -2,10 +2,6 @@
 38 Bristol 411 Series 6 [332]
 =-=-=-=-=
 
-20 suzuki ertiga
-20 nissan wingroad aero sport limited
-20 nissan 280zx
-
 20 mercedes-benz v 250d
 20 ginetta g31
 20 geo storm hatchback
@@ -21,14 +17,6 @@
 =-=-=-=-=
 49 Chevrolet Corvette Stingray III [323]
 =-=-=-=-=
-
-30 suzuki jimny
-30 renault megane
-30 plymouth gtx
-
-30 nissan patrol
-30 nissan cefiro 3.0 brougham vip (a33)
-30 mitsubishi colt czc
 
 30 mitsubishi colt czc
 30 mazda mx-5 rf
@@ -46,13 +34,65 @@
 31 Mitsubishi Eclipse Coupe GTS [323]
 =-=-=-=-=
 
+21 porsche 914
+21 nissan pixo
+21 mercedes-benz 230 te estate
+
+21 mercedes-benz 230 te estate
+21 hyundai pony coupe
+21 ford ltd
+
+21 ford fiesta
+21 citroen ds23 pallas injection
+21 citroen c3 picasso bluehdi 100
+
+21 chrysler sebring convertible
+21 chrysler 300c
+21 amc m422 might mite
+
 =-=-=-=-=
 40 Mazda Roadster NR-A [323]
 =-=-=-=-=
 
+31 suzuki jimny
+31 skoda octavia estate 1.8 t
+31 nissan pulsar
+
+31 dodge intrepid es 3.5l v6
+31 chevrolet tru 140s
+31 buick roadmaster wagon
+
+31 bentley turbo r
+32 renault avantime 3.0 v6
+32 nissan primera (p10)
+
+32 cadillac eldorado
+32 bmw 728i
+32 audi a1 30 tfsi (gb)
+
+32 audi a1 30 tfsi (gb)
+32 ac frua convertible
+33 renault koleos
+
 =-=-=-=-=
 35 Acura Integra GS-R [323]
 =-=-=-=-=
+
+22 chrysler d'elegance
+23 volvo 360 glt saloon
+23 skoda atero
+
+23 peugeot 504 coupe
+23 nissan sunny turbo leprix (b11)
+23 mercury cougar xr-7
+
+23 maserati quattroporte
+23 holden panel van sandman (hz)
+23 ford granada 2.8i s
+
+23 ford granada 2.8i s
+23 audi coupe gt 5e (b2)
+24 suzuki splash
 
 =-=-=-=-=
 62 TVR Tuscan Convertible [332]
