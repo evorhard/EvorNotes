@@ -2,10 +2,6 @@
 38 Bristol 411 Series 6 [332]
 =-=-=-=-=
 
-20 mercedes-benz v 250d
-20 ginetta g31
-20 geo storm hatchback
-
 20 datsun 240z
 20 buick somerset t-type
 20 buick somerset t-type
@@ -18,10 +14,6 @@
 49 Chevrolet Corvette Stingray III [323]
 =-=-=-=-=
 
-30 mitsubishi colt czc
-30 mazda mx-5 rf
-30 mazda eunos roadster rs-limited
-
 30 lamborghini silhouette
 30 lamborghini 350gt
 30 ford mustang svo
@@ -33,10 +25,6 @@
 =-=-=-=-=
 31 Mitsubishi Eclipse Coupe GTS [323]
 =-=-=-=-=
-
-21 porsche 914
-21 nissan pixo
-21 mercedes-benz 230 te estate
 
 21 mercedes-benz 230 te estate
 21 hyundai pony coupe
@@ -53,14 +41,6 @@
 =-=-=-=-=
 40 Mazda Roadster NR-A [323]
 =-=-=-=-=
-
-31 suzuki jimny
-31 skoda octavia estate 1.8 t
-31 nissan pulsar
-
-31 dodge intrepid es 3.5l v6
-31 chevrolet tru 140s
-31 buick roadmaster wagon
 
 31 bentley turbo r
 32 renault avantime 3.0 v6
