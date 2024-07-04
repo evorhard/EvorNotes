@@ -2,10 +2,6 @@
 38 Bristol 411 Series 6 [332]
 =-=-=-=-=
 
-20 datsun 240z
-20 buick somerset t-type
-20 buick somerset t-type
-
 20 buick riviera coupe
 21 volkswagen polo
 21 suzuki ertiga (nc)
@@ -14,10 +10,6 @@
 49 Chevrolet Corvette Stingray III [323]
 =-=-=-=-=
 
-30 lamborghini silhouette
-30 lamborghini 350gt
-30 ford mustang svo
-
 30 ford mustang mach 1
 30 chevrolet corvette astrovette
 30 chevrolet chevelle
@@ -25,10 +17,6 @@
 =-=-=-=-=
 31 Mitsubishi Eclipse Coupe GTS [323]
 =-=-=-=-=
-
-21 mercedes-benz 230 te estate
-21 hyundai pony coupe
-21 ford ltd
 
 21 ford fiesta
 21 citroen ds23 pallas injection
@@ -42,10 +30,6 @@
 40 Mazda Roadster NR-A [323]
 =-=-=-=-=
 
-31 bentley turbo r
-32 renault avantime 3.0 v6
-32 nissan primera (p10)
-
 32 cadillac eldorado
 32 bmw 728i
 32 audi a1 30 tfsi (gb)
@@ -58,14 +42,6 @@
 35 Acura Integra GS-R [323]
 =-=-=-=-=
 
-22 chrysler d'elegance
-23 volvo 360 glt saloon
-23 skoda atero
-
-23 peugeot 504 coupe
-23 nissan sunny turbo leprix (b11)
-23 mercury cougar xr-7
-
 23 maserati quattroporte
 23 holden panel van sandman (hz)
 23 ford granada 2.8i s
@@ -75,11 +51,55 @@
 24 suzuki splash
 
 =-=-=-=-=
+46 Mazdaspeed Axela MS [323]
+=-=-=-=-=
+
+33 mazda 6
+33 lotus excel
+33 ford puma 1.0 mhev
+
+33 de tomaso pampero
+33 citroen bx gti 16v
+33 citroen activa 2
+
+33 chevrolet volt concept
+33 abarth 500c esseesse
+34 volvo v70 d5
+
+34 nissan terrano r3m-f (r50)
+34 mitsubishi hsr-vi
+34 hyundai dynasty 3.5
+
+=-=-=-=-=
+39 Mitsubishi Magna VR-X (TL) [323]
+=-=-=-=-=
+
+24 suzuki alto turbo rs 4wd (ha36)
+24 smart brabus roadster
+24 pontiac grand am
+
+24 morgan plus 8
+24 mg mgc gt
+24 mercedes-benz 280 sl
+
+24 mazda demio racing
+24 hyundai scoupe 1.5i turbo
+24 hyundai scoupe 1.5i turbo
+
+24 gmc savana
+24 gmc savana
+24 gmc savana
+
+24 ginetta g28
+24 ford fiesta
+24 ford escort xr3i
+
+=-=-=-=-=
 62 TVR Tuscan Convertible [332]
 =-=-=-=-=
 
 =-=-=-=-=
-62 TVR Tuscan [332]
+63 TVR Tuscan [332]
 =-=-=-=-=
 
 =-=-=-=-=
