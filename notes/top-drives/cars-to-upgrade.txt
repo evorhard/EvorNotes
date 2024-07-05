@@ -55,6 +55,46 @@
 24 ford escort xr3i
 
 =-=-=-=-=
+49 Audi TT 225 quattro (8N) [323]
+=-=-=-=-=
+
+34 chevrolet corvette zr1
+34 alfa romeo giulietta turbo autodelta
+34 alfa romeo giulietta
+
+34 alfa romeo 33
+34 alfa romeo 166
+34 alfa romeo 166
+
+35 subaru legacy
+35 subaru legacy
+35 subaru legacy
+
+35 subaru legacy
+35 land rover discovery
+35 honda cr-v
+
+=-=-=-=-=
+38 Alfa Romeo 156 2.4 JTD [323]
+=-=-=-=-=
+
+24 citreon c3-xr
+24 citreon c3-xr
+24 citreon c3 aircross
+
+24 chevrolet camaro z/28
+24 chevrolet 454 ss
+24 alfa romeo alfa 6
+
+24 alfa romeo alfa 6
+25 volvo 960 2.5 estate
+25 volvo 480 es
+
+25 volvo 440 glt
+25 volvo 242 gt
+25 volkswagen new beetle
+
+=-=-=-=-=
 62 TVR Tuscan Convertible [332]
 =-=-=-=-=
 
