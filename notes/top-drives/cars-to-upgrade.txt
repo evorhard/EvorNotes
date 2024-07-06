@@ -1,34 +1,6 @@
 =-=-=-=-=
-31 Mitsubishi Eclipse Coupe GTS [323]
-=-=-=-=-=
-
-21 chrysler sebring convertible
-21 chrysler 300c
-21 amc m422 might mite
-
-=-=-=-=-=
-40 Mazda Roadster NR-A [323]
-=-=-=-=-=
-
-32 audi a1 30 tfsi (gb)
-32 ac frua convertible
-33 renault koleos
-
-=-=-=-=-=
-35 Acura Integra GS-R [323]
-=-=-=-=-=
-
-23 ford granada 2.8i s
-23 audi coupe gt 5e (b2)
-24 suzuki splash
-
-=-=-=-=-=
 46 Mazdaspeed Axela MS [323]
 =-=-=-=-=
-
-33 de tomaso pampero
-33 citroen bx gti 16v
-33 citroen activa 2
 
 33 chevrolet volt concept
 33 abarth 500c esseesse
@@ -41,10 +13,6 @@
 =-=-=-=-=
 39 Mitsubishi Magna VR-X (TL) [323]
 =-=-=-=-=
-
-24 mazda demio racing
-24 hyundai scoupe 1.5i turbo
-24 hyundai scoupe 1.5i turbo
 
 24 gmc savana
 24 gmc savana
@@ -95,12 +63,56 @@
 25 volkswagen new beetle
 
 =-=-=-=-=
-62 TVR Tuscan Convertible [332]
-=-=-=-=-=
-
-=-=-=-=-=
 63 TVR Tuscan [332]
 =-=-=-=-=
+
+40 dodge grand caravan
+40 buick lucerne
+41 porsche boxster
+
+42 mitsubishi eclipse gs turbo
+42 holden barina rs (tm)
+43 volvo v40 t4
+
+45 range rover evoque sd4
+45 ford puma st
+45 bmw 645ci
+
+47 subaru legacy
+47 mitsubishi raider baja
+48 renault sport clio 200
+
+=-=-=-=-=
+28 Cadillac Escalade [323]
+=-=-=-=-=
+
+13 lincoln town car
+13 lancia fulvia coupe
+13 fiat 127
+
+13 chrysler town and country
+14 subaru rex
+14 porsche 356 b convertible 1600
+
+14 nissan datsun sunny (b10)
+14 lincoln mark vi
+14 hyundai i800 2.5 crdi
+
+=-=-=-=-=
+19 Eagle Summit [332]
+=-=-=-=-=
+
+16 renault clio
+16 renault 16
+16 renault 16
+
+16 renault 12 gordini
+16 lotus seven
+16 fiat 131 mirafiori
+
+16 chevrolet chevelle malibu ss hardtop coupe
+17 volkswagen golf
+17 suzuki wagon r
 
 =-=-=-=-=
 52 Suzuki Kizashi 4x4 [323]
