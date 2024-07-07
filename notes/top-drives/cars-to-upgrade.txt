@@ -86,10 +86,6 @@
 28 Cadillac Escalade [323]
 =-=-=-=-=
 
-13 lincoln town car
-13 lancia fulvia coupe
-13 fiat 127
-
 13 chrysler town and country
 14 subaru rex
 14 porsche 356 b convertible 1600
@@ -101,10 +97,6 @@
 =-=-=-=-=
 19 Eagle Summit [332]
 =-=-=-=-=
-
-16 renault clio
-16 renault 16
-16 renault 16
 
 16 renault 12 gordini
 16 lotus seven
