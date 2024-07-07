@@ -86,10 +86,6 @@
 28 Cadillac Escalade [323]
 =-=-=-=-=
 
-13 chrysler town and country
-14 subaru rex
-14 porsche 356 b convertible 1600
-
 14 nissan datsun sunny (b10)
 14 lincoln mark vi
 14 hyundai i800 2.5 crdi
@@ -97,10 +93,6 @@
 =-=-=-=-=
 19 Eagle Summit [332]
 =-=-=-=-=
-
-16 renault 12 gordini
-16 lotus seven
-16 fiat 131 mirafiori
 
 16 chevrolet chevelle malibu ss hardtop coupe
 17 volkswagen golf
