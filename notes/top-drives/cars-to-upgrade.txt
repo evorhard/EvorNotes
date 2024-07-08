@@ -1,38 +1,6 @@
 =-=-=-=-=
-46 Mazdaspeed Axela MS [323]
-=-=-=-=-=
-
-33 chevrolet volt concept
-33 abarth 500c esseesse
-34 volvo v70 d5
-
-34 nissan terrano r3m-f (r50)
-34 mitsubishi hsr-vi
-34 hyundai dynasty 3.5
-
-=-=-=-=-=
-39 Mitsubishi Magna VR-X (TL) [323]
-=-=-=-=-=
-
-24 gmc savana
-24 gmc savana
-24 gmc savana
-
-24 ginetta g28
-24 ford fiesta
-24 ford escort xr3i
-
-=-=-=-=-=
 49 Audi TT 225 quattro (8N) [323]
 =-=-=-=-=
-
-34 chevrolet corvette zr1
-34 alfa romeo giulietta turbo autodelta
-34 alfa romeo giulietta
-
-34 alfa romeo 33
-34 alfa romeo 166
-34 alfa romeo 166
 
 35 subaru legacy
 35 subaru legacy
@@ -46,18 +14,6 @@
 38 Alfa Romeo 156 2.4 JTD [323]
 =-=-=-=-=
 
-24 citreon c3-xr
-24 citreon c3-xr
-24 citreon c3 aircross
-
-24 chevrolet camaro z/28
-24 chevrolet 454 ss
-24 alfa romeo alfa 6
-
-24 alfa romeo alfa 6
-25 volvo 960 2.5 estate
-25 volvo 480 es
-
 25 volvo 440 glt
 25 volvo 242 gt
 25 volkswagen new beetle
@@ -65,14 +21,6 @@
 =-=-=-=-=
 63 TVR Tuscan [332]
 =-=-=-=-=
-
-40 dodge grand caravan
-40 buick lucerne
-41 porsche boxster
-
-42 mitsubishi eclipse gs turbo
-42 holden barina rs (tm)
-43 volvo v40 t4
 
 45 range rover evoque sd4
 45 ford puma st
@@ -83,20 +31,24 @@
 48 renault sport clio 200
 
 =-=-=-=-=
-28 Cadillac Escalade [323]
+39 Holden Astra SRi Turbo (TS) [323]
 =-=-=-=-=
 
-14 nissan datsun sunny (b10)
-14 lincoln mark vi
-14 hyundai i800 2.5 crdi
+25 opel kadett gt/e
+25 nissan silvia varietta (s15)
+25 nissan juke
+
+25 morgan 4/4 80th anniversary edition
+25 mitsubishi mirage kammtop
+25 mazda rx-7 convertible
+
+25 mazda luce v6 3000 royal classic
+25 lincoln town car cartier l
+25 lancia beta montecarlo
 
 =-=-=-=-=
-19 Eagle Summit [332]
+59 Ford Focus RS [323]
 =-=-=-=-=
-
-16 chevrolet chevelle malibu ss hardtop coupe
-17 volkswagen golf
-17 suzuki wagon r
 
 =-=-=-=-=
 52 Suzuki Kizashi 4x4 [323]
