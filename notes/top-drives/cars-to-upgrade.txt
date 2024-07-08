@@ -19,18 +19,6 @@
 25 volkswagen new beetle
 
 =-=-=-=-=
-63 TVR Tuscan [332]
-=-=-=-=-=
-
-45 range rover evoque sd4
-45 ford puma st
-45 bmw 645ci
-
-47 subaru legacy
-47 mitsubishi raider baja
-48 renault sport clio 200
-
-=-=-=-=-=
 39 Holden Astra SRi Turbo (TS) [323]
 =-=-=-=-=
 
