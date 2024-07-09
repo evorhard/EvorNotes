@@ -3,28 +3,12 @@
 =-=-=-=-=
 
 35 subaru legacy
-35 subaru legacy
-35 subaru legacy
-
-35 subaru legacy
 35 land rover discovery
 35 honda cr-v
 
 =-=-=-=-=
-38 Alfa Romeo 156 2.4 JTD [323]
-=-=-=-=-=
-
-25 volvo 440 glt
-25 volvo 242 gt
-25 volkswagen new beetle
-
-=-=-=-=-=
 39 Holden Astra SRi Turbo (TS) [323]
 =-=-=-=-=
-
-25 opel kadett gt/e
-25 nissan silvia varietta (s15)
-25 nissan juke
 
 25 morgan 4/4 80th anniversary edition
 25 mitsubishi mirage kammtop
@@ -33,6 +17,46 @@
 25 mazda luce v6 3000 royal classic
 25 lincoln town car cartier l
 25 lancia beta montecarlo
+
+=-=-=-=-=
+49 Mazda 323 GT-R [323]
+=-=-=-=-=
+
+36 citroen spacetourer 4x4 e
+36 alfa romeo 146 ti
+37 suzuki x-90
+
+37 suzuki vitara
+37 suzuki jimny sierra
+37 suzuki jimny sierra
+
+37 nissan primera egt
+37 nissan primera egt
+37 nissan pathfinder (r50)
+
+37 nissan pathfinder (r50)
+37 hummer h2 sut
+37 holden cruze sri-v
+
+=-=-=-=-=
+38 Ford Racing Puma [323]
+=-=-=-=-=
+
+25 fiat panda
+25 citroen c-elysee
+25 citroen cactus m
+
+25 citroen cactus m
+25 citroen c5 hpi
+25 chevrolet impala ss 427
+
+25 chevrolet camaro berlinetta
+25 chevrolet bel air
+25 buick riviera gran sport
+
+25 buick reatta convertible
+25 buick reatta convertible
+25 buick reatta
 
 =-=-=-=-=
 59 Ford Focus RS [323]
