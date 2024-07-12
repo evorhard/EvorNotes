@@ -62,10 +62,6 @@
 10 Peugeot 402 Darl'mat Special Sport [332]
 =-=-=-=-=
 
-11 fiat 8v supersonic
-11 citroen 2cv6
-12 volkswagen transporter
-
 12 volkswagen beetle
 13 volvo 264 te
 13 fiat 127
@@ -81,10 +77,6 @@
 =-=-=-=-=
 10 Nissan Skyline 2000 GT [323]
 =-=-=-=-=
-
-15 nissan datsun sunny (b210)
-15 chrysler imperial
-15 alfa romeo 2000 gtv
 
 15 alfa romeo 2000 gtv
 16 volkswagen passat
@@ -105,10 +97,6 @@
 =-=-=-=-=
 10 Mercury Comet [323]
 =-=-=-=-=
-
-17 lancia flaminia gt
-17 ford mustang ii
-17 ford fiesta xr2
 
 17 citroen c3 xtr
 17 chevrolet monte carlo ss
