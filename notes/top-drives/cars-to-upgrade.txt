@@ -1,58 +1,6 @@
 =-=-=-=-=
-39 Holden Astra SRi Turbo (TS) [323]
-=-=-=-=-=
-
-25 mazda luce v6 3000 royal classic
-25 lincoln town car cartier l
-25 lancia beta montecarlo
-
-=-=-=-=-=
-49 Mazda 323 GT-R [323]
-=-=-=-=-=
-
-37 suzuki vitara
-37 suzuki jimny sierra
-37 suzuki jimny sierra
-
-37 nissan primera egt
-37 nissan primera egt
-37 nissan pathfinder (r50)
-
-37 nissan pathfinder (r50)
-37 hummer h2 sut
-37 holden cruze sri-v
-
-=-=-=-=-=
-38 Ford Racing Puma [323]
-=-=-=-=-=
-
-25 citroen cactus m
-25 citroen c5 hpi
-25 chevrolet impala ss 427
-
-25 chevrolet camaro berlinetta
-25 chevrolet bel air
-25 buick riviera gran sport
-
-25 buick reatta convertible
-25 buick reatta convertible
-25 buick reatta
-
-=-=-=-=-=
 48 BMW 640d [323]
 =-=-=-=-=
-
-37 ford mustang gt
-37 fiat 124 spider
-37 citroen ds5 2.0 hdi
-
-37 chevrolet cavalier z24
-37 chevrolet cavalier z24
-37 cadillac sedan de ville
-
-37 audi a4 1.8t (b5)
-37 audi a3 saloon 1.8 tfsi (8v)
-37 acura legend 3.2 v6
 
 38 volkswagen golf
 38 skoda octavia hatchback 2.0 tdi
@@ -62,21 +10,121 @@
 39 Mazdaspeed MX-5 Miata [323]
 =-=-=-=-=
 
-26 subaru leone
-26 subaru leone
-26 subaru leone
-
-26 subaru leone
-26 saturn lw
-26 plymouth xnr
-
-26 plymouth xnr
-26 nissan silvia
-26 nissan patrol
-
 26 nissan juke
 26 morgan plus 4
 26 mercury cougar
+
+=-=-=-=-=
+48 Mitsubishi Triton Ralliart AXCR [323]
+=-=-=-=-=
+
+38 opel manta 400 rally
+38 morgan plus 4 super sports baby doll vi
+38 mitsubishi lancer ralliart wagon
+
+38 mitsubishi l200
+38 mg montego turbo
+38 mercedes-benz slk 200
+
+38 mercedes-benz slk 200
+38 mercedes-benz slk 200
+38 mazdaspeed protege
+
+38 mazdaspeed protege
+38 mazdaspeed protege
+38 mazda mx-5 bbr turbo
+
+=-=-=-=-=
+35 Aston Martin DB4 GT Zagato [332]
+=-=-=-=-=
+
+26 mazda rx-7
+26 mazda hr-x2
+26 mazda hr-x2
+
+26 mazda cx-5
+26 mazda cosmo
+26 mazda cosmo
+
+26 mazda 2
+26 mazda 2
+26 maserati kyalami
+
+26 maserati kyalami
+26 maserati indy
+26 maserati indy
+
+26 maserati indy
+26 lotus elan+2
+26 hyundai veloster 1.6 gdi
+
+=-=-=-=-=
+10 Peugeot 402 Darl'mat Special Sport [332]
+=-=-=-=-=
+
+11 fiat 8v supersonic
+11 citroen 2cv6
+12 volkswagen transporter
+
+12 volkswagen beetle
+13 volvo 264 te
+13 fiat 127
+
+14 tvr grantura
+14 lincoln mark ii
+14 chrysler town and country
+
+14 chrysler town and country
+14 chrysler cordoba 360
+15 porsche 356 speedster
+
+=-=-=-=-=
+10 Nissan Skyline 2000 GT [323]
+=-=-=-=-=
+
+15 nissan datsun sunny (b210)
+15 chrysler imperial
+15 alfa romeo 2000 gtv
+
+15 alfa romeo 2000 gtv
+16 volkswagen passat
+16 hyundai pony 1400
+
+16 chevrolet matiz
+16 chevrolet lumina apv
+16 chevrolet chevette
+
+16 buick estate wagon
+17 plymouth barracuda formula s
+17 oldsmobile cutlass
+
+17 nissan pulsar
+17 nissan president sovereign (h252)
+17 nissan micra
+
+=-=-=-=-=
+10 Mercury Comet [323]
+=-=-=-=-=
+
+17 lancia flaminia gt
+17 ford mustang ii
+17 ford fiesta xr2
+
+17 citroen c3 xtr
+17 chevrolet monte carlo ss
+17 chevrolet corvette impala xp-101
+
+17 cadillac seville
+17 cadillac seville
+17 buick opel sports coupe
+
+17 alfa romeo spider veloce (s2)
+18 volvo 345 2.0
+18 tvr tasmin 200 convertible
+
+18 renault espace
+18 holden torana gtr xu-1 (lc)
+18 ford b-max
 
 =-=-=-=-=
 59 Ford Focus RS [323]
