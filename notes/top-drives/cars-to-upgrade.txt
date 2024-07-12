@@ -62,14 +62,6 @@
 10 Peugeot 402 Darl'mat Special Sport [332]
 =-=-=-=-=
 
-12 volkswagen beetle
-13 volvo 264 te
-13 fiat 127
-
-14 tvr grantura
-14 lincoln mark ii
-14 chrysler town and country
-
 14 chrysler town and country
 14 chrysler cordoba 360
 15 porsche 356 speedster
@@ -77,14 +69,6 @@
 =-=-=-=-=
 10 Nissan Skyline 2000 GT [323]
 =-=-=-=-=
-
-15 alfa romeo 2000 gtv
-16 volkswagen passat
-16 hyundai pony 1400
-
-16 chevrolet matiz
-16 chevrolet lumina apv
-16 chevrolet chevette
 
 16 buick estate wagon
 17 plymouth barracuda formula s
@@ -97,14 +81,6 @@
 =-=-=-=-=
 10 Mercury Comet [323]
 =-=-=-=-=
-
-17 citroen c3 xtr
-17 chevrolet monte carlo ss
-17 chevrolet corvette impala xp-101
-
-17 cadillac seville
-17 cadillac seville
-17 buick opel sports coupe
 
 17 alfa romeo spider veloce (s2)
 18 volvo 345 2.0
