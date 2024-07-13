@@ -2,10 +2,6 @@
 48 Mitsubishi Triton Ralliart AXCR [323]
 =-=-=-=-=
 
-38 mercedes-benz slk 200
-38 mercedes-benz slk 200
-38 mazdaspeed protege
-
 38 mazdaspeed protege
 38 mazdaspeed protege
 38 mazda mx-5 bbr turbo
@@ -31,7 +27,7 @@
 26 maserati indy
 
 =-=-=-=-=
-35 AC Cobra MkI 289 [332]
+31 AC Cobra MkI 289 [332]
 =-=-=-=-=
 
 26 lotus elan+2
