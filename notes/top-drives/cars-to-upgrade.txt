@@ -59,22 +59,6 @@
 26 hyundai veloster 1.6 gdi
 
 =-=-=-=-=
-10 Nissan Skyline 2000 GT [323]
-=-=-=-=-=
-
-17 nissan pulsar
-17 nissan president sovereign (h252)
-17 nissan micra
-
-=-=-=-=-=
-10 Mercury Comet [323]
-=-=-=-=-=
-
-18 renault espace
-18 holden torana gtr xu-1 (lc)
-18 ford b-max
-
-=-=-=-=-=
 59 Ford Focus RS [323]
 =-=-=-=-=
 
