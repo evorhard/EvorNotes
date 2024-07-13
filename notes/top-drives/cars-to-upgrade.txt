@@ -59,20 +59,8 @@
 26 hyundai veloster 1.6 gdi
 
 =-=-=-=-=
-10 Peugeot 402 Darl'mat Special Sport [332]
-=-=-=-=-=
-
-14 chrysler town and country
-14 chrysler cordoba 360
-15 porsche 356 speedster
-
-=-=-=-=-=
 10 Nissan Skyline 2000 GT [323]
 =-=-=-=-=
-
-16 buick estate wagon
-17 plymouth barracuda formula s
-17 oldsmobile cutlass
 
 17 nissan pulsar
 17 nissan president sovereign (h252)
@@ -81,10 +69,6 @@
 =-=-=-=-=
 10 Mercury Comet [323]
 =-=-=-=-=
-
-17 alfa romeo spider veloce (s2)
-18 volvo 345 2.0
-18 tvr tasmin 200 convertible
 
 18 renault espace
 18 holden torana gtr xu-1 (lc)
