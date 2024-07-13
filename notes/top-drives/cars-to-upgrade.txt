@@ -1,30 +1,6 @@
 =-=-=-=-=
-48 BMW 640d [323]
-=-=-=-=-=
-
-38 volkswagen golf
-38 skoda octavia hatchback 2.0 tdi
-38 skoda enyaq iv 80
-
-=-=-=-=-=
-39 Mazdaspeed MX-5 Miata [323]
-=-=-=-=-=
-
-26 nissan juke
-26 morgan plus 4
-26 mercury cougar
-
-=-=-=-=-=
 48 Mitsubishi Triton Ralliart AXCR [323]
 =-=-=-=-=
-
-38 opel manta 400 rally
-38 morgan plus 4 super sports baby doll vi
-38 mitsubishi lancer ralliart wagon
-
-38 mitsubishi l200
-38 mg montego turbo
-38 mercedes-benz slk 200
 
 38 mercedes-benz slk 200
 38 mercedes-benz slk 200
@@ -34,13 +10,13 @@
 38 mazdaspeed protege
 38 mazda mx-5 bbr turbo
 
+38 mazda mx-5
+38 maserati spyder
+38 lincoln navigator
+
 =-=-=-=-=
 35 Aston Martin DB4 GT Zagato [332]
 =-=-=-=-=
-
-26 mazda rx-7
-26 mazda hr-x2
-26 mazda hr-x2
 
 26 mazda cx-5
 26 mazda cosmo
@@ -54,9 +30,29 @@
 26 maserati indy
 26 maserati indy
 
-26 maserati indy
+=-=-=-=-=
+35 AC Cobra MkI 289 [332]
+=-=-=-=-=
+
 26 lotus elan+2
 26 hyundai veloster 1.6 gdi
+26 hyundai i30 tourer 1.0 t-gdi
+
+26 hyundai i30 tourer 1.0 t-gdi
+26 hyundai i30 tourer 1.0 t-gdi
+26 honda civic crx si
+
+26 fiat stilo 2.4 20v schumacher gp
+26 fiat stilo 2.4 20v schumacher gp
+26 citroen bx break de chasse dyana
+
+27 volvo 480 gt
+27 volvo 480 gt
+27 vauxhall frontera
+
+27 subaru rex combi 4wd turbo
+27 skoda octavia hatchback 1.9 tdi pd
+27 renault vel satis
 
 =-=-=-=-=
 59 Ford Focus RS [323]
