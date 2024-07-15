@@ -1,18 +1,6 @@
 =-=-=-=-=
-48 Mitsubishi Triton Ralliart AXCR [323]
-=-=-=-=-=
-
-38 mazda mx-5
-38 maserati spyder
-38 lincoln navigator
-
-=-=-=-=-=
 35 Aston Martin DB4 GT Zagato [332]
 =-=-=-=-=
-
-26 mazda 2
-26 mazda 2
-26 maserati kyalami
 
 26 maserati kyalami
 26 maserati indy
@@ -21,10 +9,6 @@
 =-=-=-=-=
 31 AC Cobra MkI 289 [332]
 =-=-=-=-=
-
-26 fiat stilo 2.4 20v schumacher gp
-26 fiat stilo 2.4 20v schumacher gp
-26 citroen bx break de chasse dyana
 
 27 volvo 480 gt
 27 volvo 480 gt
@@ -37,10 +21,6 @@
 =-=-=-=-=
 59 Ford Focus RS [323]
 =-=-=-=-=
-
-42 bmw 330i
-44 porsche 718 rsk
-44 bmw 520i
 
 46 nissan 350z roadster
 46 mitsubishi eclipse gsr-4
@@ -58,10 +38,6 @@
 49 Cadillac Escalade [332]
 =-=-=-=-=
 
-38 holden hsv manta (vs)
-38 ford taurus sho
-38 ford ranchero
-
 38 ford racing puma
 38 ford mondeo st200
 38 ford mondeo estate
@@ -78,10 +54,6 @@
 37 Citroen Visa Lotus [323]
 =-=-=-=-=
 
-27 nissan silvia
-27 nissan juke
-27 mitsubishi starion gsr-iii
-
 27 mercury marauder convertible
 27 mercury marauder convertible
 27 mercury cyclone cobra jet
@@ -95,24 +67,16 @@
 27 ford s-max
 
 =-=-=-=-=
-10 Lancia Flavia 2000 Coupe [323]
+39 Bentley Continental R [332]
 =-=-=-=-=
 
-14 honda accord 1.8
-15 dodge a100 custom sportsman wagon
-15 alfa romeo 2000 gtv
+28 volvo 440 turbo
+28 skoda fabia 1.0 tsi
+28 peugeot 605
 
-18 bristol zagato 406s
-19 volvo p1800
-19 volvo 760 2.4d estate
-
-19 volvo 1800es
-19 renault scenic
-19 pontiac 6000 ste awd
-
-19 oldsmobile vista cruiser
-19 nissan micra
-19 ford fiesta
+28 peugeot 406 coupe
+28 peugeot 406 coupe
+28 peugeot 405 mi16
 
 =-=-=-=-=
 52 Suzuki Kizashi 4x4 [323]
