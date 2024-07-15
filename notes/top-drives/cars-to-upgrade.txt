@@ -38,10 +38,6 @@
 49 Cadillac Escalade [332]
 =-=-=-=-=
 
-38 ford racing puma
-38 ford mondeo st200
-38 ford mondeo estate
-
 38 ford mondeo
 38 citroen sm rallye du maroc
 38 chevrolet k1500 blazer
