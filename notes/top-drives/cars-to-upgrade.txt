@@ -2,10 +2,6 @@
 48 Mitsubishi Triton Ralliart AXCR [323]
 =-=-=-=-=
 
-38 mazdaspeed protege
-38 mazdaspeed protege
-38 mazda mx-5 bbr turbo
-
 38 mazda mx-5
 38 maserati spyder
 38 lincoln navigator
@@ -13,10 +9,6 @@
 =-=-=-=-=
 35 Aston Martin DB4 GT Zagato [332]
 =-=-=-=-=
-
-26 mazda cx-5
-26 mazda cosmo
-26 mazda cosmo
 
 26 mazda 2
 26 mazda 2
@@ -29,14 +21,6 @@
 =-=-=-=-=
 31 AC Cobra MkI 289 [332]
 =-=-=-=-=
-
-26 lotus elan+2
-26 hyundai veloster 1.6 gdi
-26 hyundai i30 tourer 1.0 t-gdi
-
-26 hyundai i30 tourer 1.0 t-gdi
-26 hyundai i30 tourer 1.0 t-gdi
-26 honda civic crx si
 
 26 fiat stilo 2.4 20v schumacher gp
 26 fiat stilo 2.4 20v schumacher gp
@@ -53,6 +37,82 @@
 =-=-=-=-=
 59 Ford Focus RS [323]
 =-=-=-=-=
+
+42 bmw 330i
+44 porsche 718 rsk
+44 bmw 520i
+
+46 nissan 350z roadster
+46 mitsubishi eclipse gsr-4
+46 bmw 520d touring
+
+47 volvo v70 xc 2.5t awd
+47 citroen ds3 cabrio racing
+47 bmw z4 sDrive28i
+
+48 chevrolet silverado 2500 hd
+48 cadillac xlr roadster
+49 holden hsv maloo (vz)
+
+=-=-=-=-=
+49 Cadillac Escalade [332]
+=-=-=-=-=
+
+38 holden hsv manta (vs)
+38 ford taurus sho
+38 ford ranchero
+
+38 ford racing puma
+38 ford mondeo st200
+38 ford mondeo estate
+
+38 ford mondeo
+38 citroen sm rallye du maroc
+38 chevrolet k1500 blazer
+
+38 buick verano gs
+38 buick verano gs
+38 buick invicta
+
+=-=-=-=-=
+37 Citroen Visa Lotus [323]
+=-=-=-=-=
+
+27 nissan silvia
+27 nissan juke
+27 mitsubishi starion gsr-iii
+
+27 mercury marauder convertible
+27 mercury marauder convertible
+27 mercury cyclone cobra jet
+
+27 mercedes-benz a 200 cdi
+27 hyundai getz 1.6 sport
+27 gmc s-15 jimmy
+
+27 ford svt f-150 lightning
+27 ford sportka
+27 ford s-max
+
+=-=-=-=-=
+10 Lancia Flavia 2000 Coupe [323]
+=-=-=-=-=
+
+14 honda accord 1.8
+15 dodge a100 custom sportsman wagon
+15 alfa romeo 2000 gtv
+
+18 bristol zagato 406s
+19 volvo p1800
+19 volvo 760 2.4d estate
+
+19 volvo 1800es
+19 renault scenic
+19 pontiac 6000 ste awd
+
+19 oldsmobile vista cruiser
+19 nissan micra
+19 ford fiesta
 
 =-=-=-=-=
 52 Suzuki Kizashi 4x4 [323]
