@@ -1,18 +1,6 @@
 =-=-=-=-=
-35 Aston Martin DB4 GT Zagato [332]
-=-=-=-=-=
-
-26 maserati kyalami
-26 maserati indy
-26 maserati indy
-
-=-=-=-=-=
 31 AC Cobra MkI 289 [332]
 =-=-=-=-=
-
-27 volvo 480 gt
-27 volvo 480 gt
-27 vauxhall frontera
 
 27 subaru rex combi 4wd turbo
 27 skoda octavia hatchback 1.9 tdi pd
@@ -21,10 +9,6 @@
 =-=-=-=-=
 59 Ford Focus RS [323]
 =-=-=-=-=
-
-46 nissan 350z roadster
-46 mitsubishi eclipse gsr-4
-46 bmw 520d touring
 
 47 volvo v70 xc 2.5t awd
 47 citroen ds3 cabrio racing
@@ -38,10 +22,6 @@
 49 Cadillac Escalade [332]
 =-=-=-=-=
 
-38 ford mondeo
-38 citroen sm rallye du maroc
-38 chevrolet k1500 blazer
-
 38 buick verano gs
 38 buick verano gs
 38 buick invicta
@@ -50,10 +30,6 @@
 37 Citroen Visa Lotus [323]
 =-=-=-=-=
 
-27 mercury marauder convertible
-27 mercury marauder convertible
-27 mercury cyclone cobra jet
-
 27 mercedes-benz a 200 cdi
 27 hyundai getz 1.6 sport
 27 gmc s-15 jimmy
@@ -61,6 +37,74 @@
 27 ford svt f-150 lightning
 27 ford sportka
 27 ford s-max
+
+=-=-=-=-=
+46 Skoda 200 RS [323]
+=-=-=-=-=
+
+39 volvo c70 t5 2.3
+39 skoda octavia vrs hatchback 2.0t fsi
+39 porsche 928 s
+
+39 porsche 928 s
+39 nissan 200sx
+39 mitsubishi outlander 2.0 turbo diesel
+
+39 mitsubishi outlander 2.0 turbo diesel
+39 mitsubishi outlander 2.0 turbo diesel
+39 mitsubishi magna vr-x (tl)
+
+39 mini electric shadow edition
+39 mini electric shadow edition
+39 mazdaspeed mx-5 miata
+
+=-=-=-=-=
+32 Vauxhall Chevette HSR [323]
+=-=-=-=-=
+
+28 peugeot 405 mi6
+28 mitsubishi galant gti-16v
+28 mini one
+
+28 mini one
+28 mercury marauder
+28 mercury marauder
+
+28 mazda rx-7
+28 mazda cosmo
+28 mazda cosmo
+
+28 mazda cosmo
+28 land rover discovery 2
+28 land rover discovery 2
+
+28 hyundai tucson n line 1.6t mhev
+28 holden monaro gts 350 (ht)
+28 holden monaro cv6 (v2)
+
+=-=-=-=-=
+44 Alfa Romeo Carabo [323]
+=-=-=-=-=
+
+39 mazda 3 sport
+39 mazda 3 sport
+39 mazda 3 sport
+
+39 lotus seven twin-cam ss
+39 lotus seven twin-cam ss
+39 lotus elan se
+
+39 hyundai i30 1.5 t-gdi
+39 holden hsv clubsport (vs)
+39 gmc envoy
+
+39 ford focus st tdci estate
+39 ford focus st tdci estate
+39 ford falcon futura sprint
+
+=-=-=-=-=
+46 Jaguar D-Type [332]
+=-=-=-=-=
 
 =-=-=-=-=
 52 Suzuki Kizashi 4x4 [323]
