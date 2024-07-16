@@ -63,18 +63,6 @@
 27 ford s-max
 
 =-=-=-=-=
-39 Bentley Continental R [332]
-=-=-=-=-=
-
-28 volvo 440 turbo
-28 skoda fabia 1.0 tsi
-28 peugeot 605
-
-28 peugeot 406 coupe
-28 peugeot 406 coupe
-28 peugeot 405 mi16
-
-=-=-=-=-=
 52 Suzuki Kizashi 4x4 [323]
 =-=-=-=-=
 
