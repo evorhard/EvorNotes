@@ -1,26 +1,6 @@
 =-=-=-=-=
-59 Ford Focus RS [323]
-=-=-=-=-=
-
-48 chevrolet silverado 2500 hd
-48 cadillac xlr roadster
-49 holden hsv maloo (vz)
-
-=-=-=-=-=
-37 Citroen Visa Lotus [323]
-=-=-=-=-=
-
-27 ford svt f-150 lightning
-27 ford sportka
-27 ford s-max
-
-=-=-=-=-=
 46 Skoda 200 RS [323]
 =-=-=-=-=
-
-39 porsche 928 s
-39 nissan 200sx
-39 mitsubishi outlander 2.0 turbo diesel
 
 39 mitsubishi outlander 2.0 turbo diesel
 39 mitsubishi outlander 2.0 turbo diesel
@@ -34,10 +14,6 @@
 32 Vauxhall Chevette HSR [323]
 =-=-=-=-=
 
-28 mazda rx-7
-28 mazda cosmo
-28 mazda cosmo
-
 28 mazda cosmo
 28 land rover discovery 2
 28 land rover discovery 2
@@ -50,10 +26,6 @@
 44 Alfa Romeo Carabo [323]
 =-=-=-=-=
 
-39 lotus seven twin-cam ss
-39 lotus seven twin-cam ss
-39 lotus elan se
-
 39 hyundai i30 1.5 t-gdi
 39 holden hsv clubsport (vs)
 39 gmc envoy
@@ -63,8 +35,44 @@
 39 ford falcon futura sprint
 
 =-=-=-=-=
-46 Jaguar D-Type [332]
+36 Mitsubishi FTO GP Version R [323]
 =-=-=-=-=
+
+28 dodge challenger t/a
+28 dodge avenger
+28 de tomaso deauville
+
+28 de tomaso deauville
+28 citroen xm 2.0i turbo
+28 citroen c-airplay
+
+28 citroen c3 puretech 110
+28 chrysler lhs
+28 chrysler 300 hurst
+
+28 buick roadmaster sedan
+28 buick roadmaster sedan
+28 buick regal
+
+=-=-=-=-=
+49 Lotus Essex Turbo Esprit [323]
+=-=-=-=-=
+
+39 dodge demon roadster
+39 dodge demon roadster
+39 chrysler 200 convertible
+
+39 buick velite 6 ev
+39 bristol blenheim series 3
+39 bristol blenheim series 3
+
+39 bristol blenheim series 3
+39 bentley continental r
+39 bentley continental r
+
+39 alpine gta v6 turbo le mans
+39 ac brooklands ace
+30 vauxhall astra gte
 
 =-=-=-=-=
 52 Suzuki Kizashi 4x4 [323]
