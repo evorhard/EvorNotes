@@ -2,10 +2,6 @@
 46 Skoda 200 RS [323]
 =-=-=-=-=
 
-39 mitsubishi outlander 2.0 turbo diesel
-39 mitsubishi outlander 2.0 turbo diesel
-39 mitsubishi magna vr-x (tl)
-
 39 mini electric shadow edition
 39 mini electric shadow edition
 39 mazdaspeed mx-5 miata
@@ -13,10 +9,6 @@
 =-=-=-=-=
 32 Vauxhall Chevette HSR [323]
 =-=-=-=-=
-
-28 mazda cosmo
-28 land rover discovery 2
-28 land rover discovery 2
 
 28 hyundai tucson n line 1.6t mhev
 28 holden monaro gts 350 (ht)
@@ -26,10 +18,6 @@
 44 Alfa Romeo Carabo [323]
 =-=-=-=-=
 
-39 hyundai i30 1.5 t-gdi
-39 holden hsv clubsport (vs)
-39 gmc envoy
-
 39 ford focus st tdci estate
 39 ford focus st tdci estate
 39 ford falcon futura sprint
@@ -37,10 +25,6 @@
 =-=-=-=-=
 36 Mitsubishi FTO GP Version R [323]
 =-=-=-=-=
-
-28 dodge challenger t/a
-28 dodge avenger
-28 de tomaso deauville
 
 28 de tomaso deauville
 28 citroen xm 2.0i turbo
@@ -58,10 +42,6 @@
 49 Lotus Essex Turbo Esprit [323]
 =-=-=-=-=
 
-39 dodge demon roadster
-39 dodge demon roadster
-39 chrysler 200 convertible
-
 39 buick velite 6 ev
 39 bristol blenheim series 3
 39 bristol blenheim series 3
@@ -73,6 +53,30 @@
 39 alpine gta v6 turbo le mans
 39 ac brooklands ace
 30 vauxhall astra gte
+
+=-=-=-=-=
+43 Audi 90 quattro 2.2 (B2) [323]
+=-=-=-=-=
+
+30 porsche 944
+30 mazda 2 1.5 sport
+30 lamborghini urraco p300
+
+30 lamborghini urraco p250
+30 fiat pandakar
+30 fiat pandakar
+
+30 fiat pandakar
+30 citroen sax vts 16v
+30 chrysler valiant charger 770 se (vh)
+
+31 volvo 960 3.0
+31 vauxhall adam rocks s
+31 peugeot 407 coupe
+
+=-=-=-=-=
+61 Mini Countryman Cooper SD ALL4 [323]
+=-=-=-=-=
 
 =-=-=-=-=
 52 Suzuki Kizashi 4x4 [323]
