@@ -75,6 +75,30 @@
 31 peugeot 407 coupe
 
 =-=-=-=-=
+47 Lotus Esprit Turbo [323]
+=-=-=-=-=
+
+31 nissan pulsar
+31 honda civic
+31 honda capa 4wd
+
+31 holden torana sl/r 5000 a9x (lx)
+31 holden torana sl/r 5000 a9x (lx)
+31 ford taurus sho
+
+31 dodge intrepid es 3.5l v6
+31 cadillac deville touring sedan
+31 bristol blenheim series 2
+
+31 aston martin v8 volante
+32 subaru impreza casa blanca
+32 renault 5 gt turbo
+
+32 plymouth barracuda 383
+32 oldsmobile bravada
+32 oldsmobile bravada
+
+=-=-=-=-=
 61 Mini Countryman Cooper SD ALL4 [323]
 =-=-=-=-=
 
