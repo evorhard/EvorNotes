@@ -42,10 +42,6 @@
 47 Lotus Esprit Turbo [323]
 =-=-=-=-=
 
-31 holden torana sl/r 5000 a9x (lx)
-31 holden torana sl/r 5000 a9x (lx)
-31 ford taurus sho
-
 31 dodge intrepid es 3.5l v6
 31 cadillac deville touring sedan
 31 bristol blenheim series 2
@@ -62,10 +58,6 @@
 10 Fiat 8V [332]
 =-=-=-=-=
 
-12 volkswagen transporter
-13 peugeot 203
-13 ford fiesta
-
 13 citroen xsara picasso
 13 chrysler town and country
 14 lancia y10
@@ -77,10 +69,6 @@
 =-=-=-=-=
 10 Citroen 2CV Sahara 4x4 [323]
 =-=-=-=-=
-
-16 renault clio
-16 renault 17 giordini
-16 chrysler by chrysler (ch)
 
 17 suzuki wagon r
 17 nissan micra
