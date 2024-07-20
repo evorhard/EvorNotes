@@ -1,34 +1,6 @@
 =-=-=-=-=
-46 Skoda 200 RS [323]
-=-=-=-=-=
-
-39 mini electric shadow edition
-39 mini electric shadow edition
-39 mazdaspeed mx-5 miata
-
-=-=-=-=-=
-32 Vauxhall Chevette HSR [323]
-=-=-=-=-=
-
-28 hyundai tucson n line 1.6t mhev
-28 holden monaro gts 350 (ht)
-28 holden monaro cv6 (v2)
-
-=-=-=-=-=
-44 Alfa Romeo Carabo [323]
-=-=-=-=-=
-
-39 ford focus st tdci estate
-39 ford focus st tdci estate
-39 ford falcon futura sprint
-
-=-=-=-=-=
 36 Mitsubishi FTO GP Version R [323]
 =-=-=-=-=
-
-28 de tomaso deauville
-28 citroen xm 2.0i turbo
-28 citroen c-airplay
 
 28 citroen c3 puretech 110
 28 chrysler lhs
@@ -42,10 +14,6 @@
 49 Lotus Essex Turbo Esprit [323]
 =-=-=-=-=
 
-39 buick velite 6 ev
-39 bristol blenheim series 3
-39 bristol blenheim series 3
-
 39 bristol blenheim series 3
 39 bentley continental r
 39 bentley continental r
@@ -57,10 +25,6 @@
 =-=-=-=-=
 43 Audi 90 quattro 2.2 (B2) [323]
 =-=-=-=-=
-
-30 porsche 944
-30 mazda 2 1.5 sport
-30 lamborghini urraco p300
 
 30 lamborghini urraco p250
 30 fiat pandakar
@@ -78,10 +42,6 @@
 47 Lotus Esprit Turbo [323]
 =-=-=-=-=
 
-31 nissan pulsar
-31 honda civic
-31 honda capa 4wd
-
 31 holden torana sl/r 5000 a9x (lx)
 31 holden torana sl/r 5000 a9x (lx)
 31 ford taurus sho
@@ -97,6 +57,46 @@
 32 plymouth barracuda 383
 32 oldsmobile bravada
 32 oldsmobile bravada
+
+=-=-=-=-=
+10 Fiat 8V [332]
+=-=-=-=-=
+
+10 bristol 403
+10 alfa romeo spider (s3)
+10 alfa romeo matta
+
+12 volkswagen transporter
+13 peugeot 203
+13 ford fiesta
+
+13 citroen xsara picasso
+13 chrysler town and country
+14 lancia y10
+
+14 ford escort
+14 chrysler turbine car
+14 buick wildcat iii
+
+=-=-=-=-=
+10 Citroen 2CV Sahara 4x4 [323]
+=-=-=-=-=
+
+15 chevrolet el camino
+15 cadillac cimarron
+15 alfa romeo junior z
+
+16 renault clio
+16 renault 17 giordini
+16 chrysler by chrysler (ch)
+
+17 suzuki wagon r
+17 nissan micra
+17 honda s800
+
+17 fiat autobianchi a112 abarth
+17 dodge 1500 gt 90
+17 cadillac deville
 
 =-=-=-=-=
 61 Mini Countryman Cooper SD ALL4 [323]
