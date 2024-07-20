@@ -62,10 +62,6 @@
 10 Fiat 8V [332]
 =-=-=-=-=
 
-10 bristol 403
-10 alfa romeo spider (s3)
-10 alfa romeo matta
-
 12 volkswagen transporter
 13 peugeot 203
 13 ford fiesta
@@ -82,10 +78,6 @@
 10 Citroen 2CV Sahara 4x4 [323]
 =-=-=-=-=
 
-15 chevrolet el camino
-15 cadillac cimarron
-15 alfa romeo junior z
-
 16 renault clio
 16 renault 17 giordini
 16 chrysler by chrysler (ch)
@@ -97,6 +89,18 @@
 17 fiat autobianchi a112 abarth
 17 dodge 1500 gt 90
 17 cadillac deville
+
+=-=-=-=-=
+23 Vauxhall Firenza 2000 SL Coupe [323]
+=-=-=-=-=
+
+=-=-=-=-=
+29 Ford Focus 1.0 [323]
+=-=-=-=-=
+
+=-=-=-=-=
+20 Ginetta G26 [323]
+=-=-=-=-=
 
 =-=-=-=-=
 61 Mini Countryman Cooper SD ALL4 [323]
