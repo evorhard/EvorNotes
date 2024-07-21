@@ -2,10 +2,6 @@
 36 Mitsubishi FTO GP Version R [323]
 =-=-=-=-=
 
-28 citroen c3 puretech 110
-28 chrysler lhs
-28 chrysler 300 hurst
-
 28 buick roadmaster sedan
 28 buick roadmaster sedan
 28 buick regal
@@ -14,10 +10,6 @@
 49 Lotus Essex Turbo Esprit [323]
 =-=-=-=-=
 
-39 bristol blenheim series 3
-39 bentley continental r
-39 bentley continental r
-
 39 alpine gta v6 turbo le mans
 39 ac brooklands ace
 30 vauxhall astra gte
@@ -25,10 +17,6 @@
 =-=-=-=-=
 43 Audi 90 quattro 2.2 (B2) [323]
 =-=-=-=-=
-
-30 lamborghini urraco p250
-30 fiat pandakar
-30 fiat pandakar
 
 30 fiat pandakar
 30 citroen sax vts 16v
@@ -42,10 +30,6 @@
 47 Lotus Esprit Turbo [323]
 =-=-=-=-=
 
-31 dodge intrepid es 3.5l v6
-31 cadillac deville touring sedan
-31 bristol blenheim series 2
-
 31 aston martin v8 volante
 32 subaru impreza casa blanca
 32 renault 5 gt turbo
@@ -53,30 +37,6 @@
 32 plymouth barracuda 383
 32 oldsmobile bravada
 32 oldsmobile bravada
-
-=-=-=-=-=
-23 Vauxhall Firenza 2000 SL Coupe [323]
-=-=-=-=-=
-
-29 volvo 460 turbo
-29 volkswagen passat
-29 volkswagen golf gti g60
-
-=-=-=-=-=
-29 Ford Focus 1.0 [323]
-=-=-=-=-=
-
-29 mitsubishi tredia 1600 turbo
-29 mitsubishi galant amg
-29 mitsubishi galant 2000 turbo eci
-
-=-=-=-=-=
-20 Ginetta G26 [323]
-=-=-=-=-=
-
-29 honda cr-x 1.6i-17
-29 holden barina sri (xc)
-29 ford mustang boss 351
 
 =-=-=-=-=
 61 Mini Countryman Cooper SD ALL4 [323]
