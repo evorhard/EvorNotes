@@ -55,44 +55,8 @@
 32 oldsmobile bravada
 
 =-=-=-=-=
-10 Fiat 8V [332]
-=-=-=-=-=
-
-13 citroen xsara picasso
-13 chrysler town and country
-14 lancia y10
-
-14 ford escort
-14 chrysler turbine car
-14 buick wildcat iii
-
-=-=-=-=-=
-10 Citroen 2CV Sahara 4x4 [323]
-=-=-=-=-=
-
-17 suzuki wagon r
-17 nissan micra
-17 honda s800
-
-17 fiat autobianchi a112 abarth
-17 dodge 1500 gt 90
-17 cadillac deville
-
-=-=-=-=-=
 23 Vauxhall Firenza 2000 SL Coupe [323]
 =-=-=-=-=
-
-28 bristol britannia
-28 bmw 635csi
-28 bmw 116d
-
-28 alfa romeo alfetta gtv
-28 alfa romeo alfetta gtv
-28 alfa romeo 155
-
-29 volvo 940 saloon
-29 volvo 480 turbo
-29 volvo 460 turbo
 
 29 volvo 460 turbo
 29 volkswagen passat
@@ -102,18 +66,6 @@
 29 Ford Focus 1.0 [323]
 =-=-=-=-=
 
-29 ram promaster city cargo
-29 ram promaster city cargo
-29 pontiac sunfire
-
-29 peugeot 106 rallye (s2)
-29 nissan pulsar
-29 nissan pulsar
-
-29 nissan leaf nismo (ze1)
-29 nissan leaf nismo (ze1)
-29 nissan leaf nismo (ze1)
-
 29 mitsubishi tredia 1600 turbo
 29 mitsubishi galant amg
 29 mitsubishi galant 2000 turbo eci
@@ -121,18 +73,6 @@
 =-=-=-=-=
 20 Ginetta G26 [323]
 =-=-=-=-=
-
-29 maserati mistral
-29 lotus europa 47 twin cam
-29 lotus europa 47 twin cam
-
-29 lotus europa 47 twin cam
-29 hyundai nexo
-29 hyundai i10 1.0 t-gdi n line
-
-29 hyundai i10 1.0 t-gdi n line
-29 hyundai i10 1.0 t-gdi n line
-29 honda cr-x 1.6i-17
 
 29 honda cr-x 1.6i-17
 29 holden barina sri (xc)
