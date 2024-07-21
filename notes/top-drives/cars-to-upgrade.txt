@@ -1,20 +1,4 @@
 =-=-=-=-=
-36 Mitsubishi FTO GP Version R [323]
-=-=-=-=-=
-
-28 buick roadmaster sedan
-28 buick roadmaster sedan
-28 buick regal
-
-=-=-=-=-=
-49 Lotus Essex Turbo Esprit [323]
-=-=-=-=-=
-
-39 alpine gta v6 turbo le mans
-39 ac brooklands ace
-30 vauxhall astra gte
-
-=-=-=-=-=
 43 Audi 90 quattro 2.2 (B2) [323]
 =-=-=-=-=
 
@@ -29,10 +13,6 @@
 =-=-=-=-=
 47 Lotus Esprit Turbo [323]
 =-=-=-=-=
-
-31 aston martin v8 volante
-32 subaru impreza casa blanca
-32 renault 5 gt turbo
 
 32 plymouth barracuda 383
 32 oldsmobile bravada
