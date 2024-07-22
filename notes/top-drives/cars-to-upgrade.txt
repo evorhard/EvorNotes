@@ -1,4 +1,8 @@
 =-=-=-=-=
+78 Rezvani Beast Alpha X [111]
+=-=-=-=-=
+
+=-=-=-=-=
 43 Audi 90 quattro 2.2 (B2) [323]
 =-=-=-=-=
 
@@ -17,6 +21,18 @@
 32 plymouth barracuda 383
 32 oldsmobile bravada
 32 oldsmobile bravada
+
+=-=-=-=-=
+31 Mazda MPV Mazdaspeed Package [323]
+=-=-=-=-=
+
+=-=-=-=-=
+31 Ford E-Transit [332]
+=-=-=-=-=
+
+=-=-=-=-=
+32 Suzuki Vitara [323]
+=-=-=-=-=
 
 =-=-=-=-=
 61 Mini Countryman Cooper SD ALL4 [323]
