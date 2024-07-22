@@ -1,14 +1,6 @@
 =-=-=-=-=
-78 Rezvani Beast Alpha X [111]
-=-=-=-=-=
-
-=-=-=-=-=
 43 Audi 90 quattro 2.2 (B2) [323]
 =-=-=-=-=
-
-30 fiat pandakar
-30 citroen sax vts 16v
-30 chrysler valiant charger 770 se (vh)
 
 31 volvo 960 3.0
 31 vauxhall adam rocks s
@@ -18,21 +10,69 @@
 47 Lotus Esprit Turbo [323]
 =-=-=-=-=
 
-32 plymouth barracuda 383
-32 oldsmobile bravada
-32 oldsmobile bravada
+31 hyundai tiburon gt v6
+31 ford escort rs2000 4wd
+32 mazda mx-6 2.5 v6
 
 =-=-=-=-=
 31 Mazda MPV Mazdaspeed Package [323]
 =-=-=-=-=
 
+20 suzuki liana
+20 suzuki celerio
+20 skoda citigo 1.0 mpi se l
+
+20 rover 200
+20 renault clio
+20 mercedes-benz v 250d
+
+20 mercedes-benz 300 sl
+20 honda vamos 4wd turbo
+20 gmc safari
+
+20 gmc safari
+20 gmc safari
+20 ford airstream
+
 =-=-=-=-=
 31 Ford E-Transit [332]
 =-=-=-=-=
 
+20 citroen cactus airflow 2l
+20 chrysler new yorker
+20 chrysler new yorker
+
+20 chrysler fifth avenue
+20 chevrolet xp-897 gt
+20 chevrolet prizm (e110)
+
+20 buick somerset t-type
+20 buick riviera coupe
+20 buick riviera coupe
+
+20 buick riviera coupe
+20 buick riviera coupe
+20 buick park avenue essence
+
 =-=-=-=-=
 32 Suzuki Vitara [323]
 =-=-=-=-=
+
+20 bristol 410
+20 bristol 410
+20 alfa romeo 2000 sportiva
+
+21 volkswagen golf gti
+21 suzuki ertiga (nc)
+21 suzuki alto works
+
+21 renault 21 savanna
+21 oldsmobile jetstar 1
+21 mitsubishi mirage
+
+21 mitsubishi mirage
+21 mitsubishi i-miev
+21 mitsubishi i-miev
 
 =-=-=-=-=
 61 Mini Countryman Cooper SD ALL4 [323]
