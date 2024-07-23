@@ -1,30 +1,6 @@
 =-=-=-=-=
-43 Audi 90 quattro 2.2 (B2) [323]
-=-=-=-=-=
-
-31 volvo 960 3.0
-31 vauxhall adam rocks s
-31 peugeot 407 coupe
-
-=-=-=-=-=
-47 Lotus Esprit Turbo [323]
-=-=-=-=-=
-
-31 hyundai tiburon gt v6
-31 ford escort rs2000 4wd
-32 mazda mx-6 2.5 v6
-
-=-=-=-=-=
 31 Mazda MPV Mazdaspeed Package [323]
 =-=-=-=-=
-
-20 suzuki liana
-20 suzuki celerio
-20 skoda citigo 1.0 mpi se l
-
-20 rover 200
-20 renault clio
-20 mercedes-benz v 250d
 
 20 mercedes-benz 300 sl
 20 honda vamos 4wd turbo
@@ -37,10 +13,6 @@
 =-=-=-=-=
 31 Ford E-Transit [332]
 =-=-=-=-=
-
-20 citroen cactus airflow 2l
-20 chrysler new yorker
-20 chrysler new yorker
 
 20 chrysler fifth avenue
 20 chevrolet xp-897 gt
@@ -58,10 +30,6 @@
 32 Suzuki Vitara [323]
 =-=-=-=-=
 
-20 bristol 410
-20 bristol 410
-20 alfa romeo 2000 sportiva
-
 21 volkswagen golf gti
 21 suzuki ertiga (nc)
 21 suzuki alto works
@@ -73,6 +41,46 @@
 21 mitsubishi mirage
 21 mitsubishi i-miev
 21 mitsubishi i-miev
+
+=-=-=-=-=
+16 Ford Transit 2.2 TDCi [323]
+=-=-=-=-=
+
+13 fiat 500
+13 citroen gs birotor
+13 chrysler drifter van (cl)
+
+14 volvo 262c solaire
+14 fiat 128
+15 lincoln mark iii
+
+16 suzuki cappucino (ea11r)
+16 peugeot 404 coupe
+16 chevrolet matiz
+
+17 lancia flaminia gt
+17 ford mustang ii king cobra
+17 ford mustang ii king cobra
+
+=-=-=-=-=
+38 Mazda Protege [323]
+=-=-=-=-=
+
+=-=-=-=-=
+49 Mitsubishi Galant VR-4 Type S [323]
+=-=-=-=-=
+
+=-=-=-=-=
+44 Porsche Panamera Diesel 3.0 (970) [323]
+=-=-=-=-=
+
+=-=-=-=-=
+45 Holden Commodore SV6 (VF) [323]
+=-=-=-=-=
+
+=-=-=-=-=
+42 Mitsubishi Galant VR-4 [323]
+=-=-=-=-=
 
 =-=-=-=-=
 61 Mini Countryman Cooper SD ALL4 [323]
