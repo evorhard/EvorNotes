@@ -2,10 +2,6 @@
 31 Mazda MPV Mazdaspeed Package [323]
 =-=-=-=-=
 
-20 mercedes-benz 300 sl
-20 honda vamos 4wd turbo
-20 gmc safari
-
 20 gmc safari
 20 gmc safari
 20 ford airstream
@@ -45,10 +41,6 @@
 =-=-=-=-=
 16 Ford Transit 2.2 TDCi [323]
 =-=-=-=-=
-
-13 fiat 500
-13 citroen gs birotor
-13 chrysler drifter van (cl)
 
 14 volvo 262c solaire
 14 fiat 128
