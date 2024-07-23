@@ -42,10 +42,6 @@
 16 Ford Transit 2.2 TDCi [323]
 =-=-=-=-=
 
-14 volvo 262c solaire
-14 fiat 128
-15 lincoln mark iii
-
 16 suzuki cappucino (ea11r)
 16 peugeot 404 coupe
 16 chevrolet matiz
