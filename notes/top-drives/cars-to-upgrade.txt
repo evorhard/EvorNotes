@@ -42,10 +42,6 @@
 16 Ford Transit 2.2 TDCi [323]
 =-=-=-=-=
 
-16 suzuki cappucino (ea11r)
-16 peugeot 404 coupe
-16 chevrolet matiz
-
 17 lancia flaminia gt
 17 ford mustang ii king cobra
 17 ford mustang ii king cobra
