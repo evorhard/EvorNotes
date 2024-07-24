@@ -62,10 +62,6 @@
 20 Vauxhall Nova GTE [323]
 =-=-=-=-=
 
-22 lancia dedra
-22 lancia dedra
-22 ford fiesta zetec S
-
 22 ford fiesta zetec s
 22 ford fiesta xr2i
 22 fiat x1/9
@@ -77,10 +73,6 @@
 =-=-=-=-=
 22 Opel Manta GTE [323]
 =-=-=-=-=
-
-22 chevrolet cruze lt
-22 alfa romeo mito
-22 alfa romeo mito
 
 23 volvo 360 glt saloon
 23 volkswagen golf gti
