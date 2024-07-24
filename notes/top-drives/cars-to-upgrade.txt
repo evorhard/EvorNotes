@@ -62,10 +62,6 @@
 20 Vauxhall Nova GTE [323]
 =-=-=-=-=
 
-22 ford fiesta zetec s
-22 ford fiesta xr2i
-22 fiat x1/9
-
 22 fiat tipo 2.0 sedicivalvole
 22 citroen ds 5
 22 citreon c3l
@@ -73,10 +69,6 @@
 =-=-=-=-=
 22 Opel Manta GTE [323]
 =-=-=-=-=
-
-23 volvo 360 glt saloon
-23 volkswagen golf gti
-23 vauxhall cavalier sri
 
 23 suzuki forenza
 23 suzuki forenza
