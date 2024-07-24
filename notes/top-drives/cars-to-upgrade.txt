@@ -1,18 +1,6 @@
 =-=-=-=-=
-31 Mazda MPV Mazdaspeed Package [323]
-=-=-=-=-=
-
-20 gmc safari
-20 gmc safari
-20 ford airstream
-
-=-=-=-=-=
 31 Ford E-Transit [332]
 =-=-=-=-=
-
-20 chrysler fifth avenue
-20 chevrolet xp-897 gt
-20 chevrolet prizm (e110)
 
 20 buick somerset t-type
 20 buick riviera coupe
@@ -26,17 +14,81 @@
 32 Suzuki Vitara [323]
 =-=-=-=-=
 
-21 volkswagen golf gti
-21 suzuki ertiga (nc)
-21 suzuki alto works
-
-21 renault 21 savanna
-21 oldsmobile jetstar 1
-21 mitsubishi mirage
-
 21 mitsubishi mirage
 21 mitsubishi i-miev
 21 mitsubishi i-miev
+
+=-=-=-=-=
+32 Aston Martin Virage Volante [332]
+=-=-=-=-=
+
+21 honda insight
+21 holden monaro gts 350 (hq)
+21 ford ltd
+
+21 ford fiesta
+21 fiat abarth 850 tc corsa
+21 citroen sm 2.7 injection
+
+21 citroen ds23 pallas injection
+21 citroen ds23 pallas injection
+21 citroen c3 picasso bluehdi 100
+
+21 chevrolet lacetti
+21 buick riviera
+21 audi 80 1.8 s (b3)
+
+=-=-=-=-=
+30 Lotus Elite [323]
+=-=-=-=-=
+
+21 aston martin db5
+21 aston martin db5
+22 volkswagen passat
+
+22 volkswagen passat
+22 volkswagen golf gti
+22 opel admiral v8
+
+22 nissan violet 1600 sss-e
+22 nissan exa turbo (n12)
+22 nissan exa turbo (n12)
+
+22 nissan almera
+22 mitsubishi debonair v3000 royal amg
+21 mitsubishi colt
+
+=-=-=-=-=
+20 Vauxhall Nova GTE [323]
+=-=-=-=-=
+
+22 lancia dedra
+22 lancia dedra
+22 ford fiesta zetec S
+
+22 ford fiesta zetec s
+22 ford fiesta xr2i
+22 fiat x1/9
+
+22 fiat tipo 2.0 sedicivalvole
+22 citroen ds 5
+22 citreon c3l
+
+=-=-=-=-=
+22 Opel Manta GTE [323]
+=-=-=-=-=
+
+22 chevrolet cruze lt
+22 alfa romeo mito
+22 alfa romeo mito
+
+23 volvo 360 glt saloon
+23 volkswagen golf gti
+23 vauxhall cavalier sri
+
+23 suzuki forenza
+23 suzuki forenza
+23 skoda atero
 
 =-=-=-=-=
 38 Mazda Protege [323]
