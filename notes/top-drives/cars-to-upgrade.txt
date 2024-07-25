@@ -56,23 +56,179 @@
 
 22 nissan almera
 22 mitsubishi debonair v3000 royal amg
-21 mitsubishi colt
+22 mitsubishi colt
 
 =-=-=-=-=
-20 Vauxhall Nova GTE [323]
+18 MG Midget [323]
 =-=-=-=-=
 
-22 fiat tipo 2.0 sedicivalvole
-22 citroen ds 5
-22 citreon c3l
+10 skoda popular 1100 ohv
+10 ford exp
+15 lincoln versailles
+
+15 holden mnaro ls (hj)
+16 audi 100 avant (c2)
+17 ford mustang ii
+
+17 dodge 1500 gt 90
+17 amc concord 304
+18 volvo 740 2.4 estate
+
+18 renault twingo
+18 renault espace
+18 nissan 260z
+
+18 morgan ev3
+18 mg midget
+18 ford b-max
 
 =-=-=-=-=
-22 Opel Manta GTE [323]
+21 Chevrolet Lacetti [323]
 =-=-=-=-=
 
-23 suzuki forenza
-23 suzuki forenza
-23 skoda atero
+22 geo storm
+22 citroen bx gt
+22 chrysler sebring
+
+23 peugeot 504 coupe
+23 oldsmobile starfire coupe
+23 nissan sunny turbo leprix (b11)
+
+23 nissan silvia j's (s13)
+23 nissan silvia j's (s13)
+23 nissan primera
+
+23 mercury cougar eliminator
+23 mercury comet cyclone
+23 mazdaspeed demio a-spec
+
+23 mazdaspeed demio a-spec
+23 mazda kabura
+23 mazda kabura
+
+=-=-=-=-=
+23 Ford Escort Mexico [323]
+=-=-=-=-=
+
+23 mazda kabura
+23 maserati quattroporte
+23 hummer h1 hard-top
+
+23 honda prelude 2.0l
+23 honda prelude 2.0l
+23 ford focus
+
+23 ford f-100 302ci
+23 ford escort mexico
+23 ford escort mexico
+
+23 ford cortina crusader
+23 fiat 500 coupe
+23 dodge daytona turbo z
+
+23 dodge caravan turbo
+23 dodge caravan turbo
+23 chevrolet el camino
+
+=-=-=-=-=
+21 Ford Escort XR3i [323]
+=-=-=-=-=
+
+23 chevrolet el camino
+23 chevrolet blazer s-10
+23 buick gl8 century
+
+23 bristol 603s
+23 bristol 603s
+23 bristol 603s
+
+23 audi coupe gt 5e (b2)
+24 volkswagen sharan
+24 rover p6
+
+24 renault laguna
+24 plymouth barracuda fastback
+24 mg mgc gt
+
+24 mg mgc gt
+24 mercedes-benz 280 sl
+24 mazda demio 1.5
+
+=-=-=-=-=
+31 Land Rover Suffix A [323]
+=-=-=-=-=
+
+24 jaguar mark 2 touring car
+24 jaguar mark 2
+24 hyundai scoupe 1.5i turbo
+
+24 honda fr-v 2.2 i-ctdi
+24 gmc savana
+24 ginetta g30
+
+24 ford fiesta
+24 ford fiesta
+24 fiat 500
+
+24 dodge regal lancer super d-500
+24 dodge d-100
+24 citroen e-c4 x
+
+24 chrysler lebaron gtc turbo convertible
+24 chevrolet bel air
+24 cadillac fleetwood eldorado
+
+=-=-=-=-=
+34 Rover SD1 [323]
+=-=-=-=-=
+
+24 buick questor
+24 alfa romeo disco volante (c52)
+25 volvo 242 gt
+
+25 volkswagen touran
+25 volkswagen corrado
+25 volkswagen corrado
+
+25 volkswagen corrado
+25 smart fortwo coupe t
+25 mazda rx-7 convertible
+
+25 mazda rx-7 convertible
+25 lancia beta montecarlo
+25 ford falcon 'bathurst' cobra
+
+25 ford capri 2.8 injection
+25 citroen c-quattre vts
+25 chevrolet camaro berlinetta
+
+=-=-=-=-=
+31 Ford Escort RS2000 4WD [323]
+=-=-=-=-=
+
+26 vauxhall senator
+26 vauxhall senator
+26 vauxhall senator
+
+26 skoda fabia estate 1.4 tdi
+26 saturn lw
+26 mazda rx-7
+
+26 mazda 2
+26 maserati indy
+26 maserati indy
+
+26 jaguar xj6
+26 ford thunderbird turbo coupe
+26 ford mustang mach 1
+
+26 dodge grand caravan r/t
+26 citreon cx gti turbo
+26 citreon cx gti turbo
+
+=-=-=-=-=
+59 Citroen DS3 R3T [323]
+=-=-=-=-=
 
 =-=-=-=-=
 38 Mazda Protege [323]
@@ -92,20 +248,4 @@
 
 =-=-=-=-=
 42 Mitsubishi Galant VR-4 [323]
-=-=-=-=-=
-
-=-=-=-=-=
-61 Mini Countryman Cooper SD ALL4 [323]
-=-=-=-=-=
-
-=-=-=-=-=
-52 Suzuki Kizashi 4x4 [323]
-=-=-=-=-=
-
-=-=-=-=-=
-54 Nissan 370Z Nismo [233]
-=-=-=-=-=
-
-=-=-=-=-=
-63 Nissan Cima VIP (Y51) [323]
 =-=-=-=-=
