@@ -38,10 +38,6 @@
 30 Lotus Elite [323]
 =-=-=-=-=
 
-22 volkswagen passat
-22 volkswagen golf gti
-22 opel admiral v8
-
 22 nissan violet 1600 sss-e
 22 nissan exa turbo (n12)
 22 nissan exa turbo (n12)
@@ -53,10 +49,6 @@
 =-=-=-=-=
 18 MG Midget [323]
 =-=-=-=-=
-
-15 holden mnaro ls (hj)
-16 audi 100 avant (c2)
-17 ford mustang ii
 
 17 dodge 1500 gt 90
 17 amc concord 304
@@ -74,10 +66,6 @@
 21 Chevrolet Lacetti [323]
 =-=-=-=-=
 
-23 peugeot 504 coupe
-23 oldsmobile starfire coupe
-23 nissan sunny turbo leprix (b11)
-
 23 nissan silvia j's (s13)
 23 nissan silvia j's (s13)
 23 nissan primera
@@ -93,10 +81,6 @@
 =-=-=-=-=
 23 Ford Escort Mexico [323]
 =-=-=-=-=
-
-23 honda prelude 2.0l
-23 honda prelude 2.0l
-23 ford focus
 
 23 ford f-100 302ci
 23 ford escort mexico
@@ -114,10 +98,6 @@
 21 Ford Escort XR3i [323]
 =-=-=-=-=
 
-23 bristol 603s
-23 bristol 603s
-23 bristol 603s
-
 23 audi coupe gt 5e (b2)
 24 volkswagen sharan
 24 rover p6
@@ -133,10 +113,6 @@
 =-=-=-=-=
 31 Land Rover Suffix A [323]
 =-=-=-=-=
-
-24 honda fr-v 2.2 i-ctdi
-24 gmc savana
-24 ginetta g30
 
 24 ford fiesta
 24 ford fiesta
@@ -154,10 +130,6 @@
 34 Rover SD1 [323]
 =-=-=-=-=
 
-25 volkswagen touran
-25 volkswagen corrado
-25 volkswagen corrado
-
 25 volkswagen corrado
 25 smart fortwo coupe t
 25 mazda rx-7 convertible
@@ -173,10 +145,6 @@
 =-=-=-=-=
 31 Ford Escort RS2000 4WD [323]
 =-=-=-=-=
-
-26 skoda fabia estate 1.4 tdi
-26 saturn lw
-26 mazda rx-7
 
 26 mazda 2
 26 maserati indy
