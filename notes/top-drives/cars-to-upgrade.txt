@@ -22,10 +22,6 @@
 32 Aston Martin Virage Volante [332]
 =-=-=-=-=
 
-21 ford fiesta
-21 fiat abarth 850 tc corsa
-21 citroen sm 2.7 injection
-
 21 citroen ds23 pallas injection
 21 citroen ds23 pallas injection
 21 citroen c3 picasso bluehdi 100
@@ -38,10 +34,6 @@
 30 Lotus Elite [323]
 =-=-=-=-=
 
-22 nissan violet 1600 sss-e
-22 nissan exa turbo (n12)
-22 nissan exa turbo (n12)
-
 22 nissan almera
 22 mitsubishi debonair v3000 royal amg
 22 mitsubishi colt
@@ -49,10 +41,6 @@
 =-=-=-=-=
 18 MG Midget [323]
 =-=-=-=-=
-
-17 dodge 1500 gt 90
-17 amc concord 304
-18 volvo 740 2.4 estate
 
 18 renault twingo
 18 renault espace
@@ -66,10 +54,6 @@
 21 Chevrolet Lacetti [323]
 =-=-=-=-=
 
-23 nissan silvia j's (s13)
-23 nissan silvia j's (s13)
-23 nissan primera
-
 23 mercury cougar eliminator
 23 mercury comet cyclone
 23 mazdaspeed demio a-spec
@@ -81,10 +65,6 @@
 =-=-=-=-=
 23 Ford Escort Mexico [323]
 =-=-=-=-=
-
-23 ford f-100 302ci
-23 ford escort mexico
-23 ford escort mexico
 
 23 ford cortina crusader
 23 fiat 500 coupe
@@ -98,10 +78,6 @@
 21 Ford Escort XR3i [323]
 =-=-=-=-=
 
-23 audi coupe gt 5e (b2)
-24 volkswagen sharan
-24 rover p6
-
 24 renault laguna
 24 plymouth barracuda fastback
 24 mg mgc gt
@@ -113,10 +89,6 @@
 =-=-=-=-=
 31 Land Rover Suffix A [323]
 =-=-=-=-=
-
-24 ford fiesta
-24 ford fiesta
-24 fiat 500
 
 24 dodge regal lancer super d-500
 24 dodge d-100
@@ -130,10 +102,6 @@
 34 Rover SD1 [323]
 =-=-=-=-=
 
-25 volkswagen corrado
-25 smart fortwo coupe t
-25 mazda rx-7 convertible
-
 25 mazda rx-7 convertible
 25 lancia beta montecarlo
 25 ford falcon 'bathurst' cobra
@@ -145,10 +113,6 @@
 =-=-=-=-=
 31 Ford Escort RS2000 4WD [323]
 =-=-=-=-=
-
-26 mazda 2
-26 maserati indy
-26 maserati indy
 
 26 jaguar xj6
 26 ford thunderbird turbo coupe
