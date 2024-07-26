@@ -50,18 +50,6 @@
 26 Jaguar XJ6 [323]
 =-=-=-=-=
 
-11 renault 4
-11 renault 4
-11 gmc handi-van
-
-11 citroen m35
-13 citroen gs birotor
-14 chrysler valiant charger 770 (cl)
-
-14 chevrolet corvette corvair
-15 volkswagen polo
-15 vauxhal astra 1.4i
-
 16 de tomaso innocenti mini de tomaso
 16 audi 100 avant (c2)
 17 peugeot 505 break
@@ -73,10 +61,6 @@
 =-=-=-=-=
 32 Bristol 412 Series 2 [323]
 =-=-=-=-=
-
-27 skoda octavia hatchback 1.9 tdi pd
-27 nissan skyline hardtop 2000 gt-r (c10)
-27 nissan skyline hardtop 2000 gt-r (c10)
 
 27 nissan silvia
 27 nissan juke
@@ -95,32 +79,24 @@
 28 renault megane
 
 =-=-=-=-=
-40 Jaguar XK8 [323]
-=-=-=-=-=
-
-33 jaguar xj12
-33 honda legend 2.7 v6
-33 ford puma 1.0 mhev
-
-33 ford mustang mach 1 super cobra jet
-33 chrysler pacifica hybrid
-33 chevrolet monte carlo ss jeff gordon edition
-
-34 rover sd1
-34 mitsubishi eclipse cross
-34 mazda 323 mps
-
-34 lotus elan fhc
-34 lotus elan fhc
-34 lamborghini islero
-
-34 honda prelude type s
-34 dodge neon acr
-34 dodge neon acr
-
-=-=-=-=-=
 38 Ford Mondeo [323]
 =-=-=-=-=
+
+28 honda s-mx 4wd
+28 holden suburban
+28 dodge coronet super bee
+
+28 dodge conquest tsi
+28 dodge conquest tsi
+28 de tomaso deauville
+
+28 buick bolero
+28 bristol britannia
+28 bmw 635csi
+
+28 aston martin v8 volante
+28 aston martin v8 volante
+29 volvo 460 turbo
 
 =-=-=-=-=
 59 Citroen DS3 R3T [323]
