@@ -2,10 +2,6 @@
 47 Ford Fiesta ST [323]
 =-=-=-=-=
 
-31 range rover suffix a
-31 mercury capri rs
-31 mercury capri asc mclaren
-
 31 chevrolet volt
 32 renault avantime 3.0 v6
 32 fiat barchetta
@@ -13,10 +9,6 @@
 =-=-=-=-=
 34 TVR Tasmin 350i Convertible [323]
 =-=-=-=-=
-
-22 nissan exa turbo (n12)
-22 mazda kabura
-26 subaru leone
 
 26 chevrolet aveo
 26 cadillac eldorado
@@ -26,10 +18,6 @@
 48 Caterham Super Seven 600 [323]
 =-=-=-=-=
 
-33 morgan plus 8
-33 mg mgb gt v8
-33 mazda mx-5
-
 33 lancia fulvia coupe
 33 lamborghini islero s
 33 jaguar xj12
@@ -37,14 +25,6 @@
 =-=-=-=-=
 32 Bristol 412 Series 2 [332]
 =-=-=-=-=
-
-27 mitsubishi grandis
-27 ford telstar tx5 turbo
-27 ford fiesta 1.0
-
-27 fiat uno turbo
-27 citroen c5 tourer 2.2 hdi
-27 citroen c5 airscape
 
 27 bmw m535i
 28 volvo 440 turbo
@@ -82,9 +62,65 @@
 45 Land Rover Evoque SD4 [323]
 =-=-=-=-=
 
+33 ford mustang mach 1 super cobra jet
+33 chrysler pacifica hybrid
+33 chevrolet monte carlo ss jeff gordon edition
+
+34 rover sd1
+34 mitsubishi eclipse cross
+34 mazda 323 mps
+
+34 lotus elan fhc
+34 lotus elan fhc
+34 lamborghini islero
+
+34 honda prelude type s
+34 dodge neon acr
+34 dodge neon acr
+
 =-=-=-=-=
 40 Jaguar XK8 [323]
 =-=-=-=-=
+
+34 chevrolet malibu maxx
+34 chevrolet lacetti wtcc r+
+34 alfa romeo giulietta
+
+34 alfa romeo 90
+34 alfa romeo 90
+34 abarth 695 tributo maserati
+
+35 vauxhall carlton gsi3000 24v
+35 subaru legacy
+35 subaru legacy
+
+35 porsche 924
+35 porsche 924
+35 opel monza gse
+
+35 mini cooper sd
+35 mazda mx-5
+35 mazda axela sport 2.3
+
+=-=-=-=-=
+32 Aston Martin V8 [332]
+=-=-=-=-=
+
+29 vauxhall insignia 2.0 cdti
+29 renault sport megane 2.0 dci 175
+29 pontiac sunfire
+
+29 pontiac sunfire
+29 mitsubishi galant 2000 turbo eci
+29 hyundai nexo
+
+29 ford mustang mach 2
+29 ford mustang boss 302
+29 ford kuga 1.5
+
+29 ford kuga 1.5
+29 ford fiesta 1.0
+29 ford fiesta 1.0
 
 =-=-=-=-=
 38 Mazda Protege [323]
