@@ -10,10 +10,6 @@
 45 Land Rover Evoque SD4 [323]
 =-=-=-=-=
 
-34 lotus elan fhc
-34 lotus elan fhc
-34 lamborghini islero
-
 34 honda prelude type s
 34 dodge neon acr
 34 dodge neon acr
@@ -22,10 +18,6 @@
 40 Jaguar XK8 [323]
 =-=-=-=-=
 
-35 porsche 924
-35 porsche 924
-35 opel monza gse
-
 35 mini cooper sd
 35 mazda mx-5
 35 mazda axela sport 2.3
@@ -33,10 +25,6 @@
 =-=-=-=-=
 32 Aston Martin V8 [332]
 =-=-=-=-=
-
-29 ford mustang mach 2
-29 ford mustang boss 302
-29 ford kuga 1.5
 
 29 ford kuga 1.5
 29 ford fiesta 1.0
