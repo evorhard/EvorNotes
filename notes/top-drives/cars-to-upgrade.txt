@@ -1,50 +1,6 @@
 =-=-=-=-=
-47 Ford Fiesta ST [323]
-=-=-=-=-=
-
-31 chevrolet volt
-32 renault avantime 3.0 v6
-32 fiat barchetta
-
-=-=-=-=-=
-34 TVR Tasmin 350i Convertible [323]
-=-=-=-=-=
-
-26 chevrolet aveo
-26 cadillac eldorado
-27 volkswagen t-roc
-
-=-=-=-=-=
-48 Caterham Super Seven 600 [323]
-=-=-=-=-=
-
-33 lancia fulvia coupe
-33 lamborghini islero s
-33 jaguar xj12
-
-=-=-=-=-=
-32 Bristol 412 Series 2 [332]
-=-=-=-=-=
-
-27 bmw m535i
-28 volvo 440 turbo
-28 renault megane
-
-=-=-=-=-=
-38 Ford Mondeo [323]
-=-=-=-=-=
-
-28 aston martin v8 volante
-28 aston martin v8 volante
-29 volvo 460 turbo
-
-=-=-=-=-=
 59 Citroen DS3 R3T [323]
 =-=-=-=-=
-
-46 alfa romeo gt
-47 citroen ds3 cabrio racing
-48 porsche cayman
 
 48 ford fpv pursuit
 49 mitsubishi galant vr-4 type s
@@ -53,10 +9,6 @@
 =-=-=-=-=
 45 Land Rover Evoque SD4 [323]
 =-=-=-=-=
-
-34 rover sd1
-34 mitsubishi eclipse cross
-34 mazda 323 mps
 
 34 lotus elan fhc
 34 lotus elan fhc
@@ -70,10 +22,6 @@
 40 Jaguar XK8 [323]
 =-=-=-=-=
 
-35 vauxhall carlton gsi3000 24v
-35 subaru legacy
-35 subaru legacy
-
 35 porsche 924
 35 porsche 924
 35 opel monza gse
@@ -85,14 +33,6 @@
 =-=-=-=-=
 32 Aston Martin V8 [332]
 =-=-=-=-=
-
-29 vauxhall insignia 2.0 cdti
-29 renault sport megane 2.0 dci 175
-29 pontiac sunfire
-
-29 pontiac sunfire
-29 mitsubishi galant 2000 turbo eci
-29 hyundai nexo
 
 29 ford mustang mach 2
 29 ford mustang boss 302
