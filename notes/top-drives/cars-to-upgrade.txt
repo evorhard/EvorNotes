@@ -2,10 +2,6 @@
 32 Renault Kadjar [323]
 =-=-=-=-=
 
-20 volkswagen scirocco gti
-20 vauxhall tigra twintop
-20 vauxhall nova gte
-
 20 suzuki ertiga
 20 skoda citigo-e iv
 20 skoda citigo-e iv
@@ -25,10 +21,6 @@
 =-=-=-=-=
 32 Mazda MX-6 2.5 V6 [323]
 =-=-=-=-=
-
-20 chevrolet xp-897 gt
-20 chevrolet prizm (e110)
-21 volvo 740 gl saloon
 
 21 nissan patrol (type 60)
 21 hyundai pony coupe
@@ -50,10 +42,6 @@
 32 Chevrolet Lumina Z34 [323]
 =-=-=-=-=
 
-24 mazda demio 1.5
-24 citreon c5 saloon
-25 volvo 960 2.5 estate
-
 25 volkswagen golf
 25 mercury comet cyclone gt pace car
 25 chevrolet bel air
@@ -73,10 +61,6 @@
 =-=-=-=-=
 33 Nissan Terrano II [323]
 =-=-=-=-=
-
-29 renault wind
-29 maserati mistral
-29 ford focus 1.0
 
 29 ford focus 1.0
 29 ford fiesta rs1800
