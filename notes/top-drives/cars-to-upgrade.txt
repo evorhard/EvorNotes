@@ -2,10 +2,6 @@
 47 Ford Fiesta ST [323]
 =-=-=-=-=
 
-30 peugeot 206 cc
-30 mazda mx-5 rf
-30 mazda 6 2.0
-
 31 range rover suffix a
 31 mercury capri rs
 31 mercury capri asc mclaren
@@ -17,10 +13,6 @@
 =-=-=-=-=
 34 TVR Tasmin 350i Convertible [323]
 =-=-=-=-=
-
-21 hyundai stargazer 1.5 mpi
-21 ford fairlane 500
-21 chrysler sebring convertible
 
 22 nissan exa turbo (n12)
 22 mazda kabura
@@ -34,10 +26,6 @@
 48 Caterham Super Seven 600 [323]
 =-=-=-=-=
 
-33 skoda sunroq
-33 open manta 400
-33 morgan plus 8
-
 33 morgan plus 8
 33 mg mgb gt v8
 33 mazda mx-5
@@ -47,24 +35,8 @@
 33 jaguar xj12
 
 =-=-=-=-=
-26 Jaguar XJ6 [323]
+32 Bristol 412 Series 2 [332]
 =-=-=-=-=
-
-16 de tomaso innocenti mini de tomaso
-16 audi 100 avant (c2)
-17 peugeot 505 break
-
-17 morgan plus 4 super sports
-17 fiat 126p
-17 buick invicta
-
-=-=-=-=-=
-32 Bristol 412 Series 2 [323]
-=-=-=-=-=
-
-27 nissan silvia
-27 nissan juke
-27 mitsubishi starion turbo
 
 27 mitsubishi grandis
 27 ford telstar tx5 turbo
@@ -82,10 +54,6 @@
 38 Ford Mondeo [323]
 =-=-=-=-=
 
-28 honda s-mx 4wd
-28 holden suburban
-28 dodge coronet super bee
-
 28 dodge conquest tsi
 28 dodge conquest tsi
 28 de tomaso deauville
@@ -102,14 +70,6 @@
 59 Citroen DS3 R3T [323]
 =-=-=-=-=
 
-40 dodge charger r/t
-41 hyundai grandeur 3.0
-42 mitsubishi eclipse gs turbo
-
-42 mazda cosmo rotary turbo saloon
-44 chrysler aviat
-46 peugeot 405 t16
-
 46 alfa romeo gt
 47 citroen ds3 cabrio racing
 48 porsche cayman
@@ -117,6 +77,14 @@
 48 ford fpv pursuit
 49 mitsubishi galant vr-4 type s
 49 mazda 3 mps
+
+=-=-=-=-=
+45 Land Rover Evoque SD4 [323]
+=-=-=-=-=
+
+=-=-=-=-=
+40 Jaguar XK8 [323]
+=-=-=-=-=
 
 =-=-=-=-=
 38 Mazda Protege [323]
