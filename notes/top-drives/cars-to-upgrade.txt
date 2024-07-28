@@ -1,19 +1,119 @@
 =-=-=-=-=
-38 Mazda Protege [323]
+32 Renault Kadjar [323]
 =-=-=-=-=
 
-=-=-=-=-=
-49 Mitsubishi Galant VR-4 Type S [323]
-=-=-=-=-=
+20 volkswagen scirocco gti
+20 vauxhall tigra twintop
+20 vauxhall nova gte
+
+20 suzuki ertiga
+20 skoda citigo-e iv
+20 skoda citigo-e iv
+
+20 skoda citigo 1.0 mpi se l
+20 nissan wingroad aero sport limited (y11)
+20 mercedes-benz v 250d
+
+20 maserati sebring
+20 maserati 3500 gt
+20 lancia aurelia
+
+20 ginetta g26
+20 ford focus coupe-cabriolet
+20 ford c-max
 
 =-=-=-=-=
-44 Porsche Panamera Diesel 3.0 (970) [323]
+32 Mazda MX-6 2.5 V6 [323]
 =-=-=-=-=
 
-=-=-=-=-=
-45 Holden Commodore SV6 (VF) [323]
-=-=-=-=-=
+20 chevrolet xp-897 gt
+20 chevrolet prizm (e110)
+21 volvo 740 gl saloon
+
+21 nissan patrol (type 60)
+21 hyundai pony coupe
+22 subaru sumo
+
+22 nissan almera
+22 mazda hr-x
+22 chevrolet kingswood
+
+23 skoda atero
+23 saturn ion
+23 mercury cougar eliminator
+
+23 ford fairlane torino gt
+24 subaru legacy
+24 nissan 280zx turbo
 
 =-=-=-=-=
-42 Mitsubishi Galant VR-4 [323]
+32 Chevrolet Lumina Z34 [323]
 =-=-=-=-=
+
+24 mazda demio 1.5
+24 citreon c5 saloon
+25 volvo 960 2.5 estate
+
+25 volkswagen golf
+25 mercury comet cyclone gt pace car
+25 chevrolet bel air
+
+26 maserati indy
+26 buick century gran sport 455 stage 1
+27 nissan skyline hardtop 2000 gt-r (c10)
+
+27 citroen c-airdream
+28 vauxhall hp firenza
+28 mercury marauder
+
+28 mercury marauder
+28 ford escort rs2000
+28 buick encore
+
+=-=-=-=-=
+33 Nissan Terrano II [323]
+=-=-=-=-=
+
+29 renault wind
+29 maserati mistral
+29 ford focus 1.0
+
+29 ford focus 1.0
+29 ford fiesta rs1800
+29 ford fiesta rs1800
+
+29 ford fiesta 1.0
+29 ford capri rs3100
+29 ford capri 3.0 s
+
+29 fiat tipo 2.0 i.e. 16v
+29 fiat tipo 2.0 i.e. 16v
+29 fiat tipo 2.0 i.e. 16v
+
+29 fiat tipo 2.0 i.e. 16v
+29 fiat tempra 2.0 i.e. turbo
+29 fiat tempra 2.0 i.e. turbo
+
+=-=-=-=-=
+42 Mitsubishi HSR-IV [323]
+=-=-=-=-=
+
+30 subaru justy
+30 mercury mc4
+30 lamborghini urraco p250
+
+30 chevrolet corvette 396
+30 amc eagle wagon
+31 skoda octavia estate 1.8 t
+
+32 nissan primera
+33 vauxhall mokka 4x4
+33 maserati khamsin
+
+34 rover sd1
+34 alfa romeo 166
+35 maserati ghibli ss
+
+35 lotus elan sprint
+35 lincoln navigator
+35 land rover disvovery 3
