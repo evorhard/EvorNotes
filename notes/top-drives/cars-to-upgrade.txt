@@ -34,14 +34,6 @@
 38 Ford Mondeo [323]
 =-=-=-=-=
 
-28 dodge conquest tsi
-28 dodge conquest tsi
-28 de tomaso deauville
-
-28 buick bolero
-28 bristol britannia
-28 bmw 635csi
-
 28 aston martin v8 volante
 28 aston martin v8 volante
 29 volvo 460 turbo
@@ -62,10 +54,6 @@
 45 Land Rover Evoque SD4 [323]
 =-=-=-=-=
 
-33 ford mustang mach 1 super cobra jet
-33 chrysler pacifica hybrid
-33 chevrolet monte carlo ss jeff gordon edition
-
 34 rover sd1
 34 mitsubishi eclipse cross
 34 mazda 323 mps
@@ -81,14 +69,6 @@
 =-=-=-=-=
 40 Jaguar XK8 [323]
 =-=-=-=-=
-
-34 chevrolet malibu maxx
-34 chevrolet lacetti wtcc r+
-34 alfa romeo giulietta
-
-34 alfa romeo 90
-34 alfa romeo 90
-34 abarth 695 tributo maserati
 
 35 vauxhall carlton gsi3000 24v
 35 subaru legacy
