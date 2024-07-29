@@ -101,3 +101,7 @@
 35 lotus elan sprint
 35 lincoln navigator
 35 land rover disvovery 3
+
+=-=-=-=-=
+47 Renault R20 Turbo 4x4 [323]
+=-=-=-=-=
