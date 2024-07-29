@@ -2,10 +2,6 @@
 32 Renault Kadjar [323]
 =-=-=-=-=
 
-20 suzuki ertiga
-20 skoda citigo-e iv
-20 skoda citigo-e iv
-
 20 skoda citigo 1.0 mpi se l
 20 nissan wingroad aero sport limited (y11)
 20 mercedes-benz v 250d
@@ -21,10 +17,6 @@
 =-=-=-=-=
 32 Mazda MX-6 2.5 V6 [323]
 =-=-=-=-=
-
-21 nissan patrol (type 60)
-21 hyundai pony coupe
-22 subaru sumo
 
 22 nissan almera
 22 mazda hr-x
@@ -42,10 +34,6 @@
 32 Chevrolet Lumina Z34 [323]
 =-=-=-=-=
 
-25 volkswagen golf
-25 mercury comet cyclone gt pace car
-25 chevrolet bel air
-
 26 maserati indy
 26 buick century gran sport 455 stage 1
 27 nissan skyline hardtop 2000 gt-r (c10)
@@ -61,10 +49,6 @@
 =-=-=-=-=
 33 Nissan Terrano II [323]
 =-=-=-=-=
-
-29 ford focus 1.0
-29 ford fiesta rs1800
-29 ford fiesta rs1800
 
 29 ford fiesta 1.0
 29 ford capri rs3100
@@ -82,14 +66,6 @@
 42 Mitsubishi HSR-IV [323]
 =-=-=-=-=
 
-30 subaru justy
-30 mercury mc4
-30 lamborghini urraco p250
-
-30 chevrolet corvette 396
-30 amc eagle wagon
-31 skoda octavia estate 1.8 t
-
 32 nissan primera
 33 vauxhall mokka 4x4
 33 maserati khamsin
@@ -105,3 +81,39 @@
 =-=-=-=-=
 47 Renault R20 Turbo 4x4 [323]
 =-=-=-=-=
+
+35 dodge stealth
+35 citroen ds4 2.0 hdi
+35 chrysler 300 touring
+
+35 bmw x1
+35 bmw 333i
+35 aston martin db4 gt zagato
+
+36 volvo 740 turbo
+36 volvo 740 turbo
+36 porsche 928
+
+36 mitsubishi endeavor ralliart
+36 mazda mx-30 r-ev
+36 mazda mx-30 r-ev
+
+=-=-=-=-=
+38 Alfa Romeo 75 1.8 Turbo Evoluzione [323]
+=-=-=-=-=
+
+29 fiat dino spider
+29 chrysler conquest tsi
+29 buick lacrosse concept
+
+29 bmw z1
+29 bmw z1
+29 autozam z-1
+
+29 autozam z-1
+29 autozam z-1
+29 autozam z-1
+
+29 acura integra gs-r
+29 acura integra gs-r
+20 suzuki liana
