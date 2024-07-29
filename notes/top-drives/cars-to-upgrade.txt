@@ -82,18 +82,6 @@
 47 Renault R20 Turbo 4x4 [323]
 =-=-=-=-=
 
-35 dodge stealth
-35 citroen ds4 2.0 hdi
-35 chrysler 300 touring
-
-35 bmw x1
-35 bmw 333i
-35 aston martin db4 gt zagato
-
-36 volvo 740 turbo
-36 volvo 740 turbo
-36 porsche 928
-
 36 mitsubishi endeavor ralliart
 36 mazda mx-30 r-ev
 36 mazda mx-30 r-ev
