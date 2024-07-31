@@ -1,34 +1,6 @@
 =-=-=-=-=
-32 Renault Kadjar [323]
-=-=-=-=-=
-
-20 ginetta g26
-20 ford focus coupe-cabriolet
-20 ford c-max
-
-=-=-=-=-=
-32 Mazda MX-6 2.5 V6 [323]
-=-=-=-=-=
-
-23 ford fairlane torino gt
-24 subaru legacy
-24 nissan 280zx turbo
-
-=-=-=-=-=
-32 Chevrolet Lumina Z34 [323]
-=-=-=-=-=
-
-28 mercury marauder
-28 ford escort rs2000
-28 buick encore
-
-=-=-=-=-=
 33 Nissan Terrano II [323]
 =-=-=-=-=
-
-29 fiat tipo 2.0 i.e. 16v
-29 fiat tipo 2.0 i.e. 16v
-29 fiat tipo 2.0 i.e. 16v
 
 29 fiat tipo 2.0 i.e. 16v
 29 fiat tempra 2.0 i.e. turbo
@@ -38,10 +10,6 @@
 42 Mitsubishi HSR-IV [323]
 =-=-=-=-=
 
-34 rover sd1
-34 alfa romeo 166
-35 maserati ghibli ss
-
 35 lotus elan sprint
 35 lincoln navigator
 35 land rover disvovery 3
@@ -50,14 +18,6 @@
 38 Alfa Romeo 75 1.8 Turbo Evoluzione [323]
 =-=-=-=-=
 
-29 fiat dino spider
-29 chrysler conquest tsi
-29 buick lacrosse concept
-
-29 bmw z1
-29 bmw z1
-29 autozam z-1
-
 29 autozam z-1
 29 autozam z-1
 29 autozam z-1
@@ -65,3 +25,23 @@
 29 acura integra gs-r
 29 acura integra gs-r
 20 suzuki liana
+
+=-=-=-=-=
+43 Mazda MX-5 10th Anniversary (NB) [323]
+=-=-=-=-=
+
+34 abarth 695 tributo maserati
+35 volkswagen golf vr6
+35 vauxhall carlton gsi3000 24v
+
+35 mazda mx-5
+35 lotus elan sprint
+35 ford taurus sho
+
+35 alfa romeo 75 6v 3.0 america
+36 mazda mx-3 v6
+36 maserati biturbo s
+
+36 hyundai sonata phev
+36 holden hsv maloo (vs)
+36 holden astra sri turbo (ah)
