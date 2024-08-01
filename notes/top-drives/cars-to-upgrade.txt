@@ -26,10 +26,6 @@
 47 Ram 2500 Rebel [323]
 =-=-=-=-=
 
-36 citroen sm michelin 'breadvan'
-36 chrysler ecovoyager
-36 audi tt roadster 1.8 tfsi (8j)
-
 37 pontiac g6
 37 nissan primera egt
 37 nissan juke nismo
@@ -74,10 +70,6 @@
 10 Alfa Romeo Sprint GT [323]
 =-=-=-=-=
 
-10 skoda 422
-10 citroen 2cv sahara 4x4
-11 renault rodeo
-
 12 abarth 1500 biposto
 13 volvo 264 te
 13 subaru 360
@@ -97,10 +89,6 @@
 =-=-=-=-=
 10 Alfa Romeo Spider (S3) [323]
 =-=-=-=-=
-
-15 vauxhall astra 1.4i
-15 smart crossblade
-15 renault 18
 
 15 dodge ram van street van
 15 citroen c-zero
