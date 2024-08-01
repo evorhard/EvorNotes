@@ -70,10 +70,6 @@
 10 Alfa Romeo Sprint GT [323]
 =-=-=-=-=
 
-12 abarth 1500 biposto
-13 volvo 264 te
-13 subaru 360
-
 13 subaru 360
 13 lincoln town car
 13 alfa romeo sprint gtv
@@ -90,10 +86,6 @@
 10 Alfa Romeo Spider (S3) [323]
 =-=-=-=-=
 
-15 dodge ram van street van
-15 citroen c-zero
-15 chrysler lebaron town & country station wagon
-
 15 chrysler lebaron town & country station wagon
 15 chevrolet el camino
 16 volkswagen sharan
@@ -109,14 +101,6 @@
 =-=-=-=-=
 10 Alfa Romeo Spider (S1) [323]
 =-=-=-=-=
-
-16 cadillac cyclone
-17 smart fortwo
-17 morgan plus 4 super sports
-
-17 hyundai staria 2.2 crdi
-17 fiat campagnola
-17 chevrolet corvette impala xp-101
 
 18 tvr tasmin 200 convertible
 18 mazda cosmo 1800 coupe
