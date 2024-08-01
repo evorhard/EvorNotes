@@ -1,26 +1,6 @@
 =-=-=-=-=
-33 Nissan Terrano II [323]
-=-=-=-=-=
-
-29 fiat tipo 2.0 i.e. 16v
-29 fiat tempra 2.0 i.e. turbo
-29 fiat tempra 2.0 i.e. turbo
-
-=-=-=-=-=
-42 Mitsubishi HSR-IV [323]
-=-=-=-=-=
-
-35 lotus elan sprint
-35 lincoln navigator
-35 land rover disvovery 3
-
-=-=-=-=-=
 38 Alfa Romeo 75 1.8 Turbo Evoluzione [323]
 =-=-=-=-=
-
-29 autozam z-1
-29 autozam z-1
-29 autozam z-1
 
 29 acura integra gs-r
 29 acura integra gs-r
@@ -30,14 +10,6 @@
 43 Mazda MX-5 10th Anniversary (NB) [323]
 =-=-=-=-=
 
-34 abarth 695 tributo maserati
-35 volkswagen golf vr6
-35 vauxhall carlton gsi3000 24v
-
-35 mazda mx-5
-35 lotus elan sprint
-35 ford taurus sho
-
 35 alfa romeo 75 6v 3.0 america
 36 mazda mx-3 v6
 36 maserati biturbo s
@@ -45,3 +17,127 @@
 36 hyundai sonata phev
 36 holden hsv maloo (vs)
 36 holden astra sri turbo (ah)
+
+36 ginetta g40 junior
+36 ford focus
+36 citroen sm michelin 'breadvan'
+
+=-=-=-=-=
+47 Ram 2500 Rebel [323]
+=-=-=-=-=
+
+36 citroen sm michelin 'breadvan'
+36 chrysler ecovoyager
+36 audi tt roadster 1.8 tfsi (8j)
+
+37 pontiac g6
+37 nissan primera egt
+37 nissan juke nismo
+
+37 nissan juke nismo
+37 lotus elan
+37 lincoln navigator
+
+37 hyundai elantra 2.0 mpi
+37 dodge stratus r/t coupe
+37 chevrolet k1500 blazer
+
+37 buick velite 6 phev
+37 buick grand national
+37 buick excelle gt 18t
+
+=-=-=-=-=
+37 BMW 330d [323]
+=-=-=-=-=
+
+20 suzuki celerio
+20 mercedes-benz 300 sl
+20 maserati sebring
+
+20 geo storm hatchback
+20 chrysler new yorker
+20 buick park avenue essence
+
+21 mercedes-benz a 180 cdi
+21 fiat punto
+21 chevrolet lacetti
+
+21 alfa romeo spider quadrifoglio verde
+22 volkswagen passat
+22 nissan exa turbo (n12)
+
+22 mazda demio ev
+22 ford mustang 289
+22 ford fiesta xr2i
+
+=-=-=-=-=
+10 Alfa Romeo Sprint GT [323]
+=-=-=-=-=
+
+10 skoda 422
+10 citroen 2cv sahara 4x4
+11 renault rodeo
+
+12 abarth 1500 biposto
+13 volvo 264 te
+13 subaru 360
+
+13 subaru 360
+13 lincoln town car
+13 alfa romeo sprint gtv
+
+14 renault 14
+14 renault 14
+14 nissan skyline 2000 gt-el (c210)
+
+14 citroen e-mehari
+14 chrysler valiant charger 770 (cl)
+15 volkswagen golf
+
+=-=-=-=-=
+10 Alfa Romeo Spider (S3) [323]
+=-=-=-=-=
+
+15 vauxhall astra 1.4i
+15 smart crossblade
+15 renault 18
+
+15 dodge ram van street van
+15 citroen c-zero
+15 chrysler lebaron town & country station wagon
+
+15 chrysler lebaron town & country station wagon
+15 chevrolet el camino
+16 volkswagen sharan
+
+16 oldsmobile toronado
+16 morgan plus 4
+16 holden limited edition coupe (hx)
+
+16 fiat 131 mirafiori
+16 de tomaso innocenti mini de tomaso
+16 chrysler by chrysler (cj)
+
+=-=-=-=-=
+10 Alfa Romeo Spider (S1) [323]
+=-=-=-=-=
+
+16 cadillac cyclone
+17 smart fortwo
+17 morgan plus 4 super sports
+
+17 hyundai staria 2.2 crdi
+17 fiat campagnola
+17 chevrolet corvette impala xp-101
+
+18 tvr tasmin 200 convertible
+18 mazda cosmo 1800 coupe
+18 fiat multipla
+
+18 fiat multipla
+18 chevrolet tahoe
+19 volvo 760 2.4d estate
+
+19 volvo 343 r-sport
+19 subaru r2
+19 saturn relay
