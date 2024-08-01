@@ -70,10 +70,6 @@
 10 Alfa Romeo Sprint GT [323]
 =-=-=-=-=
 
-13 subaru 360
-13 lincoln town car
-13 alfa romeo sprint gtv
-
 14 renault 14
 14 renault 14
 14 nissan skyline 2000 gt-el (c210)
@@ -86,10 +82,6 @@
 10 Alfa Romeo Spider (S3) [323]
 =-=-=-=-=
 
-15 chrysler lebaron town & country station wagon
-15 chevrolet el camino
-16 volkswagen sharan
-
 16 oldsmobile toronado
 16 morgan plus 4
 16 holden limited edition coupe (hx)
@@ -101,10 +93,6 @@
 =-=-=-=-=
 10 Alfa Romeo Spider (S1) [323]
 =-=-=-=-=
-
-18 tvr tasmin 200 convertible
-18 mazda cosmo 1800 coupe
-18 fiat multipla
 
 18 fiat multipla
 18 chevrolet tahoe
