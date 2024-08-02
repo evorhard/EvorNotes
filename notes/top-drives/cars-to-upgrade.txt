@@ -30,10 +30,6 @@
 37 BMW 330d [323]
 =-=-=-=-=
 
-20 suzuki celerio
-20 mercedes-benz 300 sl
-20 maserati sebring
-
 20 geo storm hatchback
 20 chrysler new yorker
 20 buick park avenue essence
@@ -49,3 +45,23 @@
 22 mazda demio ev
 22 ford mustang 289
 22 ford fiesta xr2i
+
+=-=-=-=-=
+36 Ford Mondeo 2.0 TDCI [323]
+=-=-=-=-=
+
+23 tvr taimar
+23 tvr 280i
+23 tvr 280i
+
+23 saturn ion
+23 peugeot 504 coupe
+23 peugeot 504 coupe
+
+23 mercury cougar xr-7
+23 ford fairlane torino gt
+23 ford escort mexico
+
+23 dodge colt vista awd
+23 chrysler sebring
+24 plymouth fury
