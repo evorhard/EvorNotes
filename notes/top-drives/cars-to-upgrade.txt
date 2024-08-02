@@ -70,10 +70,6 @@
 10 Alfa Romeo Sprint GT [323]
 =-=-=-=-=
 
-14 renault 14
-14 renault 14
-14 nissan skyline 2000 gt-el (c210)
-
 14 citroen e-mehari
 14 chrysler valiant charger 770 (cl)
 15 volkswagen golf
@@ -82,10 +78,6 @@
 10 Alfa Romeo Spider (S3) [323]
 =-=-=-=-=
 
-16 oldsmobile toronado
-16 morgan plus 4
-16 holden limited edition coupe (hx)
-
 16 fiat 131 mirafiori
 16 de tomaso innocenti mini de tomaso
 16 chrysler by chrysler (cj)
@@ -93,10 +85,6 @@
 =-=-=-=-=
 10 Alfa Romeo Spider (S1) [323]
 =-=-=-=-=
-
-18 fiat multipla
-18 chevrolet tahoe
-19 volvo 760 2.4d estate
 
 19 volvo 343 r-sport
 19 subaru r2
