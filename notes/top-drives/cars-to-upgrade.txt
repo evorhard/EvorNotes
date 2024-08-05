@@ -1,18 +1,6 @@
 =-=-=-=-=
-43 Mazda MX-5 10th Anniversary (NB) [323]
-=-=-=-=-=
-
-36 ginetta g40 junior
-36 ford focus
-36 citroen sm michelin 'breadvan'
-
-=-=-=-=-=
 47 Ram 2500 Rebel [323]
 =-=-=-=-=
-
-37 hyundai elantra 2.0 mpi
-37 dodge stratus r/t coupe
-37 chevrolet k1500 blazer
 
 37 buick velite 6 phev
 37 buick grand national
@@ -21,10 +9,6 @@
 =-=-=-=-=
 37 BMW 330d [323]
 =-=-=-=-=
-
-23 tvr taimar
-23 tvr 280i
-23 tvr 280i
 
 21 alfa romeo spider quadrifoglio verde
 22 volkswagen passat
@@ -38,14 +22,6 @@
 36 Ford Mondeo 2.0 TDCI [323]
 =-=-=-=-=
 
-21 mercedes-benz a 180 cdi
-21 fiat punto
-21 chevrolet lacetti
-
-23 saturn ion
-23 peugeot 504 coupe
-23 peugeot 504 coupe
-
 23 mercury cougar xr-7
 23 ford fairlane torino gt
 23 ford escort mexico
@@ -57,10 +33,6 @@
 =-=-=-=-=
 49 Infiniti G37 IPL [323]
 =-=-=-=-=
-
-37 abarth punto evo esseesse
-38 volov v70 t5
-38 volkswagen jetta
 
 38 volkswagen golf
 38 volkswagen golf
