@@ -1,46 +1,6 @@
 =-=-=-=-=
-47 Ram 2500 Rebel [323]
-=-=-=-=-=
-
-37 buick velite 6 phev
-37 buick grand national
-37 buick excelle gt 18t
-
-=-=-=-=-=
-37 BMW 330d [323]
-=-=-=-=-=
-
-21 alfa romeo spider quadrifoglio verde
-22 volkswagen passat
-22 nissan exa turbo (n12)
-
-22 mazda demio ev
-22 ford mustang 289
-22 ford fiesta xr2i
-
-=-=-=-=-=
-36 Ford Mondeo 2.0 TDCI [323]
-=-=-=-=-=
-
-23 mercury cougar xr-7
-23 ford fairlane torino gt
-23 ford escort mexico
-
-23 dodge colt vista awd
-23 chrysler sebring
-24 plymouth fury
-
-=-=-=-=-=
 49 Infiniti G37 IPL [323]
 =-=-=-=-=
-
-38 volkswagen golf
-38 volkswagen golf
-38 volkswagen golf
-
-38 opel gt
-38 mg montego turbo
-38 mercedes-benz slk 200
 
 38 mercedes-benz 300 ce-24
 38 mazdaspeed protege
@@ -50,18 +10,62 @@
 39 Chrysler 200 Convertible [323]
 =-=-=-=-=
 
-24 citreon c3-xr
-24 chevrolet cruze sw
-24 chevrolet bel air
-
-24 buick skylark gs coupe
-24 alfa romeo alfa 6
-25 volkswagen touran
-
-25 volkswagen golf
-25 vauxhall corsa 1.4si
-25 skoda fabia hatchback 1.0 tsi
-
 25 rover 400
 25 nissan datsun sports 2000
 25 mazda luce v6 3000 royal classic
+
+=-=-=-=-=
+36 Subaru Leone [323]
+=-=-=-=-=
+
+25 citroen c-elysee
+25 citroen c5 hpi
+25 chevrolet impala ss 427
+
+25 buick riviera gran sport
+25 buick gs 400
+26 volvo 240 glt
+
+26 vauxhall senator
+26 subaru leone
+26 skoda slavia
+
+=-=-=-=-=
+47 Dodge Venom [323]
+=-=-=-=-=
+
+38 chevrolet bolt euv
+38 bristol 411 series 6
+39 pontiac vibe gt
+
+39 nissan silvia k's (s14a)
+39 mazdaspeed mx-5 miata
+39 lotus seven twin-cam ss
+
+39 lotus esprit
+39 lotus elan se
+39 hyundai i3 1.5 t-gdi
+
+39 holden astra sri turbo (ts)
+39 holden astra sri turbo (ts)
+39 gmc envoy
+
+=-=-=-=-=
+34 Volkswagen Jetta [323]
+=-=-=-=-=
+
+26 nissan silvia
+26 moran plus 4
+26 mitsubishi colt gti-16v
+
+26 mazda cosmo
+26 chevrolet nova ss 327 coupe
+26 chevrolet aveo
+
+27 volkswagen t-roc
+27 renault koleos
+27 porsche 911
+
+27 mazda cx-5
+27 mazda cx-5
+27 hyundai getz 1.6 sport
