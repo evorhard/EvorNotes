@@ -69,3 +69,43 @@
 27 mazda cx-5
 27 mazda cx-5
 27 hyundai getz 1.6 sport
+
+=-=-=-=-=
+11 Fiat 8V Supersonic [332]
+=-=-=-=-=
+
+12 citroen ax electrique
+13 renault 5
+13 renault 5
+
+13 cadillac el camino
+13 alfa romeo giulia gt 1300 junior
+14 nissan datsun sunny (b10)
+
+14 lancia y10
+14 buick roadmaster
+15 hyundai pony 1200 pickup
+
+15 chrysler lebaron town & country station wagon
+15 chevrolet el camino
+15 buick gl8
+
+=-=-=-=-=
+11 Alfa Romeo Giulia Nuova Super 1600 [323]
+=-=-=-=-=
+
+16 buick lucerne concept
+16 buick lucerne concept
+16 buick estate wagon
+
+16 alfa romeo junior z
+17 dodge 1500 gt 90
+18 tvr tasmin 200 convertible
+
+18 oldsmobile starfire
+19 pontiac 6000 ste awd
+19 oldsmobile cutlass
+
+19 oldsmobile cutlass
+19 fiat punto cabriolet
+19 fiat punto cabriolet
