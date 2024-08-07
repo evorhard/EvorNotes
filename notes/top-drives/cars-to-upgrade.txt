@@ -1,26 +1,6 @@
 =-=-=-=-=
-49 Infiniti G37 IPL [323]
-=-=-=-=-=
-
-38 mercedes-benz 300 ce-24
-38 mazdaspeed protege
-38 mazda bt-50 3.0d
-
-=-=-=-=-=
-39 Chrysler 200 Convertible [323]
-=-=-=-=-=
-
-25 rover 400
-25 nissan datsun sports 2000
-25 mazda luce v6 3000 royal classic
-
-=-=-=-=-=
 36 Subaru Leone [323]
 =-=-=-=-=
-
-25 citroen c-elysee
-25 citroen c5 hpi
-25 chevrolet impala ss 427
 
 25 buick riviera gran sport
 25 buick gs 400
@@ -33,10 +13,6 @@
 =-=-=-=-=
 47 Dodge Venom [323]
 =-=-=-=-=
-
-38 chevrolet bolt euv
-38 bristol 411 series 6
-39 pontiac vibe gt
 
 39 nissan silvia k's (s14a)
 39 mazdaspeed mx-5 miata
@@ -54,10 +30,6 @@
 34 Volkswagen Jetta [323]
 =-=-=-=-=
 
-26 nissan silvia
-26 moran plus 4
-26 mitsubishi colt gti-16v
-
 26 mazda cosmo
 26 chevrolet nova ss 327 coupe
 26 chevrolet aveo
@@ -74,10 +46,6 @@
 11 Fiat 8V Supersonic [332]
 =-=-=-=-=
 
-12 citroen ax electrique
-13 renault 5
-13 renault 5
-
 13 cadillac el camino
 13 alfa romeo giulia gt 1300 junior
 14 nissan datsun sunny (b10)
@@ -93,10 +61,6 @@
 =-=-=-=-=
 11 Alfa Romeo Giulia Nuova Super 1600 [323]
 =-=-=-=-=
-
-16 buick lucerne concept
-16 buick lucerne concept
-16 buick estate wagon
 
 16 alfa romeo junior z
 17 dodge 1500 gt 90
