@@ -2,10 +2,6 @@
 36 Subaru Leone [323]
 =-=-=-=-=
 
-25 buick riviera gran sport
-25 buick gs 400
-26 volvo 240 glt
-
 26 vauxhall senator
 26 subaru leone
 26 skoda slavia
@@ -13,10 +9,6 @@
 =-=-=-=-=
 47 Dodge Venom [323]
 =-=-=-=-=
-
-39 nissan silvia k's (s14a)
-39 mazdaspeed mx-5 miata
-39 lotus seven twin-cam ss
 
 39 lotus esprit
 39 lotus elan se
@@ -30,10 +22,6 @@
 34 Volkswagen Jetta [323]
 =-=-=-=-=
 
-26 mazda cosmo
-26 chevrolet nova ss 327 coupe
-26 chevrolet aveo
-
 27 volkswagen t-roc
 27 renault koleos
 27 porsche 911
@@ -43,25 +31,45 @@
 27 hyundai getz 1.6 sport
 
 =-=-=-=-=
-11 Fiat 8V Supersonic [332]
+47 Nissan 300ZX Twin Turbo (Z32) [323]
 =-=-=-=-=
 
-14 lancia y10
-14 buick roadmaster
-15 hyundai pony 1200 pickup
+39 alpine gta v6 turbo le mans
+39 alpine gta v6 turbo le mans
+39 alpine a110
 
-15 chrysler lebaron town & country station wagon
-15 chevrolet el camino
-15 buick gl8
+39 ac brooklands ace
+30 range rover suffix a
+30 mitsubishi lancer sportback
+
+30 mercees-benz 500 sl
+30 mazdaspeed familia
+30 jaguar xj12
+
+30 jaguar xj12
+30 fiat turbina
+30 chevrolet chevelle
 
 =-=-=-=-=
-11 Alfa Romeo Giulia Nuova Super 1600 [323]
+36 Nissan Almera GTI [323]
 =-=-=-=-=
 
-18 oldsmobile starfire
-19 pontiac 6000 ste awd
-19 oldsmobile cutlass
+27 honda civic hybrid
+27 holden piazza turbo
+27 citroen c-airdream
 
-19 oldsmobile cutlass
-19 fiat punto cabriolet
-19 fiat punto cabriolet
+27 citroen bx gti 4x4
+27 citroen bx gti 4x4
+27 buick park avenue
+
+27 bristol britannia
+28 volvo 440 turbo
+28 vauxhall hp firenza
+
+28 tvr 3000m
+28 tvr 3000m
+28 renault megane
+
+28 peugeot e-2008 gt
+28 oldsmobile cutlass s sport coupe
+28 lancia beta coupe volumex
